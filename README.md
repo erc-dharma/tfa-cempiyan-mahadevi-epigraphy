@@ -5,6 +5,9 @@
 DHARMA project Task Force A Tamil Nadu, South India, Cempiyaṉ Mahādevī epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
 
+# Cempiyaṉ Mahādevi's inscriptions in other repositories
+DHARMA_INSPandya000001 = SII 19, n° 292, from Tirukkōṭikkāval
+
 ## Help and Guides
 * A Guide for Git is provided in the [project documentation repository](https://github.com/erc-dharma/project-documentation) at [DHARMA_Git_guide_v01.md](https://github.com/erc-dharma/project-documentation/blob/master/guides/git/DHARMA_git_guide_v01.md)
 * DHARMA encoding guide is available under [encoding-diplomatic](https://github.com/erc-dharma/project-documentation/tree/master/guides/encoding-diplomatic), but we recommend you to use the [google doc version](https://docs.google.com/document/d/1hjWrrwRZQp4hmEqw4jBhhqoXdwJvRlw3EWboJteOPw0/edit?usp=sharing) to access the latest edits.
