@@ -5,7 +5,7 @@
 DHARMA project Task Force A Tamil Nadu, South India, Cempiyaṉ Mahādevī epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
 
-# Cempiyaṉ Mahādevi's inscriptions in other repositories
+## Cempiyaṉ Mahādevi's inscriptions in other repositories
 * DHARMA_INSPandya000001 = SII 19, n° 292, from Tirukkōṭikkāval.
 
 ## Help and Guides
