@@ -80,7 +80,7 @@
 	<div type="edition" xml:lang="tam">
 
 <ab>
-	<lb n="01"/><hi rend="grantha">svasti śrī</hi> <g type="symbol" subtype="equalSign"/>
+	<lb n="01"/><hi rend="grantha">svasti śrī</hi> {{=}}
 </ab> 
 
 <p>
@@ -88,7 +88,7 @@
 <lb n="2" break="no"/>r tammuṭaiya tirumakaṉār <hi rend="grantha">śrīmadhu</hi>rāntakatēvarāṉa <hi rend="grantha">śrī</hi>Uttamacōḻar tiru<hi rend="grantha">rājya</hi>ñ ceyta
 <lb n="3" break="no"/>ruḷāniṟkat tam<orig>m</orig>uṭaiyār <hi rend="grantha">śrī</hi>kaṇṭarā<hi rend="grantha">di</hi>tta<hi rend="grantha">de</hi>var tirunāmattāl tirunallamuṭaiyārk=ku-
 <lb n="4" break="no"/>t tirukkaṟṟaḷi Eḻuntaruḷuvittu Ittirukkaṟṟaḷiyilēy tirunallamuṭaiyārait tiruvaṭit to
-<lb n="5" break="no"/>⌉ḻukiṉṟār āka Eḻuntaruḷuvitta <hi rend="grantha">śrī</hi>kaṇṭarā<hi rend="grantha">di</hi>tta<hi rend="grantha">de</hi>var Ivar <g type="symbol" subtype="finalGomutra"/><g type="symbol" subtype="finalGomutra"/><g type="symbol" subtype="finalGomutra"/><unclear><g type="symbol" subtype="finalGomutra"/></unclear>	
+<lb n="5" break="no"/>⌉ḻukiṉṟār āka Eḻuntaruḷuvitta <hi rend="grantha">śrī</hi>kaṇṭarā<hi rend="grantha">di</hi>tta<hi rend="grantha">de</hi>var Ivar {{gomūtra series}}	
 </p>
 		
 	</div>
@@ -137,16 +137,16 @@ This edition by Nicolas Cane (2020), based on autopsy and photographs.
         			<citedRange unit="plate">XI</citedRange>
         		</bibl>
         		
-        		<bibl n="SII">SII 32</bibl> <!--update!-->
+        		<!--<bibl n="SII">SII 32</bibl>
         		
-        		<bibl n="NC">Cane PhD</bibl> <!--update!-->
+        		<bibl n="NC">Cane PhD</bibl>-->
         		        	
 </listBibl>
         	
-        	<listBibl type="secondary">
-              <bibl>ARIE 1909/626</bibl> <!--update!-->
-           </listBibl>
-        
+<!--<listBibl type="secondary">
+   <bibl>ARIE 1909/626</bibl> <!-\-update!-\->
+</listBibl>-->
+           
         </div>
       </body>
   </text>
