@@ -15,6 +15,10 @@
 						<forename>Nicolas</forename>
 						<surname>Cane</surname>
 					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -73,7 +77,7 @@
 	</teiHeader>
 
 
-	<text xml:space="preserve">
+<text xml:space="preserve">
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
@@ -85,7 +89,7 @@
 	<p>
 		<lb n="1"/><hi rend="grantha">śrī</hi>-kaṇṭarā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var tēviyār mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ mātēviyā
 		<lb n="2" break="no"/>r ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiya tiru-makaṉār <hi rend="grantha">śrī-madhu</hi>rāntaka-tēvar-āṉa <hi rend="grantha">śrī</hi>-Uttama-cōḻar tiru-<hi rend="grantha">rājya</hi>ñ ceyta
-		<lb n="3" break="no"/>ruḷā niṟka-t ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiyār <hi rend="grantha">śrī</hi>-kaṇṭarā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var tiru-nāmattāl tiru-nallam-uṭaiyārk=ku-
+		<lb n="3" break="no"/>ruḷā niṟka-t ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiyār <hi rend="grantha">śrī</hi>-kaṇṭarā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var tiru-nāmattāl tiru-nallam-uṭaiyārk=ku
 		<lb n="4" break="no"/>-t tiru-k-kaṟṟaḷi Eḻuntaruḷuvittu It-tiru-k-kaṟṟaḷiyilēy tiru-nallam-uṭaiyārai-t tiruvaṭi-t to
 		<lb n="5" break="no"/>ḻukiṉṟār āka Eḻuntaruḷuvitta <hi rend="grantha">śrī</hi>-kaṇṭarā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var Ivar <g type="gomutraFinal">§§§§</g><unclear><g type="gomutraFinal">§</g></unclear>   
 		
@@ -106,26 +110,47 @@
 		</listApp>         
 
 	</div>
+
+
+<div type="translation" resp="part:emfr">
 	
-	<div type="translation" resp="part:nica">
-		<!--translation encoded as per EG §9.2 -->
-	</div>
+	<p n="01">
+		Prosperity! Fortune!
+	</p>
 	
-	<div type="translation" xml:lang="fra" resp="part:nica">
-		<!--translation encoded as per EG §9.2 -->
+	<p n="1-5">
+		While the glorious Uttama Cōḻa — <hi rend="italic">alias</hi> the glorious king Madhurāntaka, the glorious son of the glorious Cempiyaṉ Mātēvi, <hi rend="italic">alias</hi> the honourable great queen <supplied reason="explanation"><foreign>mā-tēvaṭikaḷār</foreign></supplied>, queen <supplied reason="explanation"><foreign>tēviyār</foreign></supplied> of the the glorious king Gaṇḍarāditya — was continuosuly graciously exercising the glorious rule
+		<supplied reason="subaudible">she<note>That is, Cempiyaṉ Mātēvi.</note></supplied> having had graciously a glorious stone temple for the Lord of Tirunallam raised in the name of the glorious king Gaṇḍarāditya,
+		this<note>That is, the stone sulpture above the inscription.</note> <supplied reason="subaudible">is</supplied> the glorious king Gaṇḍarāditya that <supplied reason="subaudible">she<note>That is, Cempiyaṉ Mātēvi.</note></supplied> had graciously raised<note>That is, "installed".</note>, so that he<note>That is, Gaṇḍarāditya.</note> keeps worshipping the glorious feet of the Lord of Tirunallam in this glorious stone temple.
+	</p>
+</div>
+		
+<div type="translation" source="bib:KrishnaSastri1920_01">
+	
+	<p>
+		Hail! Prosperity! Mātēvaṭikaḷār <hi rend="italic">alias</hi> the glorious Cempiyaṉ Mātēviyār, queen of Gaṇḍarādityadeva, constructed in the sacred name of her husband <supplied reason="subaudible">viz.,</supplied> the glorious Gaṇḍarādityadeva, a stone temple to the lord <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, the god</supplied> of Tirunallam <supplied reason="subaudible">at the time</supplied> when her illustrious son, <hi rend="italic">i.e.</hi>, the glorious Madhurāntakadeva <hi rend="italic">alias</hi> the glorious Uttama-Coḷa, was graciously ruling. This is <supplied reason="subaudible">the image of</supplied> the glorious Gaṇḍarādityadeva which was <supplied reason="subaudible">caused to be</supplied> made in this sacred stone temple in the posture of worshipping the sacred feet of the lord <supplied reason="subaudible"><hi rend="italic">i.e.</hi>, the god</supplied> of Tirunallam. 
+	</p>
+	
+</div>
+	
+<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+	
+	<p>Succès ! Prospérité ! La vénérable Mātēvaṭikaḷ épouse de Sa Majesté le Roi Kaṇṭarādittar <hi rend="italic">alias</hi> Sa Majesté la vénérable Cempiyaṉ-Mātēvi ayant accompli la grâce de faire élever <supplied reason="explanation"><foreign>eḻuntaruḷu-vittu</foreign></supplied> pour le Seigneur du glorieux <supplied reason="subaudible">site de</supplied> Nallam <supplied reason="explanation"><foreign>tiru-nallam-uṭaiyār</foreign></supplied> le divin temple de pierre <supplied reason="explanation"><foreign>tiru-k-kaṟṟaḷi</foreign></supplied> au nom béni <supplied reason="explanation"><foreign>tiru-nāmattāl</foreign></supplied> de son vénérable époux <supplied reason="explanation"><foreign>tam-muṭaiyār</foreign></supplied>,
+Sa Majesté le Roi Kaṇṭarādittar, tandis que son fils béni <supplied reason="explanation"><foreign>tam-muṭaiya
+tiru-makaṉār</foreign></supplied>, Sa Majesté le Roi Madhurāntaka <hi rend="italic">alias</hi> le glorieux Uttama-Cōḻa, accomplit la grâce d'exercer <supplied reason="subaudible">son</supplied> règne prospère <supplied reason="explanation"><foreign>tiru-rājyañ ceytaruḷā niṟka</foreign></supplied>, celui-ci <supplied reason="explanation"><foreign>ivar</foreign></supplied> <supplied reason="subaudible">est</supplied>] Sa Majesté le Roi Kaṇṭarādittar qu'<supplied reason="subaudible">elle</supplied>a fait apparaître gracieusement <supplied reason="explanation"><foreign>eḻuntaruḷuvitta</foreign></supplied> en train d'adorer les pieds sacrés du Seigneur du glorieux Nallam <supplied reason="explanation"><foreign>tiru-nallam-uṭaiyārai-t tiru-v-aṭi-t toḻukiṉṟāka</foreign></supplied> au sein de ce même divin temple de pierre <supplied reason="explanation"><foreign>i-t-tiru-k-kaṟṟaḷiyilēy</foreign></supplied> !</p>
 	</div>
 	
 <div type="commentary">
-	<!--commentary encoded as per section §9.3 -->
+	
 </div>
 	
 <div type="bibliography">
 
 	<p>First reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/450).</p>
 	
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3, no. 146) with facsimile and English translation; re-edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part II, no. 218); re-edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3, no. 146) with facsimile and English translation; re-edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part II, no. 218); re-edited, with French translation, in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55).</p>
 	
-	<p>Re-edited here for DHARMA (ERC n° 809994) by Nicolas Cane (2020), based on autopsy and photographs.</p>      
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Nicolas Cane (2020), based on autopsy, photographs, and published visual documentation.</p>      
         	
 	<listBibl type="primary">
 		
@@ -145,7 +170,7 @@
 		
 		<bibl n="C">
 			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">879</citedRange>
+			<citedRange unit="page">413ff., 879</citedRange>
 			<citedRange unit="item">55</citedRange>
 		</bibl>
 		
