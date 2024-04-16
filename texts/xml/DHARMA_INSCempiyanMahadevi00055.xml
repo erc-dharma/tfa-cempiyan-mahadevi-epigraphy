@@ -82,8 +82,8 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 
-	<ab>
-		<lb n="01"/><hi rend="grantha">svasti śrī</hi> <g type="equalSign">.</g>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="01"/>svasti śrī <g type="equalSign">.</g>
 	</ab> 
 	
 	<p>
