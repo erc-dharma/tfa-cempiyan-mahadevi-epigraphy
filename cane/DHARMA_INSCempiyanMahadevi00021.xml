@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi7 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,13 +90,15 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">s=vas=ti s=rī || — </hi>koppara<unclear>kecariva<hi rend="grantha">r=m=ma</hi></unclear>[ṟ*]k=ku <gap extent="unknown" reason="lost" unit="character"/>tu kaṇṭa<unclear>n-matu</unclear>rāntaka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Uttamacoḻa<hi rend="grantha">de</hi>varaittiruvayiṟu vāytta Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>
+    <p>        
+        <lb n="1"/>s=vas=ti s=rī <g type="gomutraFinal">.</g>   
+    </p>
+    <p>
+        koppara<unclear>kecariva</unclear><hi rend="grantha"><unclear>r=m=ma</unclear></hi>[ṟ*]k=ku <gap extent="unknown" reason="lost" unit="character"/>tu kaṇṭa<unclear>n-matu</unclear>rāntaka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Uttamacoḻa<hi rend="grantha">de</hi>varaittiruvayiṟu vāytta Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>
 <lb n="2" break="no"/><unclear>pa</unclear>rān=takaṉmātevaṭikaḷārāṉa [<hi rend="grantha">śrī</hi>cempiyaṉ<hi rend="grantha">mahā</hi>]<hi rend="grantha">de</hi>viyār <unclear>ceyta-ruḷiṉa</unclear> teṉkaraiyAḷaṉāṭṭu <hi rend="grantha">b=rah=made</hi>yam <hi rend="grantha">śrī</hi>cempiyaṉ<hi rend="grantha">mahāde</hi>vic-catu<hi rend="grantha">r=vedi</hi>
-<lb n="3" break="no"/>maṅkalattu catu<hi rend="grantha">r=v=vedibha</hi>ṭ<gap extent="unknown" reason="lost" unit="character"/> <hi rend="grantha">śrī</hi>kayi<unclear>lā<hi rend="grantha">sa</hi>muṭaiya</unclear><hi rend="grantha">mahā</hi>-<hi rend="grantha">de</hi>va<unclear>r</unclear> <hi rend="grantha">śrī</hi>koyililey Ippirāṭṭiyār tiruṉāḷāṉa cittiraittirukke
+<lb n="3" break="no"/>maṅkalattu catu<hi rend="grantha">r=v=vedibha</hi>ṭ<gap extent="unknown" reason="lost" unit="character"/> <hi rend="grantha">śrī</hi>kayi<unclear>lā</unclear><hi rend="grantha"><unclear>sa</unclear></hi><unclear>muṭaiya</unclear><hi rend="grantha">mahā</hi>-<hi rend="grantha">de</hi>va<unclear>r</unclear> <hi rend="grantha">śrī</hi>koyililey Ippirāṭṭiyār tiruṉāḷāṉa cittiraittirukke
 <lb n="4" break="no"/>ṭṭaiy nāḷ meykkāṭṭi Uṇpatāka paṅkaḷaṉāṭuṭaiyār <gap extent="unknown" reason="lost" unit="character"/> A<gap extent="unknown" reason="lost" unit="character"/> peruma<gap extent="unknown" reason="lost" unit="character"/><unclear>ṇa</unclear>ppirāṭṭiyār Ivvūr Ūrkkallāl ku(ṭ)ṭutta poṉ 158 [<hi rend="grantha">|</hi>*] Ippoṉṉū
-<lb n="5" break="no"/><unclear>ṟ</unclear>ṟaiñpatteṇkaḻañcum I<hi rend="grantha">d=dhar=ma</hi>[m*] <hi rend="grantha">can=t=rādit=ya</hi>(ya)vaṟ niṟkum vaṇṇam Ippoṉ muta<unclear>laḻiyā</unclear>mey Itiṉāl vanta <hi rend="grantha">bhoga</hi>muṇṇappeṟu-vārāka vaiyttatu <hi rend="grantha">|| —</hi>
+<lb n="5" break="no"/><unclear>ṟ</unclear>ṟaiñpatteṇkaḻañcum I<hi rend="grantha">d=dhar=ma</hi>[m*] <hi rend="grantha">can=t=rādit=ya</hi>(ya)vaṟ niṟkum vaṇṇam Ippoṉ muta<unclear>laḻiyā</unclear>mey Itiṉāl vanta <hi rend="grantha">bhoga</hi>muṇṇappeṟu-vārāka vaiyttatu <g type="gomutraFinal">.</g>
 
 </p>
 

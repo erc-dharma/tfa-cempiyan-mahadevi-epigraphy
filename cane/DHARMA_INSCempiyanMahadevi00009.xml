@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pāccil-Kōpurappaṭṭi1, X temple, time of X, year X</title>
+                <title>Pāccil-Kōpurappaṭṭi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -94,7 +94,7 @@
 
 <lb n="1"/><hi rend="grantha">s=vas=ti s=rī</hi> [<hi rend="grantha">||</hi>*] kopparakecaripaṉmaṟku yānṭu 12 Āvatu maḻanāṭṭup- pāccil tiruAvani<hi rend="grantha">ś=va</hi>rattu<hi rend="grantha">mahāde</hi>vaṟku kaṇṭarātittaperumāḷ tevi/yār cempiyaṉ<hi rend="grantha">mahā</hi>teviy<unclear>ār</unclear>
 <lb n="2"/>vaitta tarānilaiviḷakkoṉṟu niṟai muṉṉūṟṟumuppattunālu niṟai Irunūṟṟunāṟpatu nilaiviḷakkonṟu niṟai nūṟ/ṟutoṇṇūṟu nilaivi
-<lb n="3" break="no"/>ḷakkoṉṟu ni<unclear>ṟ</unclear>ai nūṟṟutoṇṇūṟu nilaiviḷakkoṉṟu [ni*]ṟai nūṟṟutoṇṇūṟu Ā[ka*] nilaiviḷakku Uru / Añcu can<unclear><hi rend="grantha">t=rā</hi></unclear>ti<unclear>ṟṟa</unclear><gap extent="unknown" reason="lost" unit="character"/>
+<lb n="3" break="no"/>ḷakkoṉṟu ni<unclear>ṟ</unclear>ai nūṟṟutoṇṇūṟu nilaiviḷakkoṉṟu [ni*]ṟai nūṟṟutoṇṇūṟu Ā[ka*] nilaiviḷakku Uru / Añcu can<hi rend="grantha"><unclear>t=rā</unclear></hi>ti<unclear>ṟṟa</unclear><gap extent="unknown" reason="lost" unit="character"/>
 
 </p>
 
