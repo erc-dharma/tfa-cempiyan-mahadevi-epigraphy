@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>X, X temple, time of X, year X</title>
+                <title>Uyyakkoṇṭāṉ Tirumalai, Ujjīvanātha, time of Parakesarivarman, year 34</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -87,12 +87,36 @@
     <text xml:space="preserve">
         
 <body>
+    
+    <!--Add Hultzsch translation
+    Check Hultzsch edition. Apparatus-->
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-	<p>
-	    <lb n="1"/>
-	</p>
+    <p>
+        <lb n="1"/>matirai koṇṭa kō-p-para
+        <lb n="2" break="no"/>-kēcari-<hi rend="grantha">panma</hi>rkku yāṇṭu mu
+        <lb n="3" break="no"/>-p-pattu nāl-āvatu
+    </p>
+    <p>
+        te<choice><orig>n</orig><reg>ṉ</reg></choice>
+        <lb n="4" break="no"/>-karai <hi rend="grantha">brahma</hi>tēyam nan=ti-<hi rend="grantha">panma</hi>-ma
+        <lb n="5" break="no"/>ṅkalattu-<supplied reason="omitted">t</supplied> tiru-k-kaṟkuṭi-<hi rend="grantha">para</hi>
+        <lb n="6" break="no"/><hi rend="grantha">me<choice><orig>s</orig><reg>ś</reg></choice></hi>va<hi rend="grantha">ra</hi>ṟkku pirāntaka<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇ
+        <lb n="7" break="no"/>ṭarātitta-tēvar tēviyār
+        <lb n="8"/>maḻa-perumāḷ makaḷār pirā
+        <lb n="9" break="no"/>ntakaṉ mā-tēvaṭikaḷār
+        <lb n="10"/>Oru tiru-nontā-viḷakku I
+        <lb n="11" break="no"/>ravum pakalum Erivat' āka nica
+        <lb n="12" break="no"/>tam cūla Uḻakkāl Uḻakku
+        <lb n="13"/>ne<supplied reason="omitted">y</supplied>y aṭṭi cantirātitta-va
+        <lb n="14" break="no"/>l Erippat' āka vaitta cāvā
+        <lb n="15"/>mūvā-p pēr-āṭu toṇṇū
+        <lb n="16" break="no"/>ṟu
+    </p>
+    <p>
+        <hi rend="grantha">panmāheśvara<supplied reason="omitted">ra</supplied></hi><hi rend="grantha">kṣai</hi>
+    </p>
 
 </div>
     
@@ -111,56 +135,63 @@
 
 <div type="translation" resp="part:emfr">
 	
-	<p n="1">
-		...
-	</p>
-</div>
-		
-
-	
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
-	
-	<p n="1">
-	    ...
-	</p>
-	
-</div>
+    <p n="1-3">
+        Thirty-fourth year of the king Parakesarivarman who took Maturai.
+    </p>
     
+    <p n="3-16">
+        <supplied reason="subaudible">There are</supplied> ninety undying unaging great goats
+        that
+        ...
+        gave
+        ...
+    </p>
+    
+    <p n="3-16">
+        <supplied reason="subaudible">This is under the</supplied> protection of the Paṉmāheśvaras.
+    </p>
+    
+</div>
+	    
 <!--<div type="commentary"/>-->
 	
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>	
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 1).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>      
+	<p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 1), based on autopsy.</p>
+	<p>This edition by Nicolas Cane (2024), based on autopsy. Encoded and reviewed by Emmanuel Francis (2024).</p>      
         	
 	<listBibl type="primary">
 		
 		<bibl n="SII">
 			<ptr target="bib:Hultzsch1895_01"/>
 			<citedRange unit="item">75</citedRange>
-			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="page">374-375</citedRange>
 		</bibl>
 	    
 		<bibl n="C">
 			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="page">761</citedRange>
 			<citedRange unit="item">1</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
 		</bibl>
 		
 	</listBibl>
 	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1892</citedRange>
-			<citedRange unit="item">96</citedRange>
-		</bibl>
-		
-	</listBibl>
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1891-1892"/>
+            <citedRange unit="page">17</citedRange>
+            <citedRange unit="appendix">B/1892</citedRange>
+            <citedRange unit="item">96</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:KrishnaSastri1923_01"/>
+            <citedRange unit="item">543</citedRange>
+        </bibl>
+        
+    </listBibl>
 	
 </div>
 </body>
