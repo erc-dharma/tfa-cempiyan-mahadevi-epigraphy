@@ -168,8 +168,8 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/B/1920/540).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3).</p>
-    <p>This edition by Nicolas Cane (2024), based on autopsy and photographs.</p>
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), based on autopsy and photographs.</p>
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         

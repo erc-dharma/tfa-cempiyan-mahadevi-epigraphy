@@ -111,14 +111,14 @@
 <lb n="14" break="no"/>lacam Oṉṟu Itu Ivvūrkkallāl
 <lb n="15"/>poṉṉūṟṟuttoṇṇūṟṟukkaḻa
 <lb n="16" break="no"/>ñcu poṉṉiṉ paṭṭam Iraṇṭiṉāl
-<lb n="17"/>meṟpaṭi kallā[l*] niṟai toṇṇūṟ
+<lb n="17"/>meṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai toṇṇūṟ
 <lb n="18" break="no"/>ṟu kaḻañcum poṟpū Oṉṟu po<unclear>ṉ</unclear>
 <lb n="19"/><unclear>muk</unclear>kaḻañce mukkālākappoṟpū [mu
-<lb n="20" break="no"/>ṉṟukku] meṟpaṭi kallā[l*] niṟai pati
+<lb n="20" break="no"/>ṉṟukku] meṟpaṭi kallā<supplied reason="omitted">l</supplied>] niṟai pati
 <lb n="21" break="no"/><unclear>ṉoru ka</unclear>ḻañce kālum poṟpū Oṉ
 <lb n="22" break="no"/><gap extent="unknown" reason="lost" unit="character"/> mukkaḻañce mukkāle mañ
 <lb n="23" break="no"/>cāṭiyākappoṟpū Irupattoṉṟi
-<lb n="24" break="no"/>ṉāl meṟpaṭi kallā[l*] niṟai Eḻupat[to
+<lb n="24" break="no"/>ṉāl meṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai Eḻupat[to
 <lb n="25" break="no"/>ṉ]pati<unclear>ṉ</unclear> kaḻañce mukkāle mañcā
 <lb n="26" break="no"/>ṭiyum poṟpū<gap extent="unknown" reason="lost" unit="character"/>
 <lb n="27"/>ḻañce mukkāl Iraṇṭu mañcāṭiyāka
@@ -167,8 +167,8 @@
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 28).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 28).</p>
+	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 

@@ -111,7 +111,7 @@
         <lb n="11" break="no"/>y pirāṭṭiyār tevar ceppu[p*]parikalamu
         <lb n="12" break="no"/>m viḷakkukaḷum pūmiyum nivan=tam
         <lb n="13"/>ceytu ka<unclear>l</unclear>lil veṭṭuvik=kaveṉṟū
-        <lb n="14"/><hi rend="grantha">śrī</hi>muka[m*] Aruḷucceytu vara <hi rend="grantha">śrī</hi>muka
+        <lb n="14"/><hi rend="grantha">śrī</hi>muka<supplied reason="omitted">m</supplied> Aruḷucceytu vara <hi rend="grantha">śrī</hi>muka
         <lb n="15" break="no"/>m kaṇṭu <hi rend="grantha">p=rasā</hi>tappaṭṭu <hi rend="grantha">sabhai</hi>yomum vāriyamiṭṭu <hi rend="grantha">śrī</hi>mukap(i)-paṭiye kallil veṭṭuvikkaveṉṟu paṇikka kallil veṭṭiṉa paricāvatu Uṭai<gap extent="unknown" reason="lost" unit="character"/>
     </p>
     
@@ -152,8 +152,8 @@
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 40).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 40).</p>
+	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 

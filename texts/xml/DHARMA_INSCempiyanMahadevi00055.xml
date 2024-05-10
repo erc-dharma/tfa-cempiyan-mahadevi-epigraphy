@@ -15,10 +15,6 @@
 						<forename>Nicolas</forename>
 						<surname>Cane</surname>
 					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -161,9 +157,9 @@ tiru-makaṉār</foreign></supplied>, Sa Majesté le Roi Madhurāntaka <hi rend=
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/450).</p>	
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.146) with facsimile and English translation; edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.218); edited, with French translation, in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.146) with facsimile and English translation; edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.218); edited, with French translation, in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55), based on autopsy, photographs, and published visual documentation.</p>
 	
-	<p>This edition by Nicolas Cane (2020), based on autopsy, photographs, and published visual documentation. Encoded and reviewed by Emmanuel Francis (2024).</p>      
+	<p>This edition by Nicolas Cane (2020), reviewed by Emmanuel Francis (2024).</p>      
         	
 	<listBibl type="primary">
 		

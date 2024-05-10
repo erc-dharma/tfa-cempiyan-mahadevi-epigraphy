@@ -103,7 +103,7 @@
         <lb n="3" break="no"/><unclear>pa</unclear>ttaiñciṉāl
     </p>
     <p>paḻaiyāṟṟu namviṭṭiṉuḷḷāl nammācciy[ār*] koyili/ṉ muṉpiṟkūṭattu nāmmirukka naṅka<unclear>ru</unclear>mamārāykiṉṟa parittik=kuṭaiyāṉ kotu
-        <lb n="4" break="no"/>kulavaṉcāttaṉāṉa parakecarimūventaveḷāṉ vempaṟṟūrttiruvicalūrt- tevarkku / <hi rend="grantha">saṃ</hi>kirānti toṟu[m*] nūṟṟeṭṭuk/kalacam<unclear>ā</unclear>ṭiyaruḷavum nicata
+        <lb n="4" break="no"/>kulavaṉcāttaṉāṉa parakecarimūventaveḷāṉ vempaṟṟūrttiruvicalūrt- tevarkku / <hi rend="grantha">saṃ</hi>kirānti toṟu<supplied reason="omitted">m</supplied> nūṟṟeṭṭuk/kalacam<unclear>ā</unclear>ṭiyaruḷavum nicata
         <lb n="5" break="no"/>m <hi rend="grantha">A</hi>[<hi rend="grantha">r</hi>*]<hi rend="grantha">ddha</hi>yāma nāṉāḻiyariciyāṟ poṉakamAmurtu ceytaruḷavum namakkāka nammāc/ciy[ār*] vempaṟṟūriley / nāṉkey mukkāl nilam vi
         <lb n="6" break="no"/>laikkākakkoṇṭu namak=ku yāṇṭu muṉṟāvatu muta/l namaṉamāṭi-yaruḷuvi/ttu Amutuceyvittu vārā ni
         <lb n="7" break="no"/>ṉṟātu Innilam nāṉkey mukkālum I/vvempaṟṟūr muṉ muta/lāy varukiṉṟa nervāyattil
@@ -111,7 +111,10 @@
         <lb n="9"/>vempaṟṟūrtiruvicalūrttevar <hi rend="grantha">sa</hi>ṅkirānti to/ṟum nūṟṟeṭṭuk=kalacam / namaṉamāṭiyaruḷavum nica
         <lb n="10" break="no"/><gap extent="unknown" reason="lost" unit="character"/>ṉāḻiyariciyiṉ ponakam <gap extent="unknown" reason="lost" unit="character"/> <unclear>ce</unclear>/ytaruḷavum <gap extent="unknown" reason="lost" unit="character"/>/<gap extent="unknown" reason="lost" unit="character"/> vempaṟṟūr <unclear>vi</unclear>laik=ku
         <lb n="11" break="no"/>kkoṇṭa nilam nāṉ<unclear>key</unclear> mukkālum Iv=vempaṟṟūr muṉ / mutalāy varukiṉṟa ner/vāyattil nā<unclear>ṟ</unclear>patteḻu<unclear>k=ka</unclear>ḻañ
-        <lb n="12" break="no"/>caraiy poṉ yāṇṭu Ā<unclear>ṟāva</unclear>tu muta[l*] curukkiyakkoḷkaveṉ/ṟu nāñ colla [<hi rend="grantha">||</hi>*] namm/{o}laiyeḻutuñcevakaṉAru
+        <lb n="12" break="no"/>caraiy poṉ yāṇṭu Ā<unclear>ṟāva</unclear>tu muta<supplied reason="omitted">l</supplied> curukkiyakkoḷkaveṉ/ṟu nāñ colla
+        </p>
+        <p>
+            namm/{o}laiyeḻutuñcevakaṉAru
         <lb n="13" break="no"/>ḷaṉṉuttamaṉitiyeḻuttiṉālu nammo(l)lai(y)nāya<unclear>ka</unclear>/ṉ veḷāṉ-kaṇṭarātit/taṉāṉa miṉavaṉmuventa
         <lb n="14" break="no"/>veḷāṉum veḷāṉaṇṇāṉummoppiṭṭupputtakatti/ṭiṉpaṭiyey va/riyi-liṭṭukkoḷ[ka*]veṉṟu
         <lb n="15"/>nām colla naṅkarumamārāyum parittikkuṭaiyāṉ / kotukulavaṉ- cātta/ṉāṉa parakecarimuventave
@@ -158,8 +161,8 @@
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4).</p>
+	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 

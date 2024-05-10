@@ -136,7 +136,7 @@
         <lb n="18=39" break="no"/>tākavum tirukkoyiluṭaiyārkaḷu
         <lb n="19=40" break="no"/>m Ukaccarkaḷum Irā<hi rend="grantha">ja</hi>niyo<hi rend="grantha">ga</hi>t=tā
         <lb n="20=41" break="no"/>l <hi rend="grantha">śrī</hi>kā<hi rend="grantha">r=ya</hi>ñceyvāṉum Aṭikaḷ
-        <lb n="21=42" break="no"/>mārum kavarippiṇākkaḷum kuṭiyiru[k*]ka
+        <lb n="21=42" break="no"/>mārum kavarippiṇākkaḷum kuṭiyiru<supplied reason="omitted">k</supplied>ka
         <lb n="22=43"/>maṭaviḷākamāṉa nilam Eḻu māvu
         <lb n="23=44" break="no"/>m maṭaviḷākamākavum tirukkoyilu
         <lb n="24=45" break="no"/>ṭaiyārkaḷ Erikkakaṭavārkku kaṉmel
@@ -244,7 +244,7 @@
         <lb n="10=143" break="no"/>llu Aiṅkalamu
         <lb n="11=144" break="no"/>m tirumeṟkaṭṭi On
         <lb n="12=145" break="no"/>ṟukku Orāṭṭaikku
-        <lb n="13=146"/>n{e}[l*]lu muk=kalamāka
+        <lb n="13=146"/>n{e}<supplied reason="omitted">l</supplied>lu muk=kalamāka
         <milestone n="8" unit="zone" type="pagelike"/>
         <lb n="1=147"/>muppattaiṅkala
         <lb n="2=148" break="no"/>mumāka Orāṭṭai nāḷaikku ve
@@ -306,7 +306,7 @@
         <lb n="23=203" break="no"/>ḻu māvarai <gap extent="unknown" reason="lost" unit="character"/>tiyam pāṭuvāri
         <lb n="24=204" break="no"/><gap extent="unknown" reason="lost" unit="character"/>tam patakkāka Orā
         <lb n="25=205" break="no"/><gap extent="unknown" reason="lost" unit="character"/> <gap extent="unknown" reason="lost" unit="character"/>patin kalattiṟku
-        <lb n="26=206"/><gap extent="unknown" reason="lost" unit="character"/> kalamiṭu[m*] kucava
+        <lb n="26=206"/><gap extent="unknown" reason="lost" unit="character"/> kalamiṭu<supplied reason="omitted">m</supplied> kucava
         <lb n="27=207" break="no"/><gap extent="unknown" reason="lost" unit="character"/>kku nel<unclear>lu</unclear> pa
         <milestone n="10" unit="zone" type="pagelike"/>
         <lb n="1=208"/>tiṉ kalattiṟku ni
@@ -356,9 +356,9 @@
         <lb n="15=251"/>Aimpalamāy Orāṭṭaikku niṟey palamāṭa
         <lb n="16=252" break="no"/>tiṉeṭṭukkukkācu patiṉeṭṭukkum <hi rend="grantha">śrī</hi>
         <lb n="17=253" break="no"/>vimāṉamum maṇṭapamumuḷḷiṭṭa
-        <lb n="18=254" break="no"/>ṉa putukkapputukkuppuṟamummaṟṟu[m*]
+        <lb n="18=254" break="no"/>ṉa putukkapputukkuppuṟamummaṟṟu<supplied reason="omitted">m</supplied>
         <lb n="19=255"/><hi rend="grantha">de</hi>varkku veṇṭum palavicattilu
-        <lb n="20=256" break="no"/>m Ikkaṇṭu kāḻcciyiṟ pokame[l*]
+        <lb n="20=256" break="no"/>m Ikkaṇṭu kāḻcciyiṟ pokame<supplied reason="omitted">l</supplied>
         <lb n="21=257" break="no"/>lām nivantamāvatākavum Aḷan
         <lb n="22=258" break="no"/>tu mikka nilamāvatu tiruvamu<unclear>t</unclear>
         <lb n="23=259" break="no"/>āḷavu koḷukkiruccāṇaraik
@@ -397,7 +397,7 @@
         <lb n="10=290" break="no"/>ṭava[r*]kaḷāka nilamuṉṟu mā
         <lb n="11=291" break="no"/>vum puṟampaṭittirumuṟ
         <lb n="12=292" break="no"/>ṟan tiruvalakiṭṭu tirumeḻu
-        <lb n="13=293" break="no"/>[k*]kiṭakkaṭava[r*]kaḷāka pallava
+        <lb n="13=293" break="no"/><supplied reason="omitted">k</supplied>kiṭakkaṭava[r*]kaḷāka pallava
         <lb n="14=294" break="no"/>ṉarāṇapurattu I[d*]deva
         <lb n="15=295" break="no"/>r maṭaviḷākattiruk=kun tapa
         <lb n="16=296" break="no"/>s=yaraṟuvark=ku nilamuṉṟu
@@ -453,8 +453,8 @@
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 31).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 31).</p>
+	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 
