@@ -90,23 +90,22 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
     
     <p>
-        <hi rend="grantha">śrī</hi>maturānta
-<lb n="2" break="no"/>katevarāṉa Uttamacoḻa
-<lb n="3" break="no"/>raittiruvayiṟu vāytta
-<lb n="4"/>Uṭaiyapirāṭṭiyār<unclear>kkāy</unclear> tirukkaṟ<unclear>ṟa</unclear>
-<lb n="5" break="no"/>ḷi Eṭuppitta Ālattūruṭai
-<lb n="6" break="no"/>yāṉ cāttaṉkuṇapattaṉāna
-<lb n="7"/><hi rend="grantha">°ha</hi>racaraṇacekaraṉ Ivar
-<lb n="8"/>paṭṭaṅkaṭṭiṉa <unclear>p</unclear>er
-<lb n="9"/>rā<hi rend="grantha">ja</hi>ke<hi rend="grantha">sa</hi>rimuve
-<lb n="10" break="no"/>ntaveḷār Ivar <unclear><g type="ddanda">.</g></unclear>
-
-</p>
+        <hi rend="grantha">śrī</hi>-maturānta
+        <lb n="2" break="no"/>katevar-āṉa Uttamacoḻa
+        <lb n="3" break="no"/>raittiruvayiṟu vāytta
+        <lb n="4"/>Uṭaiyapirāṭṭiyār<unclear>kkāy</unclear> tirukkaṟ<unclear>ṟa</unclear>
+        <lb n="5" break="no"/>ḷi Eṭuppitta Ālattūruṭai
+        <lb n="6" break="no"/>yāṉ cāttaṉ kuṇapattaṉ-āna
+        <lb n="7"/><hi rend="grantha">ha</hi>ra-caraṇa-cēkaraṉ Ivar
+        <lb n="8"/>paṭṭaṅkaṭṭiṉa <unclear>p</unclear>er
+        <lb n="9"/>rā<hi rend="grantha">ja</hi>ke<hi rend="grantha">sa</hi>rimuve
+        <lb n="10" break="no"/>ntaveḷār Ivar <unclear><g type="ddanda">.</g></unclear>        
+    </p>
 
 </div>
 

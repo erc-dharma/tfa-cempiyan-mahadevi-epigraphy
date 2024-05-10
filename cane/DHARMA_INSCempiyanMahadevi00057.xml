@@ -90,9 +90,11 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">s=vas=ti s=rī</hi> [<hi rend="grantha">||</hi>*]
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        
+        <lb n="1"/>svasti srī<!--EF:sic?-->
+    </ab>
+    <p>
 <lb n="2"/>talaiccaṅkāṭṭu
 <lb n="3" break="no"/>pperu[n*]tirukko
 <lb n="4" break="no"/>yilil <hi rend="grantha">mahāde</hi>
