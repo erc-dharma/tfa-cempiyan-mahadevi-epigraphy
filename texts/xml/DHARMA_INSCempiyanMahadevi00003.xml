@@ -102,31 +102,55 @@
         mēṟ
         <lb n="2" break="no"/>k' eḻun=t-aruḷiṉa <hi rend="grantha">de</hi>var <hi rend="grantha">gaṇḍa</hi>r-ā<hi rend="grantha">ditya-de</hi>var <hi rend="grantha">de</hi>viyār maḻa-v-arai
         <lb n="3" break="no"/>yar makaḷār parān=takaṉ-mā-tēvaṭikaḷ-āṉa cempiyaṉ-mā-tē
-        <lb n="4" break="no"/>viyār <hi rend="grantha">śrī</hi>-vīra-nārāyaṇa-<hi rend="grantha">c-caturvvedi-maṃgala</hi>ttu-t tiru-v-anante<hi rend="grantha">śva</hi>ratt' āḷ
-        <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku k=ku vait=ta v-āṭu <num value="96">9 10 6</num> takar 1
+        <lb n="4" break="no"/>viyār <hi rend="grantha">śrī</hi>-vīra-nārāyaṇa-<hi rend="grantha">c-caturvvedi-maṃgala</hi>ttu-t tiru-v-anantē<hi rend="grantha">śva</hi>rat=t' āḷ
+        <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku 1-k=ku vait=ta v-āṭu <num value="96">9 10 6</num> takar 1
         
     </p>
 
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 
     <listApp>
 
-        <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
+        <app loc="2">
+            <lem><hi rend="grantha">gaṇḍa</hi>rā<hi rend="grantha">ditya</hi>°</lem>
+            <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">gaṇḍarāditya</hi>°</rdg>
         </app>
-
+        
+        <app loc="4">
+            <lem>°vīra°</lem>
+            <rdg source="bib:SrinivasaRao1967_01">°vira°</rdg>
+        </app>
+        
+        <app loc="4">
+            <lem>tiruvanantē<hi rend="grantha">śva</hi>rat=tāḷ</lem>
+            <rdg source="bib:SrinivasaRao1967_01">tiruvanante<hi rend="grantha">śvara</hi>t=tāḷ</rdg>
+        </app>
+        
     </listApp>
 
-</div>-->
+</div>
 
 <div type="translation" resp="part:emfr">
 
-	<p n="1">
-		...
-	</p>
+    <p n="1">
+        Prosperity! Fortune!
+    </p>    
+    
+    <p n="2">
+        2nd year of the king Parakesarivarman.        
+    </p>
+    
+    <p n="2-5">
+        For 1 perpetual lamp
+        that
+        Cempiyaṉ Mātēviyār <hi rend="italic">alias</hi> 
+        gave
+        ...,
+        <supplied reason="subaudible">there are</supplied> 96 goats <supplied reason="subaudible">and</supplied> 1 ram
+        that <supplied reason="subaudible">she</supplied> gave.
+    </p>
 </div>
 
 
