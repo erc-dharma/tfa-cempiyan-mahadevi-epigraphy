@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Karaṭi [Ravikulacūḷāmaṇi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Karaṭi, rock, time of Parakesarivarman, year 41</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -80,7 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file</change>
+            <change who="part:emfr" when="2024-05-09" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
 
@@ -90,21 +90,32 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">s=vas=ti ś=rī</hi> [<hi rend="grantha">||</hi>*] matiraiyumīḻamuṅko
-<lb n="2" break="no"/>ṇṭa kopparakecaripaṉmaṟku yāṇ
-<lb n="3" break="no"/>ṭu 41Āvatu vāṇakoppaṭṭippeṇ
-<lb n="4" break="no"/>ṇaitteṉkarai Iravikulacūḷāmaṇicatu
-<lb n="5" break="no"/><unclear>rve</unclear>timaṅkalattu <hi rend="grantha">sabhai</hi>yom vaḻi piḷḷaiyār
-<lb n="6"/>tirukaṇṭarātittar teviy[ā*]r cempiyaṉmā
-<lb n="7" break="no"/>teviyār Ivvūṟttirumāṭappāṟai<hi rend="grantha">m</hi>(<hi rend="grantha">ā</hi>)<hi rend="grantha">h</hi>[<hi rend="grantha">ā</hi>*]<hi rend="grantha">de</hi>
-<lb n="8" break="no"/>varkku <hi rend="grantha">sabhai</hi>yār vaḻi vaitta cāvā mūvāpperĀ
-<lb n="9" break="no"/>ṭu toṇṇūṟṟuAṟu koṇṭu kācu 1 viḷakku ca
-<lb n="10" break="no"/>ntirātittaval nicatam Uḻakku ney Erippatāka vai
-<lb n="11" break="no"/>tta cempiya[ṉ*]māteviyār [<hi rend="grantha">||</hi>*]  Itu paṉ<hi rend="grantha">mahe</hi>(<hi rend="grantha">pe</hi>)<hi rend="grantha">ś=va</hi>
-<lb n="12" break="no"/><hi rend="grantha">ra rakṣai</hi> [<hi rend="grantha">||</hi>*] Itu I<hi rend="grantha">rakṣi</hi>ttār Aṭippoṭi Eṉ talai <gap extent="unknown" reason="lost" unit="character"/>
-
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        
+        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+    </ab>
+    <p>
+        matiraiyum īḻamuṅ ko
+        <lb n="2" break="no"/>ṇṭa kō-p-para-kēcari-paṉmaṟku yāṇ
+        <lb n="3" break="no"/>ṭu <num value="41">4 <g type="numeral">10</g> 1</num>-Āvatu
+    </p>
+    <p>
+        vāṇa-kō-p-paṭṭi-p peṇ
+        <lb n="4" break="no"/>ṇai-t teṉ-karai Iravikula-cūḷāmaṇi-catu
+        <lb n="5" break="no"/><hi rend="grantha"><unclear>rve</unclear></hi>ti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm vaḻi piḷḷaiyār
+        <lb n="6"/>tiru-kaṇṭarātittar tēviy<choice><sic>a</sic><corr>ā</corr></choice>r cempiyaṉ-mā
+        <lb n="7" break="no"/>-tēviyār Ivv-ūṟ-t tiru-māṭa-p-pāṟai-<hi rend="grantha">m</hi><hi rend="grantha"><unclear>ā</unclear></hi><hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>
+        <lb n="8" break="no"/>varkku <hi rend="grantha">sabhai</hi>yār vaḻi vaitta cāvā mūvā-p pēr-Ā
+        <lb n="9" break="no"/>ṭu toṇṇūṟṟu Aṟu koṇṭu kācu 1 viḷakku ca
+        <lb n="10" break="no"/>ntirātittaval nicatam Uḻakku ney Erippat' āka vai
+        <lb n="11" break="no"/>tta cempiya<supplied reason="omitted">ṉ</supplied>-mā-tēviyār
+    </p>
+    <p>
+        Itu paṉ<hi rend="grantha">mahe<surplus>pe</surplus>śva</hi>        
+        <lb n="12" break="no"/><hi rend="grantha">ra-rakṣai</hi>
+    </p>
+    <p>
+        Itu I<hi rend="grantha">rakṣi</hi>ttār Aṭi-p-poṭi Eṉ talai <gap extent="unknown" reason="lost" unit="character"/>
 </p>
 
 </div>
@@ -124,42 +135,45 @@
 
 <div type="translation" resp="part:emfr">
 
-	<p n="1">
-		...
-	</p>
+    <p n="1">
+        Prosperity! Fortune!
+    </p>    
+    
+    <p n="1-3">
+        41st year of the king Parakesarivarman who took Maturai and Īḻam.        
+    </p>
+    
+    <p n="3-11">
+        With <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> ninety undying unaging great goats
+        that
+        ...
+        gave
+        ...
+    </p>
+    
+    <p n="11-12">
+        This <supplied reason="subaudible">is under the</supplied> protection of the Paṉmāheśvaras.
+    </p>
+    
+    <p n="12">He who has protected this, the dust of his feet <supplied reason="lost">are on</supplied> my head.</p>
+
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
-
-	<p n="1">
-	    ...
-	</p>
-
-</div>
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75), in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 2).</p>
-	<p>This edition by Nicolas Cane (2024), based on autopsy, photographs, and published visual documentation.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/221).</p>
+	<p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 2).</p>
+	<p>This edition by Nicolas Cane (2024), based on ASI estampage (consulted in Mysore, 2013).</p>
 
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:Hultzsch1895_01"/>
-			<citedRange unit="item">75</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
+	<listBibl type="primary">		
 
 		<bibl n="C">
 			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="page">762</citedRange>
 			<citedRange unit="item">2</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
 		</bibl>
 
 	</listBibl>
@@ -167,10 +181,10 @@
 	<listBibl type="secondary">
 
 		<bibl>
-			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1892</citedRange>
-			<citedRange unit="item">96</citedRange>
+			<ptr target="bib:ARIE1936-1937"/>
+			<citedRange unit="page">31</citedRange>
+			<citedRange unit="appendix">B/1936-1937</citedRange>
+			<citedRange unit="item">221</citedRange>
 		</bibl>
 
 	</listBibl>
