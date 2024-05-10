@@ -89,10 +89,13 @@
 <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-
-<p>
-
-<lb n="1"/>☼ <hi rend="grantha">svasti śrī</hi> [<hi rend="grantha">||</hi>*] koppara<hi rend="grantha">kesaripan=ma</hi>[ṟ*]ku yāṇṭu 12 Āvatu <hi rend="grantha">śrīpa</hi>rān=taka<hi rend="grantha">de</hi>varāṉa pe
+    
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <lb n="1"/>☼svasti śrī
+    </ab>
+    
+    <p>
+        koppara<hi rend="grantha">kesaripan=ma</hi>[ṟ*]ku yāṇṭu 12 Āvatu <hi rend="grantha">śrīpa</hi>rān=taka<hi rend="grantha">de</hi>varāṉa pe
 <lb n="2" break="no"/>riyacoḻaṉar makaṉār <hi rend="grantha">śrī</hi>kaṇṭarā<hi rend="grantha">di</hi>tta<hi rend="grantha">de</hi>var <hi rend="grantha">de</hi>viyār maḻa-perumāṉaṭikaḷ makaḷār
 <lb n="3"/><hi rend="grantha">śrī</hi>Uttamacoḻar taṅkaḷācci cempiyaṉ<hi rend="grantha">mahāde</hi>viyārāl Eṭuppikkappa
 <lb n="4" break="no"/>(pa)ṭṭatu I<hi rend="grantha">śrī</hi>koyilum <hi rend="grantha">s=napa</hi>na<hi rend="grantha">maṇ=ḍapa</hi>mum <hi rend="grantha">gopura</hi>mum cuṟṟālaiyum <hi rend="grantha">pa</hi>rivārakkoyilkaḷu

@@ -90,29 +90,32 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">svasti śrī</hi>[<hi rend="grantha">||</hi>*] konerI✿ṉ(m)mai koṇṭāṉ maṇ<unclear>ṇināṭ/ṭu</unclear> <hi rend="grantha">p=rah=ma</hi>-teyam taṉiyūr vempaṟṟūr <hi rend="grantha">sabhai</hi>yārkku taṅkaḷūr mutalāy varukiṉṟa ner
-<lb n="2" break="no"/>vāyacempoṉ muvāyirattutto[ḷ*]ḷāyirat<unclear>tup</unclear>/patiṉ kaḻañce mukkāley muṉṟu mañcāṭiyilum [<hi rend="grantha">||</hi>*] namakku yāṇṭu 6vatu nāṉ nūṟṟeṇ
-<lb n="3" break="no"/><unclear>pa</unclear>ttaiñciṉāl paḻaiyāṟṟu namviṭṭiṉuḷḷāl nammācciy[ār*] koyili/ṉ muṉpiṟkūṭattu nāmmirukka naṅka<unclear>ru</unclear>mamārāykiṉṟa parittik=kuṭaiyāṉ kotu
-<lb n="4" break="no"/>kulavaṉcāttaṉāṉa parakecarimūventaveḷāṉ vempaṟṟūrttiruvicalūrt- tevarkku / <hi rend="grantha">saṃ</hi>kirānti toṟu[m*] nūṟṟeṭṭuk/kalacam<unclear>ā</unclear>ṭiyaruḷavum nicata
-<lb n="5" break="no"/>m <hi rend="grantha">A</hi>[<hi rend="grantha">r</hi>*]<hi rend="grantha">d=dha</hi>yāma nāṉāḻiyariciyāṟ poṉakamAmurtu ceytaruḷavum namakkāka nammāc/ciy[ār*] vempaṟṟūriley / nāṉkey mukkāl nilam vi
-<lb n="6" break="no"/>laikkākakkoṇṭu namak=ku yāṇṭu muṉṟāvatu muta/l namaṉamāṭi-yaruḷuvi/ttu Amutuceyvittu vārā ni
-<lb n="7" break="no"/>ṉṟātu Innilam nāṉkey mukkālum I/vvempaṟṟūr muṉ muta/lāy varukiṉṟa nervāyattil
-<lb n="8"/>nāṟpatteḻu ka[ḻa*]ñcarai poṉ yāṇṭu Āṟā/vatu mutal curukki veṇ/ṭumeṉṟu namak=kuccolla
-<lb n="9"/>vempaṟṟūrtiruvicalūrttevar <hi rend="grantha">sa</hi>ṅkirānti to/ṟum nūṟṟeṭṭuk=kalacam / namaṉamāṭiyaruḷavum nica
-<lb n="10" break="no"/><gap extent="unknown" reason="lost" unit="character"/>ṉāḻiyariciyiṉ ponakam <gap extent="unknown" reason="lost" unit="character"/> <unclear>ce</unclear>/ytaruḷavum <gap extent="unknown" reason="lost" unit="character"/>/<gap extent="unknown" reason="lost" unit="character"/> vempaṟṟūr <unclear>vi</unclear>laik=ku
-<lb n="11" break="no"/>kkoṇṭa nilam nāṉ<unclear>key</unclear> mukkālum Iv=vempaṟṟūr muṉ / mutalāy varukiṉṟa ner/vāyattil nā<unclear>ṟ</unclear>patteḻu<unclear>k=ka</unclear>ḻañ
-<lb n="12" break="no"/>caraiy poṉ yāṇṭu Ā<unclear>ṟāva</unclear>tu muta[l*] curukkiyakkoḷkaveṉ/ṟu nāñcolla [<hi rend="grantha">||</hi>*] namm/{o}laiyeḻutuñcevakaṉAru
-<lb n="13" break="no"/>ḷaṉṉuttamaṉitiyeḻuttiṉālu nammo(l)lai(y)nāya<unclear>ka</unclear>/ṉ veḷāṉ-kaṇṭarātit/taṉāṉa miṉavaṉmuventa
-<lb n="14" break="no"/>veḷāṉum veḷāṉaṇṇāṉummoppiṭṭupputtakatti/ṭiṉpaṭiyey va/riyi-liṭṭukkoḷ[ka*]veṉṟu
-<lb n="15"/>nām colla naṅkarumamārāyum parittikkuṭaiyāṉ / kotukulavaṉ- cātta/ṉāṉa parakecarimuventave
-<lb n="16" break="no"/>ḷāṉum ciṟṟiṅkaṇuṭaiyāṉ koyi<unclear>l</unclear>mayilaiyāṉa maturā/ntaka-muventave/ḷāṉum Āṇattiyāl puravu
-<lb n="17" break="no"/>vari(y)ppottakakiḻavaṉ <unclear>A</unclear>ṭika[ḷ*]nakkaṉum kiraikaḷḷuṭaiyāṉ / Araiyaṉkaṟpakamāṉa / virāparaṇamuventaveḷāṉum
-<lb n="18"/>Aṉattūruṭaiyāṉ pallavaṉmātevaṉāṉa Irācacūlāmaṇi-m<unclear>ū</unclear>/v{e}ntaveḷāṉum perarai/cūruṭaiyāṉ Ārur Utaiya ti
-<lb n="19" break="no"/>vākaraṉum kompuruviĀṉa centakaṟāṭiyum varipotta<gap extent="unknown" reason="lost" unit="character"/>
-
-</p>
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lb n="1"/>svasti śrī
+    </ab>
+    
+    <p>
+        konerI✿ṉ(m)mai koṇṭāṉ maṇ<unclear>ṇināṭ/ṭu</unclear> <hi rend="grantha">p=rah=ma</hi>-teyam taṉiyūr vempaṟṟūr <hi rend="grantha">sabhai</hi>yārkku taṅkaḷūr mutalāy varukiṉṟa ner
+        <lb n="2" break="no"/>vāyacempoṉ muvāyirattutto[ḷ*]ḷāyirat<unclear>tup</unclear>/patiṉ kaḻañce mukkāley muṉṟu mañcāṭiyilum [<hi rend="grantha">||</hi>*] namakku yāṇṭu 6vatu nāṉ nūṟṟeṇ
+        <lb n="3" break="no"/><unclear>pa</unclear>ttaiñciṉāl paḻaiyāṟṟu namviṭṭiṉuḷḷāl nammācciy[ār*] koyili/ṉ muṉpiṟkūṭattu nāmmirukka naṅka<unclear>ru</unclear>mamārāykiṉṟa parittik=kuṭaiyāṉ kotu
+        <lb n="4" break="no"/>kulavaṉcāttaṉāṉa parakecarimūventaveḷāṉ vempaṟṟūrttiruvicalūrt- tevarkku / <hi rend="grantha">saṃ</hi>kirānti toṟu[m*] nūṟṟeṭṭuk/kalacam<unclear>ā</unclear>ṭiyaruḷavum nicata
+        <lb n="5" break="no"/>m <hi rend="grantha">A</hi>[<hi rend="grantha">r</hi>*]<hi rend="grantha">d=dha</hi>yāma nāṉāḻiyariciyāṟ poṉakamAmurtu ceytaruḷavum namakkāka nammāc/ciy[ār*] vempaṟṟūriley / nāṉkey mukkāl nilam vi
+        <lb n="6" break="no"/>laikkākakkoṇṭu namak=ku yāṇṭu muṉṟāvatu muta/l namaṉamāṭi-yaruḷuvi/ttu Amutuceyvittu vārā ni
+        <lb n="7" break="no"/>ṉṟātu Innilam nāṉkey mukkālum I/vvempaṟṟūr muṉ muta/lāy varukiṉṟa nervāyattil
+        <lb n="8"/>nāṟpatteḻu ka[ḻa*]ñcarai poṉ yāṇṭu Āṟā/vatu mutal curukki veṇ/ṭumeṉṟu namak=kuccolla
+        <lb n="9"/>vempaṟṟūrtiruvicalūrttevar <hi rend="grantha">sa</hi>ṅkirānti to/ṟum nūṟṟeṭṭuk=kalacam / namaṉamāṭiyaruḷavum nica
+        <lb n="10" break="no"/><gap extent="unknown" reason="lost" unit="character"/>ṉāḻiyariciyiṉ ponakam <gap extent="unknown" reason="lost" unit="character"/> <unclear>ce</unclear>/ytaruḷavum <gap extent="unknown" reason="lost" unit="character"/>/<gap extent="unknown" reason="lost" unit="character"/> vempaṟṟūr <unclear>vi</unclear>laik=ku
+        <lb n="11" break="no"/>kkoṇṭa nilam nāṉ<unclear>key</unclear> mukkālum Iv=vempaṟṟūr muṉ / mutalāy varukiṉṟa ner/vāyattil nā<unclear>ṟ</unclear>patteḻu<unclear>k=ka</unclear>ḻañ
+        <lb n="12" break="no"/>caraiy poṉ yāṇṭu Ā<unclear>ṟāva</unclear>tu muta[l*] curukkiyakkoḷkaveṉ/ṟu nāñcolla [<hi rend="grantha">||</hi>*] namm/{o}laiyeḻutuñcevakaṉAru
+        <lb n="13" break="no"/>ḷaṉṉuttamaṉitiyeḻuttiṉālu nammo(l)lai(y)nāya<unclear>ka</unclear>/ṉ veḷāṉ-kaṇṭarātit/taṉāṉa miṉavaṉmuventa
+        <lb n="14" break="no"/>veḷāṉum veḷāṉaṇṇāṉummoppiṭṭupputtakatti/ṭiṉpaṭiyey va/riyi-liṭṭukkoḷ[ka*]veṉṟu
+        <lb n="15"/>nām colla naṅkarumamārāyum parittikkuṭaiyāṉ / kotukulavaṉ- cātta/ṉāṉa parakecarimuventave
+        <lb n="16" break="no"/>ḷāṉum ciṟṟiṅkaṇuṭaiyāṉ koyi<unclear>l</unclear>mayilaiyāṉa maturā/ntaka-muventave/ḷāṉum Āṇattiyāl puravu
+        <lb n="17" break="no"/>vari(y)ppottakakiḻavaṉ <unclear>A</unclear>ṭika[ḷ*]nakkaṉum kiraikaḷḷuṭaiyāṉ / Araiyaṉkaṟpakamāṉa / virāparaṇamuventaveḷāṉum
+        <lb n="18"/>Aṉattūruṭaiyāṉ pallavaṉmātevaṉāṉa Irācacūlāmaṇi-m<unclear>ū</unclear>/v{e}ntaveḷāṉum perarai/cūruṭaiyāṉ Ārur Utaiya ti
+        <lb n="19" break="no"/>vākaraṉum kompuruviĀṉa centakaṟāṭiyum varipotta<gap extent="unknown" reason="lost" unit="character"/>
+        
+    </p>
 
 </div>
 

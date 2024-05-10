@@ -90,9 +90,11 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">svasti śrī |||</hi> tirumakaḷ polapperunilaccel(v)viyun=taṉakkeyuri/mai pūṇ/ṭamai maṉakkoḷakkān=taḷūrccālai kalamaṟuttaru/ḷi ve/ṅkaināṭum kuṭamalaināṭu
+<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <lb n="1"/>svasti śrī <g type="tripledanda">.</g>
+    </ab>
+    
+    <p>tirumakaḷ polapperunilaccel(v)viyun=taṉakkeyuri/mai pūṇ/ṭamai maṉakkoḷakkān=taḷūrccālai kalamaṟuttaru/ḷi ve/ṅkaināṭum kuṭamalaināṭu
 <lb n="2" break="no"/>[n*]taṭikaipāṭiyuṅkaṅ[ka*]pāṭiyum nuḷam[pa*]pāṭiyum kollamum kaliṅkamum tiṇṭiṟal / veṉ/ṟi taṇṭāṟkoṇṭa taṉṉeḻil vaḷaruḻi Ellāviy/āṇṭu/n=t{o}ḻutakai viḷaṅkum yā
 <lb n="3" break="no"/>ṇṭe ceḻiñaraittecukoḷ <unclear><hi rend="grantha">śrī</hi></unclear>ko<hi rend="grantha">rājarājarājakesari</hi>va<hi rend="grantha">r=m=ma</hi>[r*]kki yāṇṭu / patiṉeḻāvatu Ūṟṟukkāṭṭukkoṭṭat/tu[t*]taṉ/kūṟṟu <hi rend="grantha">śrī</hi>U[t*]ta<hi rend="grantha">ma</hi>-<hi rend="grantha">co</hi><unclear><hi rend="grantha">ḷaca</hi></unclear>
 <lb n="4" break="no"/>tu<hi rend="grantha">r=v=ve</hi>ti<hi rend="grantha">maṃgala</hi>ttu <hi rend="grantha">śrī</hi>Ut=ta<hi rend="grantha">macoḷaĪśvara</hi>t=tāḻvārkku Uṭaiya-pirāṭṭiyār / paḷḷit/toṅkaluṭaiyāṉ vīracoḻaṉ<hi rend="grantha">sūr=ya</hi>ṉ <hi rend="grantha">can=d=rādit=ya</hi>va<hi rend="grantha">t</hi> / vait=ta ti/runan=tāviḷakku Araiyi

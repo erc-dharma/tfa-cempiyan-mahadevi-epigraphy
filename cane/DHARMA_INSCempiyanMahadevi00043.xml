@@ -90,9 +90,12 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> [<hi rend="grantha">||</hi>*] tirumakaḻ polapperunilañcelviyum taṉakkeyurimai pūṇṭamai maṉakkoḷa kān=ta[ḷū*]rcālai kalamaṟutaruḷi ve
+<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <lb n="1"/>svasti śrī
+    </ab>
+    
+    <p>
+        tirumakaḻ polapperunilañcelviyum taṉakkeyurimai pūṇṭamai maṉakkoḷa kān=ta[ḷū*]rcālai kalamaṟutaruḷi ve
 <lb n="2" break="no"/>ṅkaināṭuṅkaṅkapāṭiyum nuḷampapāṭiyum taṭiyapāṭiyum kuṭamalaināṭum t<unclear>i</unclear>ṇṭaral koṇṭu taṉṉeḻil vaḷaruḻiyu
 <lb n="3" break="no"/>ḷellāyāṇṭilum toḻukka viḷaṅkum yāṇṭe ceḻiyarai tecukoḷ kovi<hi rend="grantha">rājarājarājakesaripan=ma</hi><unclear>r</unclear>kku yāṇṭu 15/Āvatu I
 <lb n="4" break="no"/><unclear>runkoḷap</unclear>pāṭi neṟku<unclear>ppai</unclear>ttirumutukuṉṟamuṭaiya<hi rend="grantha">mahāde</hi>vark=ku Uṭaiyār <hi rend="grantha">śrī</hi>kaṇṭarā<hi rend="grantha">di</hi>ttatevar teviyār maḻaperumāṉaṭi/kaḷ makaḷār

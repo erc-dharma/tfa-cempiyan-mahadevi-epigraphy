@@ -89,10 +89,13 @@
 <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-
-<p>
-
-<lb n="1"/><hi rend="grantha">svasti śrī </hi> [<hi rend="grantha">||</hi>*] koppa/rake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">n=ma</hi>ṟk=ku yā
+        
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <lb n="1"/>svasti śrī
+    </ab>
+    
+    <p>
+        koppa/rake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">n=ma</hi>ṟk=ku yā
 <lb n="2" break="no"/>ṇṭu <unclear>9</unclear> Āva/tu <hi rend="grantha">rājagesa</hi>ricca/
 <lb n="3" break="no"/>tu<hi rend="grantha">r=vedi</hi>maṅka
 <lb n="4" break="no"/>lattu tiruccelū

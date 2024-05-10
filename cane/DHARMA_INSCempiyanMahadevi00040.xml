@@ -90,9 +90,12 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><hi rend="grantha">svasti śrī</hi>c꜔cālai kalamaṟu[t*]ta korā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jakesaripan=ma</hi>[ṟ*]<hi rend="grantha">ki </hi>yāṇṭu 11 Āvatu
+<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <lb n="1"/>svasti śrī
+    </ab>
+    
+    <p>
+        c꜔cālai kalamaṟu[t*]ta korā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jakesaripan=ma</hi>[ṟ*]<hi rend="grantha">ki </hi>yāṇṭu 11 Āvatu
 <lb n="2"/>Ūṟṟukkāṭṭukkoṭṭattuttaṉkūṟṟu <hi rend="grantha">śrī</hi>Uttamacoḻaccatu[r*]vve(me)ti-maṅkalat
 <lb n="3" break="no"/>tu <hi rend="grantha">śrī</hi>Uttamacoḻa<hi rend="grantha">Īś=vara</hi>ttuḷvāra<hi rend="grantha">r</hi>k=ku <hi rend="grantha">śrī</hi>kaṇṭa<hi rend="grantha">rā</hi>tittateva<hi rend="grantha">r</hi> nampirāṭṭiyār pirā/
 <lb n="4" break="no"/>ṉtakanmā
