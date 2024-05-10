@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kuttālam [Turutti - KT037], X temple, time of X, year X</title>
+                <title>Kuttālam, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,10 +90,10 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<p>i</p>
-<lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>ṉṉaca
+    <p>        
+        
+        <milestone n="1" unit="zone" type="pagelike"/>
+        <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>ṉṉaca
 <lb n="2" break="no"/><gap extent="unknown" reason="lost" unit="character"/>icu U<gap extent="unknown" reason="lost" unit="character"/>
 <lb n="3"/><gap extent="unknown" reason="lost" unit="character"/>pparake<hi rend="grantha">sa</hi>
 <lb n="4" break="no"/><gap extent="unknown" reason="lost" unit="character"/> Uttamacoḻa
@@ -106,7 +106,7 @@
 <lb n="11"/>māvum kāv<unclear>irina</unclear>llūr <gap extent="unknown" reason="lost" unit="character"/>
 <lb n="12"/>paḻa<hi rend="grantha">devadā</hi>ṉam Iṟaiyi
 <lb n="13" break="no"/>li nilam mu/kkāley nā
-<p>ii</p>
+<milestone n="2" unit="zone" type="pagelike"/>
 <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>ppa nārāṇa
 <lb n="2" break="no"/><gap extent="unknown" reason="lost" unit="character"/> Uṭaiyapirāṭṭiyār <gap extent="unknown" reason="lost" unit="character"/>
 <lb n="3"/><unclear>I</unclear>ṭṭu ku<gap extent="unknown" reason="lost" unit="character"/> nilam Araiyu
@@ -115,7 +115,7 @@
 <lb n="6"/>kkum <gap extent="unknown" reason="lost" unit="character"/> poṉ
 <lb n="7"/><gap extent="unknown" reason="lost" unit="character"/>ṉ I
 <lb n="8" break="no"/><gap extent="unknown" reason="lost" unit="character"/>patiṉ māvum
-<p>iii</p>
+<milestone n="3" unit="zone" type="pagelike"/>
 <lb n="1"/>tirukkoyiluṭai
 <lb n="2" break="no"/>yārkaḷ Erikkakaṭavarkaḷā
 <lb n="3" break="no"/>y muṉpu kallil veṭṭikki
@@ -149,7 +149,7 @@
 <lb n="31" break="no"/>yākkavun niṟutti nivantañce
 <lb n="32" break="no"/>yunilam patiṉmuṉṟeyEṭṭu mā
 <lb n="33"/>mukkāṇikkiḻ Araimuntirikaiyu
-<p>iv</p>
+<milestone n="4" unit="zone" type="pagelike"/>
 <lb n="1"/>ḷ nivantañ
 <lb n="2" break="no"/>caiytapaṭi Ā
 <lb n="3" break="no"/>ḻvārkkuppaya
@@ -166,7 +166,7 @@
 <lb n="14" break="no"/>ṉāḻiyum Āka A
 <lb n="15" break="no"/>rici mukkuṟuṇi nā
 <lb n="16" break="no"/>ṉāḻikkukkuṟuvā
-<p>v</p>
+<milestone n="5" unit="zone" type="pagelike"/>
 <lb n="1"/>ḷ kūli Uṭpa
 <lb n="2" break="no"/>ṭa Añciraṇ
 <lb n="3" break="no"/>ṭu vaṇṇam
@@ -199,7 +199,7 @@
 <lb n="30" break="no"/>ḻiyum Aṭaik=kāyamutu I
 <lb n="31" break="no"/>ru patuk=kum veṟṟilaip
 <lb n="32" break="no"/>paṟṟoṉṟuk=kum
-<p>vi</p>
+<milestone n="6" unit="zone" type="pagelike"/>
 <lb n="1"/>nellu nāṉā
 <lb n="2" break="no"/>ḻiyum tiruvamu
 <lb n="3" break="no"/>tiṭa viṟakuk=ku <unclear>ne</unclear>
@@ -231,7 +231,7 @@
 <lb n="29" break="no"/>caṭṭam karaṇaikku Orāṭṭai
 <lb n="30" break="no"/>k=ku nelluppatiṉ A
 <lb n="31" break="no"/>ṟukalamum jalapavi
-<p>vii</p>
+<milestone n="7" unit="zone" type="pagelike"/>
 <lb n="1"/>t=ra nāllu
 <lb n="2" break="no"/>kku Orāṭṭai
 <lb n="3" break="no"/>kku nellu mu<unclear>kka</unclear>
@@ -245,7 +245,7 @@
 <lb n="11" break="no"/>m tirumeṟkaṭṭi On
 <lb n="12" break="no"/>ṟukku Orāṭṭaikku
 <lb n="13"/>n{e}[l*]lu muk=kalamāka
-<p>viii</p>
+<milestone n="8" unit="zone" type="pagelike"/>
 <lb n="1"/>muppattaiṅkala
 <lb n="2" break="no"/>mumāka Orāṭṭai nāḷaikku ve
 <lb n="3" break="no"/>ṇṭunellu Āyiratto
@@ -280,7 +280,7 @@
 <lb n="32" break="no"/>ṇṭum cekaṇṭikaiyoṉṟum tāḷam O
 <lb n="33" break="no"/>raṇaiyum kaimaṇi Oraṇaiyāka Ā<unclear>ka</unclear> pa
 <lb n="34" break="no"/>nṉiraṇṭum tiru
-<p>ix</p>
+<milestone n="9" unit="zone" type="pagelike"/>
 <lb n="1"/>vamutum <hi rend="grantha">bhū</hi>ta
 <lb n="2" break="no"/><hi rend="grantha">bali</hi>yum <hi rend="grantha">śrība</hi>
 <lb n="3" break="no"/><hi rend="grantha">li</hi>yum <hi rend="grantha">Ar=d=dha</hi>yāma
@@ -308,7 +308,7 @@
 <lb n="25" break="no"/><gap extent="unknown" reason="lost" unit="character"/> <gap extent="unknown" reason="lost" unit="character"/>patin kalattiṟku
 <lb n="26"/><gap extent="unknown" reason="lost" unit="character"/> kalamiṭu[m*] kucava
 <lb n="27" break="no"/><gap extent="unknown" reason="lost" unit="character"/>kku nel<unclear>lu</unclear> pa
-<p>x</p>
+<milestone n="10" unit="zone" type="pagelike"/>
 <lb n="1"/>tiṉ kalattiṟku ni
 <lb n="2" break="no"/>lam Araik=kāl Āḻ
 <lb n="3" break="no"/>vār tīrttamāṭiyaru
@@ -325,7 +325,7 @@
 <lb n="14" break="no"/>laṉ Oṉṟey Aṟu mā<gap extent="unknown" reason="lost" unit="character"/>
 <lb n="15"/><gap extent="unknown" reason="lost" unit="character"/><hi rend="grantha">de</hi>var <hi rend="grantha">sāsa</hi>na
 <lb n="16" break="no"/><gap extent="unknown" reason="lost" unit="character"/>ṭi I<gap extent="unknown" reason="lost" unit="character"/>meyaḷantu
-<lb n="17"/><gap extent="unknown" reason="lost" unit="character"/><unclear><hi rend="grantha">n=t=rādi</hi>ttavat</unclear><gap extent="unknown" reason="lost" unit="character"/><unclear>mu</unclear>ni<hi rend="grantha">ban=dha</hi>m
+<lb n="17"/><gap extent="unknown" reason="lost" unit="character"/><hi rend="grantha"><unclear>n=t=rādi</unclear></hi><unclear>ttavat</unclear> <gap extent="unknown" reason="lost" unit="character"/><unclear>mu</unclear>ni<hi rend="grantha">ban=dha</hi>m
 <lb n="18"/><gap extent="unknown" reason="lost" unit="character"/>vukaṅ
 <lb n="19" break="no"/><gap extent="unknown" reason="lost" unit="character"/>mukuṉ te[ṅ*]kummuṉ
 <lb n="20"/><gap extent="unknown" reason="lost" unit="character"/>ṇṭu kāḻcci ceyta nilamum
@@ -338,7 +338,7 @@
 <lb n="27" break="no"/><hi rend="grantha">sa</hi>ri<hi rend="grantha">pan=ma</hi>[r*]kku yāṇṭu 7vatil
 <lb n="28"/>Aruḷicce<gap extent="unknown" reason="lost" unit="character"/> <unclear>I</unclear>vi
 <lb n="29" break="no"/><gap extent="unknown" reason="lost" unit="character"/>
-<p>xi</p>
+<milestone n="11" unit="zone" type="pagelike"/>
 <lb n="1"/>ḷa Uṭaiyār muttaparivā
 <lb n="2" break="no"/>rattu cāramuṭaiyaṉ Araṭṭaṉ
 <lb n="3"/>Ikāṭutevaṉum Uṭaiyār paḷḷi
@@ -369,7 +369,7 @@
 <lb n="28" break="no"/>āka nivantañceytapa
 <lb n="29" break="no"/>ṭi pūnantavāṉamum
 <lb n="30"/>teṅka
-<p>xii</p>
+<milestone n="12" unit="zone" type="pagelike"/>
 <lb n="1"/>ntoṭṭa
 <lb n="2" break="no"/>mumiṟaikku
 <lb n="3" break="no"/>ṅkuṭikaḷ muvarkku
@@ -384,7 +384,7 @@
 <lb n="12" break="no"/>m Uvaccarkaḷi
 <lb n="13" break="no"/>ruvarumey putu
 <lb n="14" break="no"/>nivantamāṉa kā
-<p>xiii</p>
+<milestone n="13" unit="zone" type="pagelike"/>
 <lb n="1"/>ḷamiraṇṭu caṅ
 <lb n="2" break="no"/>kiraṇṭiṉoṭu(m)mū
 <lb n="3" break="no"/>tuvatākacceyta nila
@@ -407,7 +407,7 @@
 <lb n="20" break="no"/>caṅkadevark=kuttiruvamuta
 <lb n="21" break="no"/>rici Iru nāḻik=ku nilam Iraṇṭu
 <lb n="22"/>māk=kāṇi Araik=kāṇiyum
-<p>xiv</p>
+<milestone n="14" unit="zone" type="pagelike"/>
 <lb n="1"/>tirumañcaṇattuṟaikkukkiḻakku cempiyanmātevikkamukam toṭṭam pattumāvukkuṅ Aḻakiyacoḻan kamukantoṭṭam nālu māvukkum vaṭakku kāveri niroṭu kālukku te
 <lb n="2" break="no"/>ṟku connavā<unclear>ṟa</unclear>ṟivā[r*] nilattil kiḻellai tiruvaḻun=tūr nilattukku meṟku naṭuvupaṭṭa Iṭam niroṭu kālāyummaṇaṟkuṉṟāyum kiṭan=ta Iṭam Ittevaṟku talavukāracāmavetamum tait=rīyavetamum
 <lb n="3"/>cantokasāmavetamum Attiyayanam paṇṇum b=rāh=maṇar Irupattaivaṟku tirutti kulai Aṭṭik<unclear>ka</unclear>mukam <gap extent="unknown" reason="lost" unit="character"/>ṟu Iṭṭ<unclear>u</unclear> Anupavikka nipantamāka Ipparicu nivantam ceytom māṭalan maticūtarcāttanāna
