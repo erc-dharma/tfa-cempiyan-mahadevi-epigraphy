@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvōttūr [Ōttūr – TO08], X temple, time of X, year X</title>
+                <title>Tiruvōttūr, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -95,12 +95,15 @@
     </ab>
     
     <p>
-        kō-p-para-kē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>[r*]kku yāṇṭu 14lāvatu tiruvottūr<hi rend="grantha">mahāde</hi>varkku tirunan=tāviḷakkerippa
-<lb n="2" break="no"/>taṟkku vaitta Āṭu Uttamacōḻamārāyan cūṟaiyiṟpoka Uṭaiyār cempiyaṉm(ā)<hi rend="grantha">hāde</hi>viyārkku viṇṇa
-<lb n="3" break="no"/>ppañceyya Aruḷucceyya mīṇṭa Āṭu Iruṉūṟṟum Uṭaiyār vaitta tirunantāviḷakkiṉukku cāvā mū
-<lb n="4" break="no"/>vāpperāṭu <hi rend="grantha">śan<choice><orig>t</orig><reg>d</reg></choice>ri</hi>titavarai Iraṇṭu tirunan=tāviḷakkerippataṟkku pañcavārakkāloṭokku nāḻiyāl tiṅkaḷ
-<lb n="5"/>patinaṟu nāḻi Uri Āḻākku neyyum koyilukke koṇṭu ceṉṟu tiruvuṇṇāḻikaiyuṭaiyārkaḷu<gap extent="unknown" reason="lost" unit="character"/>
-
+        kō-p-para-kē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>[r*]kku yāṇṭu 14lāvatu
+    </p>
+    <p>
+        tiru-v-ottūr <hi rend="grantha">mahā-de</hi>varkku tiru-nan=tāviḷakk' erippa
+        <lb n="2" break="no"/>taṟkku vaitta Āṭu Uttama-cōḻa-mārāyan cūṟaiyiṟpoka Uṭaiyār cempiyaṉ m(ā)<hi rend="grantha">hāde</hi>viyārkku viṇṇa
+        <lb n="3" break="no"/>ppañ ceyya Aruḷu-c-ceyya mīṇṭa Āṭu Iru-ṉūṟṟum Uṭaiyār vaitta tiru-nantā-viḷakkiṉukku cāvā mū
+        <lb n="4" break="no"/>vā-p pēr-āṭu <hi rend="grantha">śan<choice><orig>t</orig><reg>d</reg></choice>ri</hi>tita-varai Iraṇṭu tiru-nan=tāviḷakk' erippataṟkku pañcavārakkāloṭokku nāḻiyāl tiṅkaḷ
+        <lb n="5"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice> aṟu nāḻi Uri Āḻākku neyyum kōyilukkē koṇṭu ceṉṟu tiru-v-uṇṇāḻikai-y-uṭaiyārkaḷu <gap extent="unknown" reason="lost" unit="character"/>
+        
 </p>
 
 </div>
@@ -121,19 +124,17 @@
 <div type="translation" resp="part:emfr">
 
 	<p n="1">
-		...
+		Prosperity! Fortune!
 	</p>
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
