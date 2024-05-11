@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kōyil-Tēvarāyaṉ-Pēṭṭai1 [Tiruccelūr], X temple, time of X, year X</title>
+                <title>Kōyil-Tēvarāyaṉ-Pēṭṭai, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -95,7 +95,7 @@
     </ab>
     
     <p>
-        kō-p-pa/ra-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">n=ma</hi>ṟk=ku yā
+        kō-p-pa/ra-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>ṟk=ku yā
         <lb n="2" break="no"/>ṇṭu <unclear>9</unclear> Āva/tu
     </p>
     <p>
@@ -212,7 +212,7 @@
         <lb n="112"/><g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
     </p>
     <p>
-        yāṇṭu 9 Āvatu cantirātittavaṟ Iṭṭa ceppuk=kalaiyam 108-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
+        yāṇṭu 9-Āvatu cantirātittavaṟ Iṭṭa ceppuk=kalaiyam 108-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
     </p>
 
 </div>
