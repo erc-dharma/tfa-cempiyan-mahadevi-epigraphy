@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvicalūr, X temple, time of X, year X</title>
+                <title>Tiruvicalūr, Śivayoganāthasvāmin, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -106,7 +106,7 @@
         <lb n="5" break="no"/>m <hi rend="grantha">A<reg>r</reg>ddha</hi>yāma nā-ṉāḻi y-ariciyāṟ poṉakam Amurtu ceyt-aruḷavum namakkāka nammāc‡ciy<supplied reason="omitted">ār</supplied> vempaṟṟūrilēy ‡ nāṉkēy mukkāl nilam vi
         <lb n="6" break="no"/>laikk-āka-k koṇṭu namak=ku yāṇṭu muṉṟ-āvatu muta‡l namaṉamāṭiyaruḷuvi‡ttu Amutu ceyvittu vārā ni
         <lb n="7" break="no"/>ṉṟātu In-nilam nāṉkēy mukkālum I‡v-vempaṟṟūr muṉ muta‡l-āy varukiṉṟa nervāyattil
-        <lb n="8"/>nāṟpatt' eḻu ka[ḻa*]ñc' arai poṉ yāṇṭu Āṟ-ā‡vatu mutal curukki veṇ‡ṭum eṉṟu namak=ku-c colla
+        <lb n="8"/>nāṟpatt' eḻu ka<supplied reason="omitted">ḻa</supplied>ñc' arai poṉ yāṇṭu Āṟ-ā‡vatu mutal curukki veṇ‡ṭum eṉṟu namak=ku-c colla
         <lb n="9"/>vempaṟṟūr tiruvicalūr-t tēvar <hi rend="grantha">sa</hi>ṅkirānti to‡ṟum nūṟṟeṭṭu-k= kalacam ‡ namaṉamāṭiyaruḷavum nica
         <lb n="10" break="no"/><gap extent="unknown" reason="lost" unit="character"/>ṉāḻi y-ariciyiṉ ponakam <gap extent="unknown" reason="lost" unit="character"/> <unclear>ce</unclear>‡yt-aruḷavum <gap extent="unknown" reason="lost" unit="character"/> ‡ <gap extent="unknown" reason="lost" unit="character"/> vempaṟṟūr <unclear>vi</unclear>laik=ku
         <lb n="11" break="no"/>-k koṇṭa nilam nāṉ<unclear>key</unclear> mu-k-kālum Iv=vempaṟṟūr muṉ ‡ mutal-āy varukiṉṟa ner‡vāyattil nā<unclear>ṟ</unclear>patt' eḻu-<unclear>k= ka</unclear>ḻañ
@@ -160,23 +160,23 @@
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1995-1996"/></bibl> (ARIE/1995-1996/B/1995-1996/46).</p>
+	<p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.322); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4), based on autopsy.</p>
 	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 
-		<bibl n="SII">
-			<ptr target="bib:Hultzsch1895_01"/>
-			<citedRange unit="item">75</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
+	    <bibl n="S">
+	        <ptr target="bib:Swaminathan2012_01"/>
+	        <citedRange unit="part">II</citedRange>
+	        <citedRange unit="page">TBC</citedRange>
+	        <citedRange unit="item">32</citedRange>
+	    </bibl>
 
 		<bibl n="C">
 			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="page">764-766</citedRange>
 			<citedRange unit="item">4</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
 		</bibl>
 
 	</listBibl>
@@ -184,10 +184,10 @@
 	<listBibl type="secondary">
 
 		<bibl>
-			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1892</citedRange>
-			<citedRange unit="item">96</citedRange>
+			<ptr target="bib:ARIE1995-1996"/>
+			<citedRange unit="page">46</citedRange>
+			<citedRange unit="appendix">B/1995-1996</citedRange>
+			<citedRange unit="item">46</citedRange>
 		</bibl>
 
 	</listBibl>

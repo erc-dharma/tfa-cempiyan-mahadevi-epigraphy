@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kōṉērirājapuram2 [Nallam – KT034], X temple, time of X, year X</title>
+                <title>Kōṉērirājapuram, Umāmaheśvara, time Rāja<supplied reason="omitted">rāja</supplied> Rājakesarivarman, year 11</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -95,9 +95,11 @@
     </ab>
     
     <p>
-        kān=taḷūrccālai kalamaṟutta korā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ke<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>ṟku yāṇṭu patiṉoṉṟāvatu <gap extent="unknown" reason="lost" unit="character"/>ḻaka<gap extent="unknown" reason="lost" unit="character"/>tta<gap extent="unknown" reason="lost" unit="character"/>ṟu<gap extent="unknown" reason="lost" unit="character"/>
-<lb n="2"/><hi rend="grantha">śrī</hi>koyilil muṉpil tirukkāvaṇatte peruṅ<gap extent="unknown" reason="lost" unit="character"/> Irukka nammai Uṭaiyapirāṭṭiyār Ittirunallamuṭaiya<hi rend="grantha">mahāde</hi>varkku nivantañceyta-ruḷiṉapaṭi <hi rend="grantha">śrī</hi>vimāṉat<gap extent="unknown" reason="lost" unit="character"/>tu <hi rend="grantha">śrī</hi>mukam varak<gap extent="unknown" reason="lost" unit="character"/>tevar <hi rend="grantha">śāsa</hi>nam kallil veṭṭuvi<gap extent="unknown" reason="lost" unit="character"/>
-
+        kān=taḷūr-c cālai kalam aṟutta kō-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu patiṉ oṉṟ-āvatu
+    </p>
+    <p>
+        <gap extent="unknown" reason="lost" unit="character"/> ḻaka <gap extent="unknown" reason="lost" unit="character"/> tta <gap extent="unknown" reason="lost" unit="character"/> ṟu <gap extent="unknown" reason="lost" unit="character"/>
+        <lb n="2"/><hi rend="grantha">śrī</hi>-kōyilil muṉpil tiru-k-kāvaṇattē peruṅ <gap extent="unknown" reason="lost" unit="character"/> Irukka nammai Uṭaiya-pirāṭṭiyār It-tirunallam-uṭaiya <hi rend="grantha">mahā-de</hi>varkku nivantañ ceyt-aruḷiṉa paṭi <hi rend="grantha">śrī</hi>-vimāṉat <gap extent="unknown" reason="lost" unit="character"/> tu <hi rend="grantha">śrī</hi>-mukam vara-k <gap extent="unknown" reason="lost" unit="character"/> tēvar <hi rend="grantha">śāsa</hi>nam kallil veṭṭuvi <gap extent="unknown" reason="lost" unit="character"/>
 </p>
 
 </div>
@@ -116,41 +118,48 @@
 </div>-->
 
 <div type="translation" resp="part:emfr">
-
-	<p n="1">
-		...
-	</p>
+    
+    <p n="1">
+        Prosperity! Fortune!
+    </p>
+    
+    <p n="1">
+        Eleventh year of the king Rāja<supplied reason="omitted">rāja</supplied> Rājakesarivarman, who apportioned pots in the feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> at Kāntaḷūr.
+    </p>
+    
+    <p n="1-2">
+        ...
+    </p>
+    
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 39).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/631).</p>
+	<p>Edited in <bibl><ptr target="bib:Srinivasan1990_01"/></bibl> (SII 26.673); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 39).</p>
 	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded and reviewed by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 
 		<bibl n="SII">
-			<ptr target="bib:Hultzsch1895_01"/>
-			<citedRange unit="item">75</citedRange>
+			<ptr target="bib:Srinivasan1990_01"/>
+			<citedRange unit="item">673</citedRange>
 			<citedRange unit="page">TBC</citedRange>
 		</bibl>
 
 		<bibl n="C">
 			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="page">852</citedRange>
 			<citedRange unit="item">39</citedRange>
 			<citedRange unit="figure">TBC</citedRange>
 		</bibl>
@@ -160,10 +169,10 @@
 	<listBibl type="secondary">
 
 		<bibl>
-			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1892</citedRange>
-			<citedRange unit="item">96</citedRange>
+			<ptr target="bib:ARIE1909-1910"/>
+			<citedRange unit="page">46</citedRange>
+			<citedRange unit="appendix">B/1909</citedRange>
+			<citedRange unit="item">631</citedRange>
 		</bibl>
 
 	</listBibl>
