@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirunaṟaiyūr1 [Naṟaiyūrccittīccuram – KT065], X temple, time of X, year X</title>
+                <title>Tirunaṟaiyūr, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -127,19 +127,17 @@
 <div type="translation" resp="part:emfr">
 
 	<p n="1">
-		...
+		Prosperity! Fortune!
 	</p>
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 

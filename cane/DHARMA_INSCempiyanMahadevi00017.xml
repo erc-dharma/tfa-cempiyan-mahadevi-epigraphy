@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi5 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -100,17 +100,15 @@
     </p>
     
     <p>
-        <unclear>kaṇṭaṉ maturān=ta</unclear>ka<hi rend="grantha">de</hi>var-āṉa <hi rend="grantha">śrī</hi>Uttama-cōḻa<hi rend="grantha">de</hi>varaiy-t tiruvayiṟu vāytta Uṭai<unclear>yapirāṭṭiyār</unclear> <hi rend="grantha">śrī</hi>-parāntakaṉ
-            <lb n="2" break="no"/>-mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mahā-de</hi>viyār ceyt-aruḷiṉa teṉ-karai Aḷanāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mahāde</hi>vi-c-catu<hi rend="grantha">r=vedi</hi>-maṅka<unclear>lattu catu</unclear><hi rend="grantha">r=vedi</hi><hi rend="grantha"><unclear>bha</unclear></hi><unclear>ṭṭattāṉa-p</unclear>
-            <lb n="3" break="no"/>perumakkaḷuk=ku Ivv-ūr <hi rend="grantha">śrī</hi>-kayilā<hi rend="grantha">sa</hi>m-uṭaiya<hi rend="grantha">mahāde</hi>var kōyililēy Ip-pirāṭṭiyār tiruṉāḷ-āṉa cittirai-ttirukkeṭṭaiy nāḷ meykkāṭṭi Uṇpat' āka kaṇ
-            <lb n="4" break="no"/>ṇapparaciyār'āṉa ceraḷaṉ <hi rend="grantha">mahā-de</hi>viyār Ivv-ūr (Ūr) Ūr-k-kallāl kuṭutta poṉ 507½
-        
+        <unclear>kaṇṭaṉ maturān=ta</unclear>ka-<hi rend="grantha">de</hi>var-āṉa <hi rend="grantha">śrī</hi>-Uttama-cōḻa-<hi rend="grantha">de</hi>varaiy-t tiru-vayiṟu vāytta Uṭai<unclear>ya-pirāṭṭiyār</unclear> <hi rend="grantha">śrī</hi>-parāntakaṉ
+            <lb n="2"/>mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mahā-de</hi>viyār ceyt-aruḷiṉa teṉ-karai Aḷa-nāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mahāde</hi>vi-c-catu<hi rend="grantha">r=vedi</hi>-maṅka<unclear>lattu catu</unclear><hi rend="grantha">rvedi</hi><hi rend="grantha"><unclear>bha</unclear></hi><unclear>ṭṭa-t-tāṉa-p</unclear>
+            <lb n="3" break="no"/>-peru-makkaḷuk=ku Ivv-ūr <hi rend="grantha">śrī</hi>-kayilā<hi rend="grantha">sa</hi>m-uṭaiya <hi rend="grantha">mahāde</hi>var kōyililēy Ip-pirāṭṭiyār tiruṉāḷ-āṉa cittirai-t-tiru-k-keṭṭai-y nāḷ mey-k-kāṭṭi Uṇpat' āka kaṇ
+            <lb n="4" break="no"/>ṇa-p-paraciyār-āṉa ceraḷaṉ <hi rend="grantha">mahā-de</hi>viyār Ivv-ūr <surplus>Ūr</surplus> Ūr-k-kallāl kuṭutta poṉ <num value="507.5">5 <g type="numeral">100</g> 7 ½</num>        
     </p>
     <p>
-        [|*] Ippoṉ Aiññūṟṟu Eḻu kaḻañcaraiyum I<hi rend="grantha"><unclear>d=dhar=mam</unclear></hi> <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rātit=ya</hi>vaṟ
-        <lb n="5"/>niṟk=kum vaṇṇam Ippoṉ mutalaḻiyāmey Itaṉāl vanta <hi rend="grantha">bhoga</hi>m Uṇṇappeṟuvārkaḷāka vaiyttatu <g type="gomutraFinal">.</g>
+        Ip-poṉ Aiñ-ñūṟṟu Eḻu kaḻañc' araiyum I<hi rend="grantha"><unclear>d-dharmam</unclear></hi> <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rātitya</hi>-vaṟ
+        <lb n="5"/>niṟk=kum vaṇṇam Ip-poṉ mutal aḻiyāmēy Itaṉāl vanta <hi rend="grantha">bhoga</hi>m Uṇṇa-p peṟuvārkaḷ-āka vaiyttatu <g type="gomutraFinal">.</g>
     </p>
-
 
 </div>
 
@@ -130,19 +128,17 @@
 <div type="translation" resp="part:emfr">
 
 	<p n="1">
-		...
+		Prosperity! Fortune!
 	</p>
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 

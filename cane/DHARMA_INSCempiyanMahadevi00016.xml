@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi4 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -98,10 +98,13 @@
         kō-p-pa<supplied reason="omitted">ra</supplied>-kē<hi rend="grantha">sa</hi>riva<hi rend="grantha">rmma</hi>ṟkku yāṇṭu 15-Āvatu
     </p>
     <p>
-        kaṇṭaṉmaturān=taka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Ut=tamacōḻa<hi rend="grantha">de</hi>varai[t*]tiruvayiṟu vā[y*]t=ta Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>parān
-<lb n="2" break="no"/>takaṉmātevaṭikaḷārāna <hi rend="grantha">śrī</hi>cempiyan<hi rend="grantha">mahāde</hi>viyār ceytaruḷiṉa tenkarai Aḷanāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī</hi>cempi[ya*]n<hi rend="grantha">mahāde</hi>vic-catu<hi rend="grantha">r=vedi</hi>maṅkala
-<lb n="3" break="no"/>ttu <hi rend="grantha">śrī</hi>kayilā<hi rend="grantha">sa</hi>muṭaiya<hi rend="grantha">mahāde</hi>vark=ku Ik-kō-p-para-kē<hi rend="grantha">sa</hi>riva<hi rend="grantha">r=ma</hi>rāṉa <hi rend="grantha">śrī</hi>Uttamacōḻa<hi rend="grantha">de</hi>var <hi rend="grantha">de</hi>viyār nampirāṭṭiyār pañcavaṉ<hi rend="grantha">mahāde</hi>viyā[r*]
-<lb n="4"/>Iṭṭa poṉṉiṉ kaiy veṇcāmarai 1 Itu Ippirāṭṭiyār varakkāṭṭiṉa <hi rend="grantha">śrī</hi>mukappaṭi poṉ <unclear>3</unclear>0 kaḻañ=cu
+        kaṇṭaṉ maturān=taka<hi rend="grantha">de</hi>var-āṉa <hi rend="grantha">śrī</hi>Ut=tama-cōḻa<hi rend="grantha">de</hi>varai-[t*] tiru-vayiṟu vā[y*]t=ta Uṭaiya-pirāṭṭiyār <hi rend="grantha">śrī</hi>-parān
+<lb n="2" break="no"/>takaṉ mātevaṭikaḷār-āna <hi rend="grantha">śrī</hi>-cempiyan <hi rend="grantha">mahāde</hi>viyār ceyt-aruḷiṉa ten-karai Aḷa-nāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī</hi>cempi[ya*]n <hi rend="grantha">mahāde</hi>vi-c-catu<hi rend="grantha">rvedi</hi>-maṅkala
+<lb n="3" break="no"/>ttu <hi rend="grantha">śrī</hi>-kayilā<hi rend="grantha">sa</hi>m-uṭaiya <hi rend="grantha">mahāde</hi>vark=ku Ik-kō-p-para-kē<hi rend="grantha">sa</hi>ri-va<hi rend="grantha">rma</hi>r-āṉa <hi rend="grantha">śrī</hi>-Uttama-cōḻa<hi rend="grantha">de</hi>var <hi rend="grantha">de</hi>viyār nam-pirāṭṭiyār pañcavaṉ <hi rend="grantha">mahāde</hi>viyā[r*]
+<lb n="4"/>Iṭṭa poṉṉiṉ kai-y veṇcāmarai 1
+    </p>
+    <p>
+        Itu Ip-pirāṭṭiyār vara-k kāṭṭiṉa <hi rend="grantha">śrī</hi>-muka-p-paṭi poṉ <num value="30"><unclear>3</unclear> <g type="numeral">10</g></num> kaḻañ=cu
 </p>
 
 </div>
@@ -122,19 +125,17 @@
 <div type="translation" resp="part:emfr">
 
 	<p n="1">
-		...
+		Prosperity! Fortune!
 	</p>
 </div>
-
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+    
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 

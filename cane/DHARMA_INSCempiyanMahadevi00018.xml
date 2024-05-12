@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Āṭutuṟai1 [Teṉ Kuraṅkāṭutuṟai – KT031], X temple, time of X, year X</title>
+                <title>Āṭutuṟai, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -95,10 +95,9 @@
     </ab>
     
     <p>
-        <hi rend="grantha">śrī</hi>-maturāntaka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Utta[ma*]cōḻarait-tiruvayi<unclear>ṟu</unclear> vāytta Uṭaiyapirāṭṭiyār mātevaṭika<unclear>ḷārāna</unclear> <hi rend="grantha">śrī</hi>cempiyaṉmāt<unclear>e</unclear>viyār tiraimurnāṭṭu tirukku[ra*]ṅkāṭu<unclear>tu</unclear>ṟai Āḻvārkku Eṭuppittariḷiṉa Ittirukkaṟṟa<unclear>ḷiyi</unclear>ley muṉpu <unclear>It</unclear>tevarku ca<hi rend="grantha">n=d=rā</hi>tittaval ceytaṉa <hi rend="grantha">lakṣa</hi>ṇapaṭi kaṇṭu Iv
-<lb n="2" break="no"/>vila<hi rend="grantha">kṣa</hi>ṇaṅkaḷ mūttupoka <hi rend="grantha">śrī</hi>Uttamacōḻa<hi rend="grantha">de</hi>varāna kō-[p*]-para-kēcari-pa<unclear>ṉ</unclear>maṟku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu kal mel <unclear>veṭṭiṉa</unclear> <g type="gomutraFinal">.</g>
-
-</p>
+        <hi rend="grantha">śrī</hi>-maturāntaka-<hi rend="grantha">de</hi>var-āṉa <hi rend="grantha">śrī</hi>-Utta[ma*]cōḻarai-t tiru-vayi<unclear>ṟu</unclear> vāytta Uṭaiya-pirāṭṭiyār mātēvaṭika<unclear>ḷār-āna</unclear> <hi rend="grantha">śrī</hi>-cempiyaṉ māt<unclear>e</unclear>viyār tiraimur-nāṭṭu tiru-k-ku[ra*]ṅkāṭu<unclear>tu</unclear>ṟai Āḻvārkku Eṭuppitt-ariḷiṉa It-tiru-k-kaṟṟa<unclear>ḷiyi</unclear>lēy muṉpu <unclear>It</unclear>-teēvarku ca<hi rend="grantha">ndrā</hi>titta-val ceytaṉa <hi rend="grantha">lakṣa</hi>ṇa-paṭi kaṇṭu Iv
+        <lb n="2" break="no"/>v-ila<hi rend="grantha">kṣa</hi>ṇaṅkaḷ mūttupoka <hi rend="grantha">śrī</hi>-Uttama-cōḻa-<hi rend="grantha">de</hi>var-āna kō-[p*]-para-kēcari-pa<unclear>ṉ</unclear>maṟku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu kal mel <unclear>veṭṭiṉa</unclear> <g type="gomutraFinal">.</g>        
+    </p>
 
 </div>
 
@@ -118,19 +117,17 @@
 <div type="translation" resp="part:emfr">
 
 	<p n="1">
-		...
+		Prosperity! Fortune!
 	</p>
 </div>
-
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+    
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
