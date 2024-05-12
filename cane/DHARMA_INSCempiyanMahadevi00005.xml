@@ -455,22 +455,50 @@
     
 </div>
 
-<!--
+
 <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+    <!--pages 345 ff.-->
 
-	<p n="1">
-	    ...
-	</p>
+    <p n="1-2">
+        Succès ! Prospérité ! La vénérable Reine fortunée <supplied reason="explanation"><foreign>uṭaiya-pirāṭṭiyār</foreign></supplied> <supplied reason="subaudible"><hi rend="italic">alias</hi></supplied>
+        la vénérable Cempiyaṉ-Mātēvi <supplied reason="explanation"><foreign>cempiyaṉ-mātēviyār</foreign></supplied> accomplit la grâce de
+        faire <supplied reason="subaudible">convertir</supplied> <supplied reason="explanation"><foreign>ceyvittaruḷukiṉṟār</foreign></supplied> le temple du Grand Dieu du glorieux
+        <supplied reason="subaudible">site de</supplied> Nallam dans le district de Veṇ <supplied reason="explanation"><foreign>veṇ-ṇāṭṭu tiru-nallattu-mahādevar
+            kōyil</foreign></supplied> en temple sacré de pierre <supplied reason="explanation"><foreign>tiru-k-kaṟṟaḷiyāka</foreign></supplied> au nom béni de <supplied reason="subaudible">celui</supplied>
+        que l'on nomme « le glorieux Gaṇḍarādityaṉ » <supplied reason="explanation"><foreign>śrī-gaṇḍarādityaṉ eṉṉun
+            tiru-nāmattāl</foreign></supplied>.
+    </p>
+    <p n="2-7">
+        On Nous informe de la nécessité d'accorder (kuṭukka vēṇṭum eṉṟu namakkuc
+        colla), après entrée dans les registres (variyil iṭṭu) à compter de la troisième
+        année [de Notre règne] (yāṇṭu mūṉṟāvatu mutal), les deux cent vingt-quatre
+        kalam de paddy (nel-l-irunūṟṟirupattunāṟ kalamum) [perçus] au titre de la
+        propriété héréditaire (kāṇiyāṉa) sur deux vēli de terre [situés à] Kiḻaṭukuvilai
+        dans le district de Veṇ (veṇ-ṇāṭṭu-k kiḻaṭukuvilai nilam iru vēliyiṉāl), en tant
+        q u e devadāna exempté de taxes pour les terres allouées aux jardins
+        de fleurs divins (nantavāṉa-p-puṟamāy devadāna iṟaiyiliyāka variyil iṭṭu),
+        comme capital (mutal) pour nourrir et vêtir (koṟṟukkum puṭavaimutalukkumāka)
+        les quatre personnes (āḷ nālvarkku) oeuvrant à l'entretien
+        (paṇiceyyum, litt. « qui accomplissent le service ») des jardins de fleurs
+        divins (nantavāṉam), parmi lesquels [celui dit du] « glorieux Gaṇḍarādityaṉ,
+        aménagé en jardin de fleurs divin (ceyta nandavāṉam śrī-gaṇḍarādityaṉ
+        uḷḷiṭṭa) après achat au prix fixé en l'exonérant de [toute] taxe (iṟaiyiliyāka
+        vilai-k-kaṟa791 koṇṭu), d'une terre parmi celles que possèdent ceux de
+        l'assemblée de brahmanes de ce village (i-vv-ūr-c-cavaiyār nilattil),
+        nécessaire [à l'aménagement] de [ce] divin jardin de fleurs sacré au profit du
+        Dieu (devarkku-t tiru-nantavāṉamāka vēṇṭum nilam).
+    </p>
 
-</div>-->
+</div>
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/635).</p>
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.151 and SII 3.151A); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.52 and SII 32.2.52A); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 5).</p>
-	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/635).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.151 and SII 3.151A); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.52 and SII 32.2.52A); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 5).</p>
+    <p>Translated into French in edited in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">345-408</citedRange></bibl>.</p>
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">
 
