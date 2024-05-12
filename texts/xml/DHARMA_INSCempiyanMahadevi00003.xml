@@ -95,7 +95,7 @@
     </ab>
     
     <p>
-        kō-<hi rend="grantha">para-kesari</hi>va<hi rend="grantha">rmma</hi>rk=ku yāṇṭu 2-Āvatu
+        kō-<hi rend="grantha">para-kesari-</hi>va<hi rend="grantha">rmma</hi>rk=ku yāṇṭu 2-Āvatu
     </p>
     
     <p>
@@ -103,7 +103,7 @@
         <lb n="2" break="no"/>k' eḻun=t-aruḷiṉa <hi rend="grantha">de</hi>var <hi rend="grantha">gaṇḍa</hi>r-ā<hi rend="grantha">ditya-de</hi>var <hi rend="grantha">de</hi>viyār maḻa-v-arai
         <milestone n="2" type="pagelike" unit="zone" break="no"/><lb n="3" break="no"/>yar makaḷār parān=takaṉ mā-tēvaṭikaḷ-āṉa cempiyaṉ mā-tē
         <lb n="4" break="no"/>viyār <hi rend="grantha">śrī</hi>-vīra-nārāyaṇa-<hi rend="grantha">c-caturvvedi-maṃgala</hi>ttu-t tiru-v-anantē<hi rend="grantha">śva</hi>rat=t' āḷ
-        <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku 1-k=ku vait=ta v-āṭu <num value="96">9 10 6</num> takar 1
+        <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku 1-k=ku vait=ta v-āṭu <num value="96">9 <g type="numeral">10</g> 6</num> takar 1
         
     </p>
 
@@ -145,7 +145,8 @@
     <p n="2-5">
         For 1 perpetual lamp
         that
-        Cempiyaṉ Mātēviyār <hi rend="italic">alias</hi> 
+        Cempiyaṉ Mātēviyār <hi rend="italic">alias</hi>
+        ...
         gave
         ...,
         <supplied reason="subaudible">there are</supplied> 96 goats <supplied reason="subaudible">and</supplied> 1 ram
