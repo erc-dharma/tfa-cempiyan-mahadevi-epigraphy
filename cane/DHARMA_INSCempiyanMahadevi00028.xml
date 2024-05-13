@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi8 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,49 +90,54 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
     
     <p>
         kō
-<lb n="2" break="no"/>-Irā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>
-<lb n="3" break="no"/>ṟku yāṇṭu 3-Āvatu
+        <lb n="2" break="no"/>-Irā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>
+        <lb n="3" break="no"/>ṟku yāṇṭu 3-Āvatu
     </p>
     <p>
         
-<lb n="4"/>teṉkaraiyaḷanā
-<lb n="5" break="no"/>ṭṭu <hi rend="grantha">brahma</hi>teyam <hi rend="grantha">śrī</hi>
-<lb n="6" break="no"/>cempiyanmā-tevic
-<lb n="7" break="no"/>catu<hi rend="grantha">r=ve</hi>timaṅkalattu
-<lb n="8"/><hi rend="grantha">śrī</hi>kai<hi rend="grantha">lāsa</hi>muṭaiya<hi rend="grantha">mahā</hi>
-<lb n="9" break="no"/><hi rend="grantha">de</hi>vaṟku <hi rend="grantha">śrī</hi>Uttamacōḻa
-<lb n="10" break="no"/><hi rend="grantha">de</hi>var taṅkaḷācci <hi rend="grantha">śrī</hi>pirānta
-<lb n="11" break="no"/>kaṉmā-tēvaṭikaḷārāṉa <hi rend="grantha">śrī</hi>cem
-<lb n="12" break="no"/>piyaṉmā-teviyār Ivvāṇṭu mi
-<lb n="13" break="no"/>ṉanāyaṟṟukkuṭutta 100 poṉ ka
-<lb n="14" break="no"/>lacam Oṉṟu Itu Ivvūrkkallāl
-<lb n="15"/>poṉṉūṟṟuttoṇṇūṟṟukkaḻa
-<lb n="16" break="no"/>ñcu poṉṉiṉ paṭṭam Iraṇṭiṉāl
-<lb n="17"/>meṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai toṇṇūṟ
-<lb n="18" break="no"/>ṟu kaḻañcum poṟpū Oṉṟu po<unclear>ṉ</unclear>
-<lb n="19"/><unclear>muk</unclear>kaḻañce mukkālākappoṟpū [mu
-<lb n="20" break="no"/>ṉṟukku] meṟpaṭi kallā<supplied reason="omitted">l</supplied>] niṟai pati
-<lb n="21" break="no"/><unclear>ṉoru ka</unclear>ḻañce kālum poṟpū Oṉ
-<lb n="22" break="no"/><gap extent="unknown" reason="lost" unit="character"/> mukkaḻañce mukkāle mañ
-<lb n="23" break="no"/>cāṭiyākappoṟpū Irupattoṉṟi
-<lb n="24" break="no"/>ṉāl meṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai Eḻupat[to
-<lb n="25" break="no"/>ṉ]pati<unclear>ṉ</unclear> kaḻañce mukkāle mañcā
-<lb n="26" break="no"/>ṭiyum poṟpū<gap extent="unknown" reason="lost" unit="character"/>
-<lb n="27"/>ḻañce mukkāl Iraṇṭu mañcāṭiyāka
-<lb n="28"/>poṟpū Iraṇṭiṉāl meṟpaṭi kal
-<lb n="29" break="no"/>lāṉiṟai Aiṅkaḻañcaraiye nālu
-<lb n="30"/>mañcāṭiyum Āka Ivai Itta
-<lb n="31" break="no"/>ṉaiyum <hi rend="grantha">pa</hi>ṉ<hi rend="grantha">māheśvara rakṣai</hi>
-<lb n="32"/><g type="gomutraFinal">.</g>
-
-</p>
-
+        <lb n="4"/>teṉ-karai y-aḷa-nā
+        <lb n="5" break="no"/>ṭṭu <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>
+        <lb n="6" break="no"/>-cempiyan mā-tēvi-c
+        <lb n="7" break="no"/>-atu<hi rend="grantha">rve</hi>ti-maṅkalattu
+        <lb n="8"/><hi rend="grantha">śrī</hi>-kai<hi rend="grantha">lāsa</hi>m-uṭaiya <hi rend="grantha">mahā</hi>
+        <lb n="9" break="no"/><hi rend="grantha">de</hi>vaṟku <hi rend="grantha">śrī</hi>-Uttama-cōḻa
+        <lb n="10" break="no"/>-<hi rend="grantha">de</hi>var taṅkaḷ ācci <hi rend="grantha">śrī</hi>-pirānta
+        <lb n="11" break="no"/>kaṉ mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cem
+        <lb n="12" break="no"/>piyaṉ mā-tēviyār Ivv-āṇṭu mi
+        <lb n="13" break="no"/>ṉa-nāyaṟṟu-k kuṭutta 100 poṉ ka
+        <lb n="14" break="no"/>lacam Oṉṟu
+    </p>
+    <p>
+        Itu Ivv-ūr-k-kallāl
+        <lb n="15"/>poṉ ṉūṟṟu-t toṇṇūṟṟu-k kaḻa
+        <lb n="16" break="no"/>ñcu poṉṉiṉ paṭṭam Iraṇṭiṉāl
+        <lb n="17"/>mēṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai toṇṇūṟ
+        <lb n="18" break="no"/>ṟu kaḻañcum poṟpū Oṉṟu po<unclear>ṉ</unclear>
+        <lb n="19"/><unclear>mu-k</unclear>-kaḻañcē mu-k-kāl-āka-p poṟpū <unclear>mu</unclear>
+        <lb n="20" break="no"/><unclear>ṉṟukku</unclear> mēṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai pati
+        <lb n="21" break="no"/><unclear>ṉ oru ka</unclear>ḻañcē kālum poṟpū Oṉ
+        <lb n="22" break="no"/><gap extent="unknown" reason="lost" unit="character"/> mu-k-kaḻañcē mu-k-kālē mañ
+        <lb n="23" break="no"/>cāṭi-y-āka-p poṟpū Iru-patt' oṉṟi
+        <lb n="24" break="no"/>ṉāl mēṟpaṭi kallā<supplied reason="omitted">l</supplied> niṟai Eḻupat<unclear>t' o</unclear>
+        <lb n="25" break="no"/>ṉ<unclear></unclear>pati<unclear>ṉ</unclear> kaḻañce mu-k-kālē mañcā
+        <lb n="26" break="no"/>ṭiyum poṟpū <gap extent="unknown" reason="lost" unit="character"/>
+        <lb n="27"/>ḻañcē mu-k-kāl Iraṇṭu mañcāṭi-y-āka
+        <lb n="28"/>poṟpū Iraṇṭiṉāl mēṟpaṭi kal
+        <lb n="29" break="no"/>lāṉiṟai Aiṅ-kaḻañc' araiyē nālu
+        <lb n="30"/>mañcāṭiyum Āka Ivai Itta
+        <lb n="31" break="no"/>ṉaiyum
+    </p>
+    <p>
+        <hi rend="grantha">pa</hi>ṉ<hi rend="grantha">māheśvara-rakṣai</hi>
+        <lb n="32"/><g type="gomutraFinal">.</g>        
+    </p>
+    
 </div>
 
 <!--<div type="apparatus">

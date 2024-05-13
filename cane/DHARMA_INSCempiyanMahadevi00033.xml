@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi9 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,21 +90,20 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
     
     <p>
-        Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ke<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>ṟku yāṇṭu Eḻāvatu kumpa-nāyaṟṟukkaṇṭaṉmaturāntakatevarāṉa <hi rend="grantha">śrī</hi>Uttamaco
-<lb n="2" break="no"/>ḻatevarai[t*]tiruvayiṟu vā[y*]ttaruḷiṉa Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>pir<choice><sic>a</sic><corr>ā</corr></choice>ntakaṉmā-tēvatika(ḷ)ḷārāṉa<hi rend="grantha"> śrī</hi>cempiyaṉmā-tevi
-<lb n="3" break="no"/>yār ceytaruḷiṉa teṉkarai <unclear>A</unclear>ḷanāṭṭu <hi rend="grantha">brahma</hi>teyam <hi rend="grantha">śrī</hi>cempiyaṉ-mā-teviccatu[r*]vetimaṅkalattu Ivvūr Uṭaiyapirāṭ
-<lb n="4" break="no"/>ṭiyār vaittaruḷiṉa <hi rend="grantha">śrī</hi>kaiyilā<hi rend="grantha">sa</hi>ttu <hi rend="grantha"> śāsanabeddha</hi><unclear>c</unclear>catu<hi rend="grantha">r=ve</hi>tipaṭṭa<unclear>t tāṉa</unclear>pperumakkaḷukku Iv
-<lb n="5" break="no"/>vūr  <hi rend="grantha">śrī</hi>kayilā<hi rend="grantha">sa</hi>muṭaiya<hi rend="grantha">mahā</hi>tevar <hi rend="grantha">śrī</hi>koyilile Ippirāṭṭiyār tirunāḷāṉa cittiraittirukkeṭṭai nāṉṟu me
-<lb n="6" break="no"/>ykkāṭṭiyu<unclear>ṇpatāka</unclear> <hi rend="grantha">śrī</hi>Uttamacōḻatevar teviyār nampirāṭṭiyār Uṟaṭṭayaṉcorappaiyār-āṉa tiripuvaṉamāte
-<lb n="7" break="no"/>viyār kuṭutta kācu <unclear>100 I</unclear><hi rend="grantha"><unclear>ddharmma</unclear></hi>>m cantirātittaval niṟkum vaṇṇam Ikkācu nūṟum mutal <gap extent="unknown" reason="lost" unit="character"/>taṉāl vanta <hi rend="grantha">v=raddhi</hi>
-<lb n="8"/>Ippirāṭṭiyār tirunāḷāṉa cittiraittirukkeṭṭai nāṉṟu <hi rend="grantha">śrī</hi>kaiyilā<hi rend="grantha">sa</hi>tte meykkā[ṭṭi*]yyuṇpatāka vaittatu
-
-</p>
+        Irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu Ēḻ-āvatu kumpa-nāyaṟṟu-k kaṇṭaṉ maturāntaka-tēvar-āṉa <hi rend="grantha">śrī</hi>-Uttama-cō
+        <lb n="2" break="no"/>ḻa-tēvarai-[t*] tiru-vayiṟu vā[y*]tt-aruḷiṉa Uṭaiya-pirāṭṭiyār <hi rend="grantha">śrī</hi>-pir<choice><sic>a</sic><corr>ā</corr></choice>ntakaṉ mā-tēvatika(ḷ)ḷār-āṉa<hi rend="grantha"> śrī</hi>-cempiyaṉ mā-tēvi
+        <lb n="3" break="no"/>yār ceyt-aruḷiṉa teṉ-karai <unclear>A</unclear>ḷa-nāṭṭu <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>-cempiyaṉ-mā-tēvi-c-catu[r*]vēti-maṅkalattu Ivv-ūr Uṭaiya-pirāṭ
+        <lb n="4" break="no"/>ṭiyār vaitt-aruḷiṉa <hi rend="grantha">śrī</hi>-kaiyilā<hi rend="grantha">sa</hi>ttu <hi rend="grantha"> śāsana-beddha</hi>-<unclear>c</unclear>-catu<hi rend="grantha">rve</hi>ti-paṭṭa<unclear>-t-tāṉa</unclear>-p-peru-makkaḷukku Iv
+        <lb n="5" break="no"/>v-ūr  <hi rend="grantha">śrī</hi>-kayilā<hi rend="grantha">sa</hi>m-uṭaiya <hi rend="grantha">mahā</hi>-tēvar <hi rend="grantha">śrī</hi>-kōyililē Ip-pirāṭṭiyār tiru-nāḷ-āṉa cittirai-t tiru-k-keṭṭai nāṉṟu me
+        <lb n="6" break="no"/>ykkāṭṭi y-u<unclear>ṇpat' āka</unclear> <hi rend="grantha">śrī</hi>-Uttama-cōḻa-tevar tēeviyār nam-pirāṭṭiyār Uṟaṭṭayaṉcorappaiyār-āṉa tiri-puvaṉa-mā-tē
+        <lb n="7" break="no"/>viyār kuṭutta kācu <num value="100"><unclear><g type="numeral">100</g></unclear></num> <unclear>I</unclear><hi rend="grantha"><unclear>d-dharmma</unclear></hi>>m cantirātitta-val niṟkum vaṇṇam Ik-kācu nūṟum mutal <gap extent="unknown" reason="lost" unit="character"/> taṉāl vanta <hi rend="grantha">vraddhi</hi><!--EF: vṛddhi?-->
+        <lb n="8"/>Ip-pirāṭṭiyār tiru-nāḷ-āṉa cittirai-t tiru-k-keṭṭai nāṉṟu <hi rend="grantha">śrī</hi>-kaiyilā<hi rend="grantha">sa</hi>tteē meykkā[ṭṭi*] yy-uṇpat' āka vaittatu        
+    </p>
 
 </div>
 

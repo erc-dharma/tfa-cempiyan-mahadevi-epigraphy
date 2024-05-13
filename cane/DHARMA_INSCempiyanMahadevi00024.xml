@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirumaṇañcēri1 [Maṇañcēri – KV25], X temple, time of X, year X</title>
+                <title>Tirumaṇañcēri, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,7 +90,7 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
     
@@ -98,15 +98,28 @@
         kō-v-ir<choice><sic>a</sic><corr>ā</corr></choice><hi rend="grantha"><unclear>ja</unclear></hi>kēcaripaṉmaṟku yāṇṭu 2-Āvatu
     </p>
     <p>
-        Uttamacōḻaraittiruvayiṟu vāytta pirāṭṭiyār cempiyaṉ<hi rend="grantha">mahāde</hi>viyār kuṟukkaināṭṭukkaṭalaṅkuṭippāṟṟirumaṇañceṟittirukkaṟṟaḷi<hi rend="grantha">mā</hi>
-<lb n="2" break="no"/><hi rend="grantha">de</hi>varkku nallāṟṟū[r*]nāṭṭu mulaṅkuṭi nilam patiṉ(n)āl veliyuñ nivantañceytapaṭiyāvatu
+        Uttama-cōḻarai-t tiru-vayiṟu vāytta pirāṭṭiyār cempiyaṉ <hi rend="grantha">mahā-de</hi>viyār kuṟukkai-nāṭṭu-k kaṭalaṅkuṭi-p-pāṟ ṟirumaṇañceṟi-t tiru-k-kaṟṟaḷi <hi rend="grantha">mā</hi>
+        <lb n="2" break="no"/><hi rend="grantha">de</hi>varkku nallāṟṟū<supplied reason="omitted">r</supplied>-nāṭṭu mulaṅkuṭi nilam patiṉ nāl vēliyuñ nivantañ ceyta paṭi y-āvatu
     </p>
     <p>
-        tiruccennaṭaikkuttiruvamirtarici patakku Ārā(t)tikkum nampikku neṟ patakkum Āka Irunūṟṟumuppatiṉ kalam māṇira
-<lb n="3" break="no"/>ṇṭukku ne<supplied reason="omitted">l</supplied>luppatakku tiruviḷakku nālukku nelluttūṇiyum Āka nellu nūṟṟuEṇpatiṉ kalam ne[y*]yamirtukku nicatam Uḻakku nellukkuṟuṇiyum Aṭaikkāy Amirtukku nāṉāḻiyum kaṟiAmirtukku nāṉāḻiyum
-<lb n="4"/>tiruppatiyam p<choice><sic>a</sic><corr>ā</corr></choice>ṭuvār nālvarkku ne<supplied reason="omitted">l</supplied>luttūṇiyum Uvaccar pattāḷukku ne<supplied reason="omitted">l</supplied>lu Iru tūṇi Iru nāḻiyumāka nellu nānūṟṟu IrupattuEḻukalaṉe tūṇippatakku kāḷamum cekaṇṭikaiyum Āka nellu patakku nan=ta
-<lb n="5" break="no"/>vāṉam Iṟaippār muvarkku nellu mukkuṟuṇiyum tiruppaḷḷittāmam paṟippār Iruvarkku neṟkuṟuṇiyum tirumeḻu<supplied reason="omitted">k</supplied>kiṭuvār Iruvarkku <gap extent="unknown" reason="lost" unit="character"/> Aṟu nāḻiyumāka nellu nūṟṟuttoṇṇūṟṟu Aiyaṅkalaṉ Eṅka(ḷ)ḷukke vaḻi <gap extent="unknown" reason="lost" unit="character"/>talvarai I[<hi rend="grantha">d</hi>*]<hi rend="grantha">dhanmam rakṣi</hi>ppār nāṟpatteṇṇāyira <hi rend="grantha">pan=māheśvara rakṣai</hi> Aṟamaṟavaṟka <g type="gomutraFinal">.</g>
-
+        <list>
+            <item>tiru-c-cennaṭaikku-t tiru-v-amirt' arici patakku Ārā<surplus>t</surplus>tikkum nampikku neṟ patakkum Āka
+        Iru-nūṟṟu mu-p-patiṉ kalam māṇira
+        <lb n="3" break="no"/>ṇṭukku ne<supplied reason="omitted">l</supplied>lu-p patakku</item>
+            <item>tiru-viḷakku nālukku nellu-t tūṇiyum Āka
+        nellu nūṟṟu Eṇpatiṉ kalam</item>
+           <item>ne<choice><orig>y</orig><reg>yy</reg></choice>-amirtukku nicatam Uḻakku nellu-k kuṟuṇiyum Aṭai-k-kāy Amirtukku nā-ṉāḻiyum kaṟi-Amirtukku nā-ṉāḻiyum
+        <lb n="4"/>tiru-p-patiyam p<choice><sic>a</sic><corr>ā</corr></choice>ṭuvār nālvarkku ne<supplied reason="omitted">l</supplied>lu-t tūṇiyum 
+        Uvaccar pattāḷukku ne<supplied reason="omitted">l</supplied>lu Iru tūṇi Iru nāḻiyum āka nellu nā-nūṟṟu Iru-pattu Ēḻu-kalaṉē tūṇi-p patakku kāḷamum cekaṇṭikaiyum Āka
+        nellu patakku</item>
+            <item>nan=ta
+        <lb n="5" break="no"/>-vāṉam Iṟaippār muvarkku nellu mu-k-kuṟuṇiyum</item>
+            <item>tiru-p-paḷḷittāmam paṟippār Iruvarkku neṟ-kuṟuṇiyum tiru-meḻu<supplied reason="omitted">k</supplied>kiṭuvār Iruvarkku <gap extent="unknown" reason="lost" unit="character"/> Aṟu nāḻiyum-āka nellu nūṟṟu-t toṇṇūṟṟu</item>
+            </list>
+        Aiyaṅkalaṉ Eṅka<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkē vaḻi <gap extent="unknown" reason="lost" unit="character"/> talvarai
+    </p>
+    <p>
+        I<hi rend="grantha"><supplied reason="omitted">d</supplied>-dhanmam rakṣi</hi>ppār nāṟ-patt' eṇ-ṇ-āyira <hi rend="grantha">panmāheśvara-rakṣai</hi> Aṟam aṟavaṟka <g type="gomutraFinal">.</g>
 </p>
 
 </div>
@@ -131,15 +144,13 @@
 	</p>
 </div>
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 

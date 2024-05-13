@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aṉpil (Kīḻaṉpil) [Aṉpil-Ālantuṟai – KV57], X temple, time of X, year X</title>
+                <title>Aṉpil, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -98,12 +98,14 @@
         kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>-va<hi rend="grantha">nma</hi><unclear>r</unclear>kku yāṇṭu 2-Āvatu
     </p>
     <p>
-        Uṭaiyap<unclear>i</unclear>
-        <lb n="2" break="no"/>rāṭṭiyār <hi rend="grantha">śrī</hi>cempiyaṉ<hi rend="grantha">mahāde</hi>viyār Anpil tiruvālantuṟai<hi rend="grantha">ma</hi>
-        <lb n="3" break="no"/><hi rend="grantha">hāde</hi>varkku <hi rend="grantha">Abhiṣe</hi>kañceyya vaitta veḷḷikkalacam 1nāl
-        <lb n="4"/>Alakunilaippaṭi niṟai 190(100) kaḻañ=cu Iṉṉu<unclear>ṟṟut</unclear>toṇṇūṟṟu
-        <lb n="5"/>Āṟu kaḻañcaraiyum Itu <hi rend="grantha">pan=māheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>
-        
+        Uṭaiya-p<unclear>i</unclear>
+        <lb n="2" break="no"/>rāṭṭiyār <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mahāde</hi>viyār Anpil tiru-v-ālan-tuṟai <hi rend="grantha">ma</hi>
+        <lb n="3" break="no"/><hi rend="grantha">hā-de</hi>varkku <hi rend="grantha"> Abhiṣe</hi>kañ ceyya vaitta veḷḷi-k kalacam 1nāl
+        <lb n="4"/>Alaku-nilai-p paṭi niṟai 190(100)<!--EF:??--> kaḻañ=cu Iṉ-ṉu<unclear>ṟṟu-t</unclear> toṇṇūṟṟu
+        <lb n="5"/>Āṟu kaḻañc' araiyum
+    </p>
+    <p>
+        Itu <hi rend="grantha">panmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>        
     </p>
 
 </div>
