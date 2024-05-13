@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uyyakkoṇṭāṉ Tirumalai2 [Kaṟkuṭi – KT004], X temple, time of X, year X</title>
+                <title>Uyyakkoṇṭāṉ Tirumalai, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -95,13 +95,18 @@
     </ab>
     
     <p>
-    kān=ta<unclear>ḷu</unclear>r-c cālai kalam aṟutta kō-v-irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri-va<hi rend="grantha">nma</hi>ṟku yāṇṭu 10-Āvatu
+        kān=ta<unclear>ḷu</unclear>r-c cālai kalam aṟutta kō-v-irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-va<hi rend="grantha">nma</hi>ṟku yāṇṭu 10-Āvatu
     </p>
     <p>
-        tenkarai <hi rend="grantha">brahmade</hi>yam nan=ti<hi rend="grantha">panma</hi>ma<unclear>ṅ</unclear>kalattu<hi rend="grantha"> śrī</hi>kaṟkuṭi viḻumiyārkku kaṇṭaṉmaturān=taka<unclear>t</unclear>evarāṉa <hi rend="grantha">śrī</hi>Uttamacōḻa-tevaraittiruvayiṟu vāytta Uṭaiyapirāṭṭiyār pirān=takaṉmā-tēvaṭikaḷārāṉa <hi rend="grantha">śrī</hi>cempiyaṉmā-teviyā
-<lb n="2" break="no"/>r tirukkaṟkuṭiĀḻvār viḻumiyārkku A<hi rend="grantha">bhikṣe</hi>kañceyya yāṇṭu 10-Āvatu ceytu tan=tu A<hi rend="grantha">bhikṣe</hi>kañceykiṉṟa <hi rend="grantha">śrī</hi>muṭi 1 poṉ 149(10) kaḻañ=cu Ippoṉ nūṟṟunālpattuOṉpatiṉ kaḻañcum Itaṉukku Uṭkūṭṭirakacceytu taicca veḷḷi 190 mūṉ=ṟumā 7 araivīcam Ivveḷḷi
-<lb n="3"/>190 mūṉ=ṟumā 7 araivīcam kotta<unclear>mu</unclear>ttu 700m vaṭṭamaḻuvi pakaṭṭina māṇikkam 3m vayiram 27m Uṭai<unclear>ya</unclear> <hi rend="grantha">śrī</hi>muṭi 1 pa[t*]toṉpatin kaḻañcaraiye Arai<unclear>k</unclear>kāl cāmarai ve[ḷ*]ḷikk<unclear>ā</unclear>l 6140 mā<hi rend="grantha">heśvarar rakṣai</hi>
-
+        ten-karai <hi rend="grantha">brahmade</hi>yam nan=ti<hi rend="grantha">panma</hi>-ma<unclear>ṅ</unclear>kalattu<hi rend="grantha"> śrī</hi>-kaṟkuṭi viḻumiyārkku kaṇṭaṉ maturān=taka-<unclear>t</unclear>ēvar-āṉa <hi rend="grantha">śrī</hi>-Uttama-cōḻa-tēvarai-t tiru-vayiṟu vāytta Uṭaiya-pirāṭṭiyār pirān=takaṉ mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ mā-tēviyā
+        <lb n="2" break="no"/>r tiru-k-kaṟkuṭi Āḻvār viḻumiyārkku A<hi rend="grantha">bhikṣe</hi><!--EF: sic?-->kañ ceyya yāṇṭu 10-Āvatu ceytu tan=tu A<hi rend="grantha">bhikṣe</hi><!--EF: sic?-->kañ ceykiṉṟa <hi rend="grantha">śrī</hi>muṭi 1 poṉ 149(10) kaḻañ=cu
+    </p>
+    <p>
+        Ip-poṉ nūṟṟu nāl-pattu Oṉpatiṉ kaḻañcum Itaṉukku Uṭkūṭṭiraka-c ceytu taicca veḷḷi 190 mūṉ=ṟu mā 7 arai-vīcam Iv-veḷḷi
+        <lb n="3"/>190 mūṉ=ṟu mā 7 arai-vīcam kotta<unclear>mu</unclear>ttu 700m vaṭṭamaḻuvi pakaṭṭina māṇikkam 3m vayiram 27m Uṭai<unclear>ya</unclear> <hi rend="grantha">śrī</hi>-muṭi 1 pa<supplied reason="omitted">t</supplied>t' oṉpatin kaḻañc' araiyē Arai-<unclear>k</unclear>-kāl cāmarai ve[ḷ*]ḷi-k k<unclear>ā</unclear>l 6140<!--EF: sic?-->
+    </p>
+    <p>
+        mā<hi rend="grantha">heśvarar rakṣai</hi>
 </p>
 
 </div>
