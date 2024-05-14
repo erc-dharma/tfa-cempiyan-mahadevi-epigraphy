@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkōṭikkāval2 [Kōṭikā – KV37], X temple, time of X, year X</title>
+                <title>Tirukkōṭikkāval, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,80 +90,106 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
     
     <p>
         cālai
-<lb n="2"/>kalam aṟutta kō
-<lb n="3" break="no"/>-v-irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri
-<lb n="4" break="no"/>-pan<hi rend="grantha">ma</hi><reg>r</reg>kku yāṇṭu
-<lb n="5"/>13-Āvatu
+        <lb n="2"/>kalam aṟutta kō
+        <lb n="3" break="no"/>-v-irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri
+        <lb n="4" break="no"/>-pan<hi rend="grantha">ma</hi><reg>r</reg>kku yāṇṭu
+        <lb n="5"/>13-Āvatu
     </p>
     <p>
         Uṭai
-<lb n="6" break="no"/>yapirāṭṭiyār ce
-<lb n="7" break="no"/>mpiyaṉma<hi rend="grantha">hāde</hi>
-<lb n="8" break="no"/>viyār tirumukam vara
-<lb n="9" break="no"/>kkāṭṭiAruḷa Ivvū
-<lb n="10" break="no"/>r <hi rend="grantha">sabhai</hi>yārummā
-<lb n="11" break="no"/><hi rend="grantha">heśva</hi>rarumiruntu
-<lb n="12"/>Ittevar tirukko
-<lb n="13" break="no"/>yiluṭaiyarkaḷuk
-<lb n="14" break="no"/>ku Ittevar te
-<lb n="15" break="no"/>vatānattu nilat
-<lb n="16" break="no"/>tukku kiḻpāṟkke
-<lb n="17" break="no"/>llai Ittevar ni
-<lb n="18" break="no"/>lattukku mekku
-<lb n="19" break="no"/>m teṉpāṟkkel
-<lb n="20" break="no"/>lai kuṟukkaivāy
-<lb n="21" break="no"/>kkālukku vaṭakku
-<lb n="22" break="no"/>m melpāṟ<supplied reason="omitted">k</supplied>kel
-<lb n="23" break="no"/>lai putuvāy<supplied reason="omitted">k</supplied>kāl
-<lb n="24"/>niṉṟu ponta U
-<lb n="25" break="no"/>ṭciṟuvāy<supplied reason="omitted">k</supplied>kāluk
-<lb n="26" break="no"/>ku kiḻakkum vaṭapā
-<lb n="27" break="no"/>ṟ<supplied reason="omitted">k</supplied>kellai putuvā
-<lb n="28" break="no"/>y<supplied reason="omitted">k</supplied>kālukkutteṟ- /
-<lb n="29"/>kuminnaṭuvupa
-<lb n="30" break="no"/>ṭṭa nilattil mekka
-<lb n="31" break="no"/>ṭaiya Oru māṇukku
-<lb n="32"/>kāṟceyyāka Iv
-<lb n="33" break="no"/>vūr kolālaḷantu
-<lb n="34"/>nūṟu kuḻi koṇṭatu
-<lb n="35"/>Oru māvāka mukkāṟce
-<lb n="36" break="no"/>yyum Aḷavupaṭi koṇ
-<lb n="37" break="no"/>ṭu kuṟukkaivākkān ka
-<lb n="38" break="no"/>rai kulai Iru kolum
-<lb n="39"/>putuvākkāṉ karai O
-<lb n="40" break="no"/>ṉṟekāl kolum ni
-<lb n="41" break="no"/>kkiṉa nilammūṉṟe
-<lb n="42"/>kāl kolāl va
-<lb n="43" break="no"/>nta nilamum nā
-<lb n="44" break="no"/>ṅkaḷe peṟuvatā
-<lb n="45" break="no"/>kavum kulai nikki
-<lb n="46"/>mukkā<unclear>ṟceyyu</unclear>
-<lb n="47" break="no"/>kulaiyum ko- /
-<lb n="48"/><unclear>ṇṭu</unclear> cantirātita
-<lb n="49" break="no"/>val māṇi mūṉṟu
-<lb n="50"/>v<unclear>ai</unclear>kkaṭavo
-<lb n="51" break="no"/>mānom tirukko
-<lb n="52" break="no"/>viluṭaiyom pu
-<lb n="53" break="no"/>tuvāy<supplied reason="omitted">k</supplied>kāl niṉ
-<lb n="54" break="no"/>ṟu teṟku nokki
-<lb n="55" break="no"/>t{e}var nilattāṟe
-<lb n="56"/>pontu Eṅkaḷ /
-<lb n="57"/>teṉkulaiyaruke
-<lb n="58"/>pontu teṉkarai kāṟ
-<lb n="59" break="no"/>cekku pāyappeṟu
-<lb n="60" break="no"/>vatākavum māṇamuṭ
-<lb n="61" break="no"/>ṭil māṇal kuṟuṇi
-<lb n="62"/>nellu taṇṭappa
-<lb n="63" break="no"/>ṭuvom tirukkoyi
-<lb n="64" break="no"/>luṭaiyom I
-<lb n="65" break="no"/>v{ai} paṉmā<hi rend="grantha">[heśva</hi>ra ra<hi rend="grantha">kṣ</hi>ai] 
-</p>
+        <lb n="6" break="no"/>ya-pirāṭṭiyār ce
+        <lb n="7" break="no"/>mpiyaṉ ma<hi rend="grantha">hā-de</hi>
+        <lb n="8" break="no"/>viyār tiru-mukam vara
+        <lb n="9" break="no"/>-k kāṭṭi-Aruḷa Ivv-ū
+        <lb n="10" break="no"/>r <hi rend="grantha">sabhai</hi>yārum mā
+        <lb n="11" break="no"/><hi rend="grantha">heśva</hi>rarum iruntu
+        <lb n="12"/>It-tēvar tiru-k-ko
+        <lb n="13" break="no"/>yil-uṭaiyarkaḷuk
+        <lb n="14" break="no"/>ku It-tēvar te
+        <lb n="15" break="no"/>va-tānattu nilat
+        <lb n="16" break="no"/>tukku
+        
+        <list>
+            <item>
+                k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟkk' e
+        <lb n="17" break="no"/>llai It-tēvar ni
+        <lb n="18" break="no"/>lattukku mēkku
+        <lb n="19" break="no"/>m
+            </item>
+             <item>        
+        teṉ-pāṟkk' el
+        <lb n="20" break="no"/>lai kuṟukkai'vāy
+        <lb n="21" break="no"/>kkālukku vaṭakku
+        <lb n="22" break="no"/>m
+        </item>
+             <item>
+        mēl-pāṟ<supplied reason="omitted">k</supplied>k' el
+        <lb n="23" break="no"/>lai putu'vāy<supplied reason="omitted">k</supplied>kāl
+        <lb n="24"/>niṉṟu ponta U
+        <lb n="25" break="no"/>ṭciṟu'vāy<supplied reason="omitted">k</supplied>kāluk
+        <lb n="26" break="no"/>ku kiḻakkum
+        </item>
+             <item>
+        vaṭa-pā
+        <lb n="27" break="no"/>ṟ<supplied reason="omitted">k</supplied>k' ellai putuvā
+        <lb n="28" break="no"/>y<supplied reason="omitted">k</supplied>kālukku- t teṟ
+        <lb n="29"/>‡kum
+             </item>
+        </list>
+        
+        in-naṭuvu-pa
+        <lb n="30" break="no"/>ṭṭa nilattil mēkk' a
+        <lb n="31" break="no"/>ṭaiya Oru māṇukku
+        <lb n="32"/>kāṟceyyāka Iv
+        <lb n="33" break="no"/>v-ūr kolālaḷantu
+        <lb n="34"/>nūṟu kuḻi koṇṭatu
+        <lb n="35"/>Oru mā-v-āka mu-k-kāṟ ce
+        <lb n="36" break="no"/>yyum Aḷavupaṭi koṇ
+        <lb n="37" break="no"/>ṭu kuṟukkai-vākkān ka
+        <lb n="38" break="no"/>rai kulai Iru kolum
+        <lb n="39"/>putuvākkāṉ karai O
+        <lb n="40" break="no"/>ṉṟē kāl kolum n<choice><orig>i</orig><reg>ī</reg></choice>
+        <lb n="41" break="no"/>kkiṉa nilam mūṉṟe
+        <lb n="42"/>kāl kolāl va
+        <lb n="43" break="no"/>nta nilamum nā
+        <lb n="44" break="no"/>ṅkaḷe peṟuvat' ā
+        <lb n="45" break="no"/>kavum
+    </p>
+    <p>
+        kulai n<choice><orig>i</orig><reg>ī</reg></choice>kki
+        <lb n="46"/>mu-k-kā<unclear>ṟ ceyyu</unclear>
+        <lb n="47" break="no"/>kulaiyum ko
+        <lb n="48"/>‡<unclear>ṇṭu</unclear> cantirātita
+        <lb n="49" break="no"/>-val māṇi mūṉṟu
+        <lb n="50"/>v<unclear>ai</unclear><supplied reason="omitted">ka</supplied><!--EF added Check-->k kaṭavō
+        <lb n="51" break="no"/>mānōm tiru-k-kō
+        <lb n="52" break="no"/>vil-uṭaiyōm pu
+        <lb n="53" break="no"/>tu-vāy<supplied reason="omitted">k</supplied>kāl niṉ
+        <lb n="54" break="no"/>ṟu teṟku nōkki
+        <lb n="55" break="no"/>t{e}var nilattāṟe
+        <lb n="56"/>pontu Eṅkaḷ
+        <lb n="57"/>‡teṉ-kulaiyarukē
+        <lb n="58"/>pontu teṉ-karai kāṟ
+        <lb n="59" break="no"/>cekku pāya-p peṟu
+        <lb n="60" break="no"/>vat' ākavum
+    </p>
+    <p>
+        māṇamuṭ
+        <lb n="61" break="no"/>ṭil māṇal kuṟuṇi
+        <lb n="62"/>nellu taṇṭa-p-pa
+        <lb n="63" break="no"/>ṭuvōm tiru-k-kōyi
+        <lb n="64" break="no"/>l-uṭaiyōm
+    </p>
+    <p>
+        I
+        <lb n="65" break="no"/>v{ai} paṉmā<hi rend="grantha"><unclear>heśva</unclear></hi><unclear>ra-ra</unclear><hi rend="grantha"><unclear>kṣai</unclear></hi>
+    </p>
 
 </div>
 
