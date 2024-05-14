@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pāccil-Kōpurappaṭṭi2, X temple, time of X, year X</title>
+                <title>Pāccil-Kōpurappaṭṭi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -92,15 +92,20 @@
 
     <p>
         
-        <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>makaḷ pola-p peru-ni<unclear>lacce</unclear>lvi<unclear>yu</unclear><gap extent="unknown" reason="lost" unit="character"/>ṉak<gap extent="unknown" reason="lost" unit="character"/>kkān<hi rend="grantha">da</hi>lūr<unclear>cā</unclear>lai kalama<unclear>ṟu</unclear>tta <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rājarāja</hi>kecar<unclear>i</unclear>va<gap extent="unknown" reason="lost" unit="character"/> yānṭu <unclear>1</unclear><gap extent="unknown" reason="lost" unit="character"/>-Āvatu
+        <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>-makaḷ pōla-p peru-ni<unclear>la-c-ce</unclear>lvi<unclear>yu</unclear>
+        <gap extent="unknown" reason="lost" unit="character"/>ṉak<gap extent="unknown" reason="lost" unit="character"/>k
+        kān<hi rend="grantha">da</hi>lūr-<unclear>cā</unclear>lai kalam-a<unclear>ṟu</unclear>tta 
     </p>
     <p>
-        <hi rend="grantha">śrī</hi>Uttamac<unclear>o</unclear>ḻa<hi rend="grantha">de</hi>va<unclear>rai</unclear>
-        <lb n="2" break="no"/>tt<gap extent="unknown" reason="lost" unit="character"/><unclear>ta</unclear> <hi rend="grantha">śrī</hi>cempiyaṉmā-tēviyār tiru<gap extent="unknown" reason="lost" unit="character"/>ruḷakku<gap extent="unknown" reason="lost" unit="character"/> kuṭiñaik-kallā<gap extent="unknown" reason="lost" unit="character"/> nāṟpattuAṟu kaḻañce mu<gap extent="unknown" reason="lost" unit="character"/><unclear>kale ko</unclear>ṇṭum I
-        <lb n="3" break="no"/>c<gap extent="unknown" reason="lost" unit="character"/>
-
-</p>
-
+        <hi rend="grantha">śrī</hi>-kō-v-i<hi rend="grantha">rāja-rāja</hi>-kēcar<unclear>i</unclear>-va <gap extent="unknown" reason="lost" unit="character"/> yānṭu <unclear>1</unclear> <gap extent="unknown" reason="lost" unit="character"/> -Āvatu
+    </p>
+    <p>
+        <hi rend="grantha">śrī</hi>-Uttama-c<unclear>ō</unclear>ḻa-<hi rend="grantha">de</hi>va<unclear>rai</unclear>
+        <lb n="2" break="no"/>-t t <gap extent="unknown" reason="lost" unit="character"/> <unclear>ta</unclear> <hi rend="grantha">śrī</hi>-cempiyaṉ mā-tēviyār tiru <gap extent="unknown" reason="lost" unit="character"/> ruḷakku <gap extent="unknown" reason="lost" unit="character"/> kuṭiñai-k kallā <gap extent="unknown" reason="lost" unit="character"/> nāṟpattu Aṟu kaḻañcē mu<gap extent="unknown" reason="lost" unit="character"/><unclear>-kalē ko</unclear>ṇṭum I
+        <lb n="3" break="no"/>c <gap extent="unknown" reason="lost" unit="character"/>
+        
+    </p>
+    
 </div>
 
 <!--<div type="apparatus">

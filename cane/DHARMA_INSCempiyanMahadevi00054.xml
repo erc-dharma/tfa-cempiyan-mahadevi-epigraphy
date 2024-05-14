@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi11 [Cempiyaṉmātēvi-caturvedimaṅkalam], X temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, X temple, time of X, year X</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -90,15 +90,15 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
-<p>
-
-<lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>turāntaka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Uttamaco/ḻa<hi rend="grantha">de</hi>varaittiruvayiṟu vāytta Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>pirāntakaṉ<hi rend="grantha">mahāde</hi>/viyārā/ṉa <hi rend="grantha">śrī</hi>cempiyaṉ <hi rend="grantha">mahāde</hi>viyār
-<lb n="2"/><gap extent="unknown" reason="lost" unit="character"/>teviccatu<hi rend="grantha">rvve</hi><hi rend="grantha"><unclear>di</unclear></hi>-maṅkalattu <hi rend="grantha">śrī</hi>kayi/<hi rend="grantha">lāsa</hi>ttu <hi rend="grantha">śāsanabaddha</hi>c-catu<hi rend="grantha">r=v=vedibha</hi>ṭṭattāṉa-p perumakkaḷu/kku Ivvūr <hi rend="grantha">śrī</hi>kayi<hi rend="grantha">lāsa</hi>muṭaiya-<hi rend="grantha">mahā</hi>
-<lb n="3" break="no"/><hi rend="grantha">d</hi>{<hi rend="grantha">e</hi>}var kōyili/ley Ippirāṭṭiyār tirunāḷāṉa cittiraittirukkeṭṭai<unclear>y nāḷ</unclear> meykkāṭṭi Uṇpatāka ArumoḻiAriñcikaippirāṭṭi<gap extent="unknown" reason="lost" unit="character"/> <unclear>Arumo</unclear>ḻi-kuntavaiyārum Ivvūr Ūrkallā<supplied reason="omitted">l</supplied> kuṭutta poṉ 220 <gap extent="unknown" reason="lost" unit="character"/>
-<lb n="4"/>Ippoṉ <unclear>Irunūṟṟu</unclear>Irupatiṉ kaḻañcum I<hi rend="grantha">ddharmma can<choice><orig>t</orig><reg>d</reg></choice>rādit=ya</hi>vaṟ / ni[ṟ*]kum vaṇṇam Ippoṉ mutalaḻ<unclear>i</unclear>yāmey Itināl vanta <hi rend="grantha">bhoga</hi><gap extent="unknown" reason="lost" unit="character"/>ppeṟuvārkaḷāka vaiyttatu U
-
-</p>
-
+    <p>
+        
+        <lb n="1"/><gap extent="unknown" reason="lost" unit="character"/>turāntaka<hi rend="grantha">de</hi>varāṉa <hi rend="grantha">śrī</hi>Uttamaco/ḻa<hi rend="grantha">de</hi>varaittiruvayiṟu vāytta Uṭaiyapirāṭṭiyār <hi rend="grantha">śrī</hi>pirāntakaṉ<hi rend="grantha">mahāde</hi>/viyārā/ṉa <hi rend="grantha">śrī</hi>cempiyaṉ <hi rend="grantha">mahāde</hi>viyār
+        <lb n="2"/><gap extent="unknown" reason="lost" unit="character"/>teviccatu<hi rend="grantha">rvve</hi><hi rend="grantha"><unclear>di</unclear></hi>-maṅkalattu <hi rend="grantha">śrī</hi>kayi/<hi rend="grantha">lāsa</hi>ttu <hi rend="grantha">śāsanabaddha</hi>c-catu<hi rend="grantha">r=v=vedibha</hi>ṭṭattāṉa-p perumakkaḷu/kku Ivvūr <hi rend="grantha">śrī</hi>kayi<hi rend="grantha">lāsa</hi>muṭaiya-<hi rend="grantha">mahā</hi>
+        <lb n="3" break="no"/><hi rend="grantha">d</hi>{<hi rend="grantha">e</hi>}var kōyili/ley Ippirāṭṭiyār tirunāḷāṉa cittiraittirukkeṭṭai<unclear>y nāḷ</unclear> meykkāṭṭi Uṇpatāka ArumoḻiAriñcikaippirāṭṭi<gap extent="unknown" reason="lost" unit="character"/> <unclear>Arumo</unclear>ḻi-kuntavaiyārum Ivvūr Ūrkallā<supplied reason="omitted">l</supplied> kuṭutta poṉ 220 <gap extent="unknown" reason="lost" unit="character"/>
+        <lb n="4"/>Ippoṉ <unclear>Irunūṟṟu</unclear>Irupatiṉ kaḻañcum I<hi rend="grantha">ddharmma can<choice><orig>t</orig><reg>d</reg></choice>rādit=ya</hi>vaṟ / ni[ṟ*]kum vaṇṇam Ippoṉ mutalaḻ<unclear>i</unclear>yāmey Itināl vanta <hi rend="grantha">bhoga</hi><gap extent="unknown" reason="lost" unit="character"/>ppeṟuvārkaḷāka vaiyttatu U
+        
+    </p>
+    
 </div>
 
 <!--<div type="apparatus">
