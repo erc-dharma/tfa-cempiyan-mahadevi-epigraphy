@@ -10,19 +10,19 @@
 			<titleStmt>
 				<title>Kōṉērirājapuram, Umāmaheśvara temple, time of Uttama Cōḻa, no year</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:nica">
-						<forename>Nicolas</forename>
-						<surname>Cane</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:nica">
 						<forename>Nicolas</forename>
 						<surname>Cane</surname>
 					</persName>
 				</respStmt>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:nica">
+						<forename>Nicolas</forename>
+						<surname>Cane</surname>
+					</persName>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
