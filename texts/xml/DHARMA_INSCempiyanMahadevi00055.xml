@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kōṉērirājapuram, Umāmaheśvara temple, time of Uttama Cōḻa, no year</title>
+				<title>Kōṉērirājapuram, Umāmaheśvara, time of Uttama Cōḻa, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:nica">
@@ -100,26 +100,25 @@
 		<lb n="1"/><hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var tēviyār mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ mā-tēviyā
 		<lb n="2" break="no"/>r ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiya tiru-makaṉār <hi rend="grantha">śrī-madhu</hi>rāntaka-tēvar-āṉa <hi rend="grantha">śrī</hi>-Uttama-cōḻar tiru-<hi rend="grantha">rājya</hi>ñ ceyt-a
 		<lb n="3" break="no"/>ruḷā niṟka-t ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiyār <hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var tiru-nāmattāl tiru-nallam-uṭaiyārk=ku
-		<lb n="4" break="no"/>-t tiru-k-kaṟ-ṟaḷi Eḻunt-aruḷuvittu It-tiru-k-kaṟ-ṟaḷiyilēy tiru-nallam-uṭaiyārai-t tiruvaṭi-t to
+		<lb n="4" break="no"/>-t tiru-k-kaṟ-ṟaḷi Eḻunt-aruḷuvittu It-tiru-k-kaṟ-ṟaḷiyilē-y tiru-nallam-uṭaiyārai-t tiru-v-aṭi-t to
 		<lb n="5" break="no"/>ḻukiṉṟār āka Eḻunt-aruḷuvitta <hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var Ivar <g type="gomutraFinal">§§§§</g><unclear><g type="gomutraFinal">§</g></unclear>   
 		
 	</p>
 		
 	</div>
 	
-	<div type="apparatus">
+<div type="apparatus">
 		
-		<listApp>
-			
-			<app loc="1">
-				<lem><hi rend="grantha">śrī</hi>kaṇṭar°</lem>
-				<rdg source="bib:KrishnaSastri1920_01">kaṇṭar°</rdg>
-			</app>
-			
-			
-		</listApp>         
-
-	</div>
+	<listApp>
+		
+		<app loc="1">
+			<lem><hi rend="grantha">śrī</hi>kaṇṭar°</lem>
+			<rdg source="bib:KrishnaSastri1920_01 bib:Swaminathan2012_01">kaṇṭar°</rdg>
+		</app>
+		
+	</listApp>         
+	
+</div>
 
 
 <div type="translation" resp="part:emfr">
@@ -129,7 +128,7 @@
 	</p>
 	
 	<p n="1-5">
-		While the glorious Uttama Cōḻa — <hi rend="italic">alias</hi> the glorious king Madhurāntaka, the glorious son of the glorious Cempiyaṉ Mātēvi, <hi rend="italic">alias</hi> the honourable great queen <supplied reason="explanation"><foreign>mā-tēvaṭikaḷār</foreign></supplied>, queen <supplied reason="explanation"><foreign>tēviyār</foreign></supplied> of the the glorious king Gaṇḍarāditya — was continuosuly graciously exercising the glorious rule,
+		While the glorious Uttama Cōḻa — <hi rend="italic">alias</hi> the glorious king Madhurāntaka, the glorious son of the glorious Cempiyaṉ Mātēvi, <hi rend="italic">alias</hi> the honourable great queen <supplied reason="explanation"><foreign>mā-tēvaṭikaḷār</foreign></supplied>, queen <supplied reason="explanation"><foreign>tēviyār</foreign></supplied> of the the glorious king Gaṇḍarāditya — was continuously graciously exercising the glorious rule,
 		<supplied reason="subaudible">she<note>That is, Cempiyaṉ Mātēvi.</note></supplied> having had graciously a glorious stone temple for the Lord of Tirunallam raised in the name of the glorious king Gaṇḍarāditya,
 		this<note>That is, the stone sulpture above the inscription.</note> <supplied reason="subaudible">is</supplied> the glorious king Gaṇḍarāditya that <supplied reason="subaudible">she<note>That is, Cempiyaṉ Mātēvi.</note></supplied> had graciously raised<note>That is, "installed".</note>, so that he<note>That is, Gaṇḍarāditya.</note> keeps worshipping the glorious feet of the Lord of Tirunallam in this glorious stone temple.
 	</p>
@@ -150,15 +149,14 @@ Sa Majesté le Roi Kaṇṭarādittar, tandis que son fils béni <supplied reaso
 tiru-makaṉār</foreign></supplied>, Sa Majesté le Roi Madhurāntaka <hi rend="italic">alias</hi> le glorieux Uttama-Cōḻa, accomplit la grâce d'exercer <supplied reason="subaudible">son</supplied> règne prospère <supplied reason="explanation"><foreign>tiru-rājyañ ceytaruḷā niṟka</foreign></supplied>, celui-ci <supplied reason="explanation"><foreign>ivar</foreign></supplied> <supplied reason="subaudible">est</supplied>] Sa Majesté le Roi Kaṇṭarādittar qu'<supplied reason="subaudible">elle</supplied>a fait apparaître gracieusement <supplied reason="explanation"><foreign>eḻuntaruḷuvitta</foreign></supplied> en train d'adorer les pieds sacrés du Seigneur du glorieux Nallam <supplied reason="explanation"><foreign>tiru-nallam-uṭaiyārai-t tiru-v-aṭi-t toḻukiṉṟāka</foreign></supplied> au sein de ce même divin temple de pierre <supplied reason="explanation"><foreign>i-t-tiru-k-kaṟṟaḷiyilēy</foreign></supplied> !</p>
 	</div>
 	
-<div type="commentary">
+<!--<div type="commentary">
 	
-</div>
+</div>-->
 	
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/450).</p>	
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.146) with facsimile and English translation; edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.218); edited, with French translation, in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55), based on autopsy, photographs, and published visual documentation.</p>
-	
+	<p>Edited, with facsimile and English translation, in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.146); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.218); edited, with French translation, in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55), based on autopsy, photographs, and published visual documentation.</p>	
 	<p>This edition by Nicolas Cane (2020).</p>      
         	
 	<listBibl type="primary">
