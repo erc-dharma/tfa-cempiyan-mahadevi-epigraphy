@@ -141,7 +141,7 @@
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/C/1907/28 ).</p>
 	<p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 61).</p>
 	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
 
@@ -165,10 +165,10 @@
 	<listBibl type="secondary">
 
 		<bibl>
-			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">17</citedRange>
-			<citedRange unit="appendix">B/1892</citedRange>
-			<citedRange unit="item">96</citedRange>
+			<ptr target="bib:ARIE1906-1907"/>
+			<citedRange unit="page">44</citedRange>
+			<citedRange unit="appendix">C/1907</citedRange>
+			<citedRange unit="item">28</citedRange>
 		</bibl>
 
 	</listBibl>
