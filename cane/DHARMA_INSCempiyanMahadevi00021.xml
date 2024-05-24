@@ -144,14 +144,14 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1925-1926/B/1925/489).</p>
-    <p>Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.216); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 21).</p>
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.458); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.216); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 21).</p>
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
         <bibl n="SII">
-            <ptr target="bib:Hultzsch1895_01"/>
-            <citedRange unit="item">75</citedRange>
+            <ptr target="bib:SrinivasaRao1967_01"/>
+            <citedRange unit="item">458</citedRange>
             <citedRange unit="page">TBC</citedRange>
         </bibl>
         
@@ -164,7 +164,7 @@
         
         <bibl n="C">
             <ptr target="bib:Cane2017_01"/>
-            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="page">815</citedRange>
             <citedRange unit="item">21</citedRange>
             <citedRange unit="figure">TBC</citedRange>
         </bibl>

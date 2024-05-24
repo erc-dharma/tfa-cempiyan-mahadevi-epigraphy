@@ -146,38 +146,45 @@
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/626).</p>
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.147); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 56), based on autopsy (2011, 2013).</p>
-	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="item">147</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-
-		<bibl n="C">
-			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">879-880</citedRange>
-			<citedRange unit="item">56</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl>
-			<ptr target="bib:ARIE1909-1910"/>
-			<citedRange unit="page">46</citedRange>
-			<citedRange unit="appendix">B/1909</citedRange>
-			<citedRange unit="item">626</citedRange>
-		</bibl>
-
-	</listBibl>
-
+    <p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/626).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.147); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.227); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 56), based on autopsy (2011-08 and 2013-07).</p>
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1920_01"/>
+            <citedRange unit="item">147</citedRange>
+            <citedRange unit="page">TBC</citedRange>
+        </bibl>
+        
+        <bibl n="S">
+            <ptr target="bib:Swaminathan2012_01"/>
+            <citedRange unit="part">II</citedRange>
+            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="item">227</citedRange>
+        </bibl>
+        
+        <bibl n="C">
+            <ptr target="bib:Cane2017_01"/>
+            <citedRange unit="page">879-880</citedRange>
+            <citedRange unit="item">56</citedRange>
+            <citedRange unit="figure">TBC</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1909-1910"/>
+            <citedRange unit="page">46</citedRange>
+            <citedRange unit="appendix">B/1909</citedRange>
+            <citedRange unit="item">626</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
 </div>
 </body>
 	</text>
