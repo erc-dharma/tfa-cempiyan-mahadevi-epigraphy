@@ -93,26 +93,25 @@
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/><g type="ddanda"/> svasti śrī <g type="ddanda"/>        
     </ab>
-    <p>
-        tiru-maka<gap extent="unknown" reason="lost" unit="character"/>
-        <unclear>kkē yurimai</unclear>/ pūṇṭa/m{ai} maṉa-k-koḷa-k
-        kān=taḷūr-c-cālai kalam-a/ṟutt-aruḷi
-        veṅkai-nāṭum ka<unclear>ṅ</unclear>/<gap extent="unknown" reason="lost" unit="character"/>
-        <unclear>m</unclear>pa-pāṭ<unclear>i</unclear> <gap extent="unknown" reason="lost" unit="character"/>ṭ<unclear>i</unclear>kai<unclear>-pā</unclear>ṭiyuṅ
-        kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum
-        Eṇ-ṭicai pukaḻ tara Īḻa-maṇṭalamun=
-        tiṇ-ṭiṟa/<unclear>l</unclear> veṉṟi taṇṭāṟ koṇṭu taṉṉ
-        eḻil / vaḷaruḻiyuḷ ellā yāṇṭun
-        toḻuta/<gap extent="unknown" reason="lost" unit="character"/> viḷaṅku<lb n="2" break="no"/>m yāṇṭē
-        ceḻiya<gap extent="unknown" reason="lost" unit="character"/>ai <gap extent="unknown" reason="lost" unit="character"/>cu koḷ
-    </p>
+    <lg n="1" met="āciriyappā">
+        <l n="1">tiru-maka <gap extent="unknown" reason="lost" unit="character"/></l>
+        <l n="2"><gap reason="lost" quantity="1" unit="character"/><unclear>kkē yurimai</unclear>/ pūṇṭa/m{ai} maṉa-k-koḷa-k</l>
+        <l n="3">kān=taḷūr-c-cālai kalam-a/ṟutt-aruḷi</l>
+        <l n="4">veṅkai-nāṭum ka<unclear>ṅ</unclear>/<gap extent="unknown" reason="lost" unit="character"/></l>
+        <l n="5"><gap reason="lost" quantity="2" unit="character"/><unclear>m</unclear>pa-pāṭ<unclear>i</unclear> <gap extent="unknown" reason="lost" unit="character"/>ṭ<unclear>i</unclear>kai<unclear>-pā</unclear>ṭiyuṅ</l>
+        <l n="6">kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum</l>
+        <l n="7">Eṇ-ṭicai pukaḻ tara Īḻa-maṇṭalamun=</l>
+        <l n="8">tiṇ-ṭiṟa/<unclear>l</unclear> veṉṟi taṇṭāṟ koṇṭu taṉṉ</l>
+        <l n="9">eḻil / vaḷaruḻiyuḷ ellā yāṇṭun</l>
+        <l n="10">toḻuta/<gap extent="unknown" reason="lost" unit="character"/> viḷaṅku<lb n="2" break="no"/>m yāṇṭē</l>
+        <l n="11">ceḻiya<gap extent="unknown" reason="lost" unit="character"/>ai <gap extent="unknown" reason="lost" unit="character"/>cu koḷ</l>
+    </lg>
     <p>
         <hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">nma</hi>ṟku yā<unclear>ṇ</unclear>/ṭu 17 Ā/vatu ḷ 245 
     </p>
     <p>
         Ūṟṟu-k-kāṭṭu-k-kōṭṭattu-[t*] ta/ṉ-kūṟṟu <hi rend="grantha">śrī</hi>-Uttama-cōḻa-c-catu<hi rend="grantha">rvve</hi>t<unclear>i</unclear>/<gap extent="unknown" reason="lost" unit="character"/> <hi rend="grantha"><unclear>śrī</unclear></hi>-Uttama-<unclear>cō</unclear><gap extent="unknown" reason="lost" unit="character"/><hi rend="grantha">śva</hi>ratt' āḷvārkku <hi rend="grantha">śrī</hi>'kaṇṭar-ā<hi rend="grantha">di</hi>t=ta-<hi rend="grantha">de</hi>var nampirāṭṭiyār <hi rend="grantha">śrī</hi>-Uttama-cōḻa-<hi rend="grantha">de</hi>varai-[t*] tiru-vayiṟu vā[y*]tt-aruḷiṉa pirāṉ=ta/kaṉ mā-tēvaṭikaḷār-āṉa <hi rend="grantha">śrī</hi>-cempiyaṉ <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>vi/yār-āna Uṭ<unclear>ai</unclear>ya-pirāṭṭiyār I<hi rend="grantha">d=-de</hi>vark=ku Amutu-ce/yya kuṭu
-        <lb n="3" break="no"/>tta veḷḷitaḷikai <gap extent="unknown" reason="lost" unit="character"/> toṇūṟṟ <gap extent="unknown" reason="lost" unit="character"/>
-        
+        <lb n="3" break="no"/>tta veḷḷitaḷikai <gap extent="unknown" reason="lost" unit="character"/> toṇūṟṟ <gap extent="unknown" reason="lost" unit="character"/>        
     </p>
 
 </div>
