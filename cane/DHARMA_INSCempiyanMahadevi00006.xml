@@ -285,8 +285,8 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/250).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.235); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.64); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 6).</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">478ff</citedRange></bibl>.</p>
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.235); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.64); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 6), based on autopsy (2015-08).</p>
+    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">480ff</citedRange></bibl>.</p>
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">

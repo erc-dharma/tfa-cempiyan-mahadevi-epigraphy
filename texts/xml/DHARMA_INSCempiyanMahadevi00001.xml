@@ -133,7 +133,7 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 	
     <p n="1-3">
         Thirty-fourth year of the king Parakesarivarman who took Maturai.
@@ -151,7 +151,7 @@
         <supplied reason="subaudible">This is under the</supplied> protection of the Paṉmāheśvaras.
     </p>
     
-</div>
+</div>-->
     
 <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
@@ -170,7 +170,7 @@
 	    Pirāntakaṉ, vénérable fille de Maḻa-Perumāḷ, la vénérable Mātēvaṭikaḷ
 	    <supplied reason="subaudible">belle-fille</supplied> de Pirāntakaṉ, a déposé quatre vingt-dix chèvres adultes qui ni
 	    ne périront ni ne vieilliront <supplied reason="explanation"><foreign>vaitta cāvā mūvā-p pēr-āṭu toṇṇūṟu</foreign></supplied>. <supplied reason="subaudible">Ceci est
-	    sous</supplied> la protection des panmāheśvara !
+	    sous</supplied> la protection des <foreign>panmāheśvara</foreign> !
 	</p>
         
 </div>
@@ -180,8 +180,8 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>	
-    <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 1), based on autopsy.</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">153ff</citedRange></bibl>.</p>
+    <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 1), based on autopsy (2012-09).</p>
+    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">155ff</citedRange></bibl>.</p>
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>      
     
     <listBibl type="primary">

@@ -538,8 +538,9 @@
     </listApp>
 
 </div>-->
+    
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
     
     <p n="1">
         Prosperity! Fortune!
@@ -549,7 +550,7 @@
         <supplied reason="subaudible">This is under the</supplied> protection of the Paṉmāheśvaras.
     </p>
     
-</div>
+</div>-->
 
 
 <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
@@ -1416,8 +1417,8 @@ suivantes] (…) (lignes 193 et 195973) ;</p>
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/635).</p>
-    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.151 and SII 3.151A); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.52 and SII 32.2.52A); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 5).</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">345-408.</citedRange></bibl>.</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.151 and SII 3.151A); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.52 and SII 32.2.52A); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 5), based on autopsy (2011-08, 2013-07).</p>
+    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">345ff</citedRange></bibl>.</p>
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">

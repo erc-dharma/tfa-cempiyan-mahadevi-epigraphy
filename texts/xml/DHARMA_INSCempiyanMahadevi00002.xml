@@ -132,7 +132,7 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
     <p n="1">
         Prosperity! Fortune!
@@ -156,15 +156,15 @@
     
     <p n="12">He who has protected this, the dust of his feet <supplied reason="lost">are on</supplied> my head.</p>
 
-</div>
+</div>-->
 
 <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p>
-	    Succès ! Prospérité ! <supplied reason="subaudible">En</supplied> la 41e année <supplied reason="subaudible">de règne</supplied> du roi Parakēcarivarmaṉ
-	    qui s'empara de Madurai et de Laṅkā, par notre intermédiaire, nous de la
-	    sabhā de Ravikulacūḷāmaṇi-caturvedimaṅkalam <supplied reason="explanation"><foreign>iravikulacūḷāmaṇicaturvētimaṅkalattu
-	    sabhaiyōm vaḻi</foreign></supplied>, <supplied reason="subaudible">un <foreign>brahmadeya</foreign></supplied> sur la rive sud de la
+	    
+	    Succès ! Prospérité !
+	    
+	    <supplied reason="subaudible">En</supplied> la 41e année <supplied reason="subaudible">de règne</supplied> du roi Parakēcarivarmaṉ qui s'empara de Madurai et de Laṅkā, par notre intermédiaire, nous de la <foreign>sabhā</foreign> de Ravikulacūḷāmaṇi-caturvedimaṅkalam <supplied reason="explanation"><foreign>iravikulacūḷāmaṇicaturvētimaṅkalattu sabhaiyōm vaḻi</foreign></supplied>, <supplied reason="subaudible">un <foreign>brahmadeya</foreign></supplied> sur la rive sud de la
 	    Peṉṉai dans le Vāṇakōppaṭi, la vénérable Cempiyaṉ-Mātēvi, vénérable
 	    épouse du vénérable Prince Kaṇṭarātittar le béni <supplied reason="explanation"><foreign>piḷḷaiyār tiru-kaṇṭarātittar
 	    tēviyār cempiyaṉ-mātēviyār</foreign></supplied>, a, au profit du Grand Dieu <supplied reason="explanation">Śiva</supplied> du glorieux
@@ -176,7 +176,7 @@
 	    mātēviyār</foreign></supplied> afin que l'on fasse brûler <supplied reason="subaudible">une</supplied> lampe <supplied reason="subaudible">perpétuelle</supplied> aussi
 	    longtemps que <supplied reason="subaudible">brilleront</supplied> la lune et le soleil <supplied reason="subaudible">au moyen d'une</supplied> mesure
 	    quotidienne de beurre clarifié <supplied reason="explanation"><foreign>viḷakku cantirātittaval nicatam uḻakku ney
-	    erippatāka</foreign></supplied>. Ceci <supplied reason="subaudible">est sous</supplied> la protection des panmāheśvara ! Ayant placé les pieds de ceux qui protègent ceci sur ma tête <gap reason="lost"/>
+	    erippatāka</foreign></supplied>. Ceci <supplied reason="subaudible">est sous</supplied> la protection des <foreign>panmāheśvara</foreign> ! Ayant placé les pieds de ceux qui protègent ceci sur ma tête <gap reason="lost"/>
 	</p>
         
 </div>
@@ -186,7 +186,7 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/221).</p>
-    <p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 2), based on ASI estampage (consulted in Mysore, 2013).</p>    
+    <p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 2), based on ASI estampage (consulted in Mysore, 2013-09).</p>    
     <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">171ff</citedRange></bibl>.</p>
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
 
