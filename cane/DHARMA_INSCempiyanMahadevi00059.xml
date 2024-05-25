@@ -150,53 +150,52 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/10).</p>
-	<p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 59), based on ASI transcript consulted in Mysore.</p>
-	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-
-	<listBibl type="primary">
-	    
-		<bibl n="C">
-			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">882-883</citedRange>
-			<citedRange unit="item">59</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl>
-			<ptr target="bib:ARIE1914-1915"/>
-			<citedRange unit="page">11</citedRange>
-			<citedRange unit="appendix">B/1914</citedRange>
-			<citedRange unit="item">10</citedRange>
-		</bibl>
-
-	</listBibl>
-
+    <p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/10).</p>
+    <p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 59), based on ASI transcript consulted in Mysore.</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="C">
+            <ptr target="bib:Cane2017_01"/>
+            <citedRange unit="page">882-883</citedRange>
+            <citedRange unit="item">59</citedRange>
+            <citedRange unit="figure">TBC</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1914-1915"/>
+            <citedRange unit="page">11</citedRange>
+            <citedRange unit="appendix">B/1914</citedRange>
+            <citedRange unit="item">10</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
 </div>
 </body>
 	</text>

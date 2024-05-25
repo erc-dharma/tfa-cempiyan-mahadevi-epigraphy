@@ -120,22 +120,20 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
@@ -143,6 +141,7 @@
 
     <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/C/1907/28 ).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.148); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.225); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 61), based on previous editions.</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">

@@ -94,21 +94,21 @@
         
         <lb n="1"/>svasti srī<!--EF:sic?-->
     </ab>
+    
     <p>
-<lb n="2"/>talaiccaṅkāṭṭu
-<lb n="3" break="no"/>pperu<supplied reason="omitted">n</supplied>tirukko
-<lb n="4" break="no"/>yilil <hi rend="grantha">mahāde</hi>
-<lb n="5" break="no"/>varkku Uttamaco
-<lb n="6" break="no"/>ḻar taṅkaḷācci
-<lb n="7"/>pirāntakaṉmā
-<lb n="8" break="no"/>tevaṭika
-<lb n="9" break="no"/>ḷākiya cem
-<lb n="10" break="no"/>piyaṉ<hi rend="grantha">mahāde</hi>
-<lb n="11" break="no"/>vi kuṭutta
-<lb n="12"/>veḷḷiccap
-<lb n="13" break="no"/>param niṟai
-<lb n="14"/><gap extent="unknown" reason="lost" unit="character"/>5<unclear>9</unclear><gap extent="unknown" reason="lost" unit="character"/>
-
+        <lb n="2"/>talaiccaṅkāṭṭu
+        <lb n="3" break="no"/>pperu<supplied reason="omitted">n</supplied>tirukko
+        <lb n="4" break="no"/>yilil <hi rend="grantha">mahāde</hi>
+        <lb n="5" break="no"/>varkku Uttamaco
+        <lb n="6" break="no"/>ḻar taṅkaḷācci
+        <lb n="7"/>pirāntakaṉmā
+        <lb n="8" break="no"/>tevaṭika
+        <lb n="9" break="no"/>ḷākiya cem
+        <lb n="10" break="no"/>piyaṉ<hi rend="grantha">mahāde</hi>
+        <lb n="11" break="no"/>vi kuṭutta
+        <lb n="12"/>veḷḷiccap
+        <lb n="13" break="no"/>param niṟai
+        <lb n="14"/><gap extent="unknown" reason="lost" unit="character"/>5<unclear>9</unclear><gap extent="unknown" reason="lost" unit="character"/>
 </p>
 
 </div>
@@ -126,22 +126,20 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
@@ -149,6 +147,7 @@
 
     <p>Reported in <bibl><ptr target="bib:ARIE1924-1925"/></bibl> (ARIE/1924-1925/B/1925/204 ).</p>
     <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.224); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 57), based on ASI estampage consulted in Mysore.</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
