@@ -125,58 +125,57 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/327).</p>
-	<p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.40); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 26), based on <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl>.</p>
-	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:SrinivasaRao1952_01"/>
-			<citedRange unit="item">40</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-
-		<bibl n="C">
-			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">819-820</citedRange>
-			<citedRange unit="item">26</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl>
-			<ptr target="bib:ARIE1907-1908"/>
-			<citedRange unit="page">25</citedRange>
-			<citedRange unit="appendix">B/1907</citedRange>
-			<citedRange unit="item">327</citedRange>
-		</bibl>
-
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/327).</p>
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.40); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 26), based on <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl>.</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SrinivasaRao1952_01"/>
+            <citedRange unit="item">40</citedRange>
+            <citedRange unit="page">TBC</citedRange>
+        </bibl>
+        
+        <bibl n="C">
+            <ptr target="bib:Cane2017_01"/>
+            <citedRange unit="page">819-820</citedRange>
+            <citedRange unit="item">26</citedRange>
+            <citedRange unit="figure">TBC</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1907-1908"/>
+            <citedRange unit="page">25</citedRange>
+            <citedRange unit="appendix">B/1907</citedRange>
+            <citedRange unit="item">327</citedRange>
+        </bibl>
+        
+    </listBibl>
 
 </div>
 </body>

@@ -127,12 +127,12 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		Prosperity! Fortune!
 	</p>
-</div>
+</div>-->
 
 <!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
@@ -147,7 +147,8 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/156).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.10); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 23).</p>
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.10); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 23), based on autopsy (2012-09).</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
     <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">

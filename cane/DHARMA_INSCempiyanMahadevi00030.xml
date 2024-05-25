@@ -141,29 +141,28 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/9).</p>
-	<p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 30), based on ASI transcript consuleted in Mysore.</p>
+	<p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 30), based on ASI transcript consulted in Mysore.</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
 	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
 
 	<listBibl type="primary">

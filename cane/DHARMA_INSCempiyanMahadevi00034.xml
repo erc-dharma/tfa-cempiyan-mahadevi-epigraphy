@@ -132,58 +132,57 @@
 
 </div>-->
 
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
 
 	<p n="1">
 		...
 	</p>
-</div>
+</div>-->
 
-
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
 
 	<p n="1">
 	    ...
 	</p>
 
-</div>
+</div>-->
 
 <!--<div type="commentary"/>-->
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/571).</p>
-	<p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.617); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 34).</p>
-	<p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:Krishnan1964_01"/>
-			<citedRange unit="item">617</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-
-		<bibl n="C">
-			<ptr target="bib:Cane2017_01"/>
-			<citedRange unit="page">848</citedRange>
-			<citedRange unit="item">34</citedRange>
-			<citedRange unit="figure">TBC</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl>
-			<ptr target="bib:ARIE1904-1905"/>
-			<citedRange unit="page">22</citedRange>
-			<citedRange unit="appendix">A/1904</citedRange>
-			<citedRange unit="item">571</citedRange>
-		</bibl>
-
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/571).</p>
+    <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.617); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 34), based on autopsy (2011-09).</p>
+    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
+    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:Krishnan1964_01"/>
+            <citedRange unit="item">617</citedRange>
+            <citedRange unit="page">TBC</citedRange>
+        </bibl>
+        
+        <bibl n="C">
+            <ptr target="bib:Cane2017_01"/>
+            <citedRange unit="page">848</citedRange>
+            <citedRange unit="item">34</citedRange>
+            <citedRange unit="figure">TBC</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1904-1905"/>
+            <citedRange unit="page">22</citedRange>
+            <citedRange unit="appendix">A/1904</citedRange>
+            <citedRange unit="item">571</citedRange>
+        </bibl>
+        
+    </listBibl>
 
 </div>
 </body>
