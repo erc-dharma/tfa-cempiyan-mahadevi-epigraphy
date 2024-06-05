@@ -208,7 +208,7 @@
         <lb n="93" break="no"/>k=k' aṭaiya nāṉ-mā n<choice><orig>i</orig><reg>ī</reg></choice>
         <lb n="94" break="no"/>kki Itiṉoṭum aṭai
         <lb n="95" break="no"/>ya 2 māvum Iv-u<!--sic?-->r ma
-        <lb n="96" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <num value="300">3 100+</num> vaṉ
+        <lb n="96" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <num value="300">3 <g type="numeral">100</g></num> vaṉ
         <lb n="97"/>tiru-vēeṅkaṭam
         <lb n="98"/>viṟṟu tan=ta ni
         <lb n="99" break="no"/>lam āvatu
@@ -232,7 +232,7 @@
         <lb n="112"/><g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
     </p>
     <p>
-        yāṇṭu 9-Āvatu cantirātitta-vaṟ Iṭṭa ceppu-k=-kalaiyam <num value="108">100+ 8</num>-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
+        yāṇṭu 9-Āvatu cantirātitta-vaṟ Iṭṭa ceppu-k=-kalaiyam <num value="108"><g type="numeral">100</g> 8</num>-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
     </p>
 
 </div>
