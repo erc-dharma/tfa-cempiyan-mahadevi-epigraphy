@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Uṭaiyārkuṭi, Ananteśvarasvāmin, time of Parakesarivarman, year 2</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:nica">
-                        <forename>Nicolas</forename>
-                        <surname>Cane</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -176,8 +169,8 @@
 
     <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/B/1920/540).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), based on autopsy (2012-08).</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">207ff</citedRange></bibl>.</p>
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">207ff</citedRange></bibl>.</p>    
+    <p>This digital edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis.</p>
     
     <listBibl type="primary">
         

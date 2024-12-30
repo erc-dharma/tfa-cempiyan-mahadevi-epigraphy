@@ -10,19 +10,16 @@
 			<titleStmt>
 				<title>Kōṉērirājapuram, Umāmaheśvara, time of Uttama Cōḻa, no year</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:nica">
 						<forename>Nicolas</forename>
 						<surname>Cane</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:nica">
-						<forename>Nicolas</forename>
-						<surname>Cane</surname>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
 					</persName>
-				</respStmt>				
+				</respStmt>		
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -157,8 +154,8 @@ tiru-makaṉār</foreign></supplied>, Sa Majesté le Roi Madhurāntaka <hi rend=
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/450).</p>	
 	<p>Edited, with facsimile and English translation, in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (SII 3.146); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.218); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 55), based on autopsy (2011-08, 2013-07).</p>	
-	<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">413ff</citedRange></bibl>.</p>
-	<p>This edition by Nicolas Cane (2020).</p>      
+	<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">413ff</citedRange></bibl>.</p>	
+	<p>This digital edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Nicolas Cane and Emmanuel Francis.</p>
         	
 	<listBibl type="primary">
 		

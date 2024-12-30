@@ -10,19 +10,12 @@
             <titleStmt>
                 <title>Uyyakkoṇṭāṉ Tirumalai, Ujjīvanātha, time of Parakesarivarman, year 34</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:nica">
-                        <forename>Nicolas</forename>
-                        <surname>Cane</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>                
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -182,7 +175,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/96).</p>	
     <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.75); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 1), based on autopsy (2012-09).</p>
     <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">155ff</citedRange></bibl>.</p>
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>      
+    <p>This digital edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis.</p>      
     
     <listBibl type="primary">
         
