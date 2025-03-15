@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvēḷvikkuṭi, X temple, time of X, year X</title>
+                <title>Tiruvēḷvikkuṭi, Maṇavāḷēśvara temple, year 6 of unspecified king</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -107,7 +107,7 @@
         <lb n="7" break="no"/>cu
     </p>
     <p>
-        Itu pan<hi rend="grantha">māheśvarar ra</hi>[<hi rend="grantha">kṣ</hi>*]<hi rend="grantha">ai</hi><!--EF: check-->        
+        Itu pan<hi rend="grantha">māheśvarar ra</hi><supplied reason="omitted"><hi rend="grantha">kṣ</hi></supplied><hi rend="grantha">ai</hi><!--EF: check-->        
     </p>
 
 </div>
