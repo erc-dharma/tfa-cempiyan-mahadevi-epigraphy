@@ -10,14 +10,11 @@
             <titleStmt>
                 <title>Tiruvicalūr, Śivayoganāthasvāmin temple, time of Kōṉēriṉmaikoṇṭāṉ, year 6, day 185</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:nica">
                         <forename>Nicolas</forename>
                         <surname>Cane</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -189,7 +186,7 @@
     <p n="1">
         
         Prospérité ! Fortune !
-        « Le Roi sans égal » <supplied reason="explanation"><foreign>kōn-ēr-iṉmai koṇṭāṉ</foreign></supplied> <supplied reason="subaudible">s'adresse</supplied> à ceux de l'assemblée de brahmanes de Vēmpaṟṟūr <supplied reason="explanation"><foreign>vēmpaṟṟūr sabhaiyārkku</foreign></supplied>, un <foreign>brahmadeya</foreign> et <foreign>taṉiyūr</foreign> du district de Maṇṇi <supplied reason="explanation"><foreign>maṇṇi-nāṭṭu prahmatēyam taṉiyūr</foreign></supplied>, <supplied reason="subaudible">au sujet des</supplied> trois mille neuf cent dix <foreign>kaḻañcu</foreign> trois quarts et trois <foreign>mañcāṭi</foreign> d'or pur <supplied reason="explanation"><foreign>cempoṉ muvāyirattuttoḷḷāyirattuppatiṉ kaḻañcē mukkālēy mūṉṟu mañcāṭiyilum)</foreign></supplied> qui sont versés par votre village <supplied reason="explanation"><foreign>taṅkaḷ-ūr mutalāy varukiṉṟa</foreign></supplied> <supplied reason="subaudible">au titre de</supplied> « la taxe sur l'approvisionnement en eau <supplied reason="explanation"><foreign>nērvāyam</foreign><note>fn. 679: Le <foreign>nērvāyam</foreign> (<foreign>nēr-vāyam</foreign>), qui figure parfois parmi les <foreign>parihāra</foreign> (« privilège », « immunité » ou exemption de taxe) dont le roi assortit les dons de terre, est ordinairement interprété comme une « taxe sur la consommation excessive d'eau » (cf. T. M. Srinivasan, 1991, p. 106-7). Seulement, si <foreign>vāyam</foreign> signifie bien « eau » (TL: 3601), « excès » n'est que l'une des acceptions du terme <foreign>nēr</foreign>. Parmi elles (TL: 2356), on recense « rectitude » (glosé <foreign>cevvai</foreign>) ; « droiture » (glosé <foreign>nīti</foreign>) ; « extension » (glosé <foreign>nīlam</foreign>) ; ainsi que « cours, direction » (glosé <foreign>kati</foreign>). De plus, dans le même champ lexical que <foreign>nēr</foreign>, on trouve notamment le verbe <foreign>nērkāṭṭutal</foreign> (Ibidem), « se diriger vers » (glosé <foreign>oruticai nōkkic celuttutal</foreign>), et surtout « conduire l'eau dans un canal d'irrigation » (glosé <foreign>nīrkkāl māṟṟutal</foreign>). C'est pourquoi nous postulons que <foreign>nervāyam</foreign>, désigne simplement une taxe sur « l'eau acheminée (par canaux) », c'est-à-dire sur « l'alimentation en eau » d'un village donné, et non une taxe sanctionnant la consommation excessive dudit village en eau.</note></supplied> ».
+        « Le Roi sans égal » <supplied reason="explanation"><foreign>kōn-ēr-iṉmai koṇṭāṉ</foreign></supplied> <supplied reason="subaudible">s'adresse</supplied> à ceux de l'assemblée de brahmanes de Vēmpaṟṟūr <supplied reason="explanation"><foreign>vēmpaṟṟūr sabhaiyārkku</foreign></supplied>, un <foreign>brahmadeya</foreign> et <foreign>taṉiyūr</foreign> du district de Maṇṇi <supplied reason="explanation"><foreign>maṇṇi-nāṭṭu prahmatēyam taṉiyūr</foreign></supplied>, <supplied reason="subaudible">au sujet des</supplied> trois mille neuf cent dix <foreign>kaḻañcu</foreign> trois quarts et trois <foreign>mañcāṭi</foreign> d'or pur <supplied reason="explanation"><foreign>cempoṉ muvāyirattuttoḷḷāyirattuppatiṉ kaḻañcē mukkālēy mūṉṟu mañcāṭiyilum)</foreign></supplied> qui sont versés par votre village <supplied reason="explanation"><foreign>taṅkaḷ-ūr mutalāy varukiṉṟa</foreign></supplied> <supplied reason="subaudible">au titre de</supplied> « la taxe sur l'approvisionnement en eau <supplied reason="explanation"><foreign>nērvāyam</foreign><note>Le <foreign>nērvāyam</foreign> (<foreign>nēr-vāyam</foreign>), qui figure parfois parmi les <foreign>parihāra</foreign> (« privilège », « immunité » ou exemption de taxe) dont le roi assortit les dons de terre, est ordinairement interprété comme une « taxe sur la consommation excessive d'eau » (cf. T. M. Srinivasan, 1991, p. 106-7). Seulement, si <foreign>vāyam</foreign> signifie bien « eau » (TL: 3601), « excès » n'est que l'une des acceptions du terme <foreign>nēr</foreign>. Parmi elles (TL: 2356), on recense « rectitude » (glosé <foreign>cevvai</foreign>) ; « droiture » (glosé <foreign>nīti</foreign>) ; « extension » (glosé <foreign>nīlam</foreign>) ; ainsi que « cours, direction » (glosé <foreign>kati</foreign>). De plus, dans le même champ lexical que <foreign>nēr</foreign>, on trouve notamment le verbe <foreign>nērkāṭṭutal</foreign> (Ibidem), « se diriger vers » (glosé <foreign>oruticai nōkkic celuttutal</foreign>), et surtout « conduire l'eau dans un canal d'irrigation » (glosé <foreign>nīrkkāl māṟṟutal</foreign>). C'est pourquoi nous postulons que <foreign>nervāyam</foreign>, désigne simplement une taxe sur « l'eau acheminée (par canaux) », c'est-à-dire sur « l'alimentation en eau » d'un village donné, et non une taxe sanctionnant la consommation excessive dudit village en eau.</note></supplied> ».
         
         En <supplied reason="subaudible">ce</supplied> jour cent quatre
         vingt-cinq de Notre 6e année <supplied reason="subaudible">de règne</supplied> <supplied reason="explanation"><foreign>namakku yāṇṭu 6vatu nāṉ
@@ -207,7 +204,7 @@
         <supplied reason="subaudible">jour mensuel de</supplied> <foreign>saṅkrānti</foreign> <supplied reason="explanation"><foreign>saṃkirānti tōṟum</foreign></supplied> et que, quotidiennement
         <supplied reason="explanation"><foreign>nicatam</foreign></supplied>, l'on effectue gracieusement le <supplied reason="subaudible">service</supplied> de minuit <supplied reason="explanation"><foreign>arddhayāma</foreign></supplied>
         du repas divin de riz bouilli <supplied reason="explanation"><foreign>pōṉakam-amurtu ceytaruḷavum</foreign></supplied> grâce à quatre
-        nāḻi<note>Mesures.</note> de riz <supplied reason="explanation"><foreign>nā-ṉāḻi-y-ariciyāl</foreign></supplied>, la cérémonie du bain a été
+        <foreign>nāḻi</foreign><note>Mesures.</note> de riz <supplied reason="explanation"><foreign>nā-ṉāḻi-y-ariciyāl</foreign></supplied>, la cérémonie du bain a été
         gracieusement accomplie et la nourriture divine a été servie sans faillir à
         compter de Notre troisième année <supplied reason="subaudible">de règne</supplied> <supplied reason="explanation"><foreign>namakku yāṇṭu mūṉṟāvatu
         mutal namaṉam āṭiyaruḷuvittu amutu ceyvittu vārā niṉṟātu</foreign></supplied> ; <supplied reason="subaudible">et d'autre part</supplied>
@@ -256,7 +253,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1995-1996"/></bibl> (ARIE/1995-1996/B/1995-1996/46).</p>
     <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.32); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4), based on autopsy (2012-08).</p>
     <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">299ff</citedRange></bibl>.</p>
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    <p>This digital edition of <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4), curated by Emmanuel Francis.</p>
 
 	<listBibl type="primary">
 

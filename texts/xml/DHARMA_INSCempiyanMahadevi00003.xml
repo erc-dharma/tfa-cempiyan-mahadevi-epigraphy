@@ -11,6 +11,10 @@
                 <title>Uṭaiyārkuṭi, Ananteśvarasvāmin temple, time of Parakesarivarman, year 2</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
+                    <persName ref="part:nica">
+                        <forename>Nicolas</forename>
+                        <surname>Cane</surname>
+                    </persName>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -170,7 +174,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/B/1920/540).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), based on autopsy (2012-08).</p>
     <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">207ff</citedRange></bibl>.</p>    
-    <p>This digital edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis.</p>
+    <p>This digital edition of <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), curated by Emmanuel Francis.</p>
     
     <listBibl type="primary">
         
