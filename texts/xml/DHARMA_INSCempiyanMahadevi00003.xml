@@ -44,12 +44,22 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Ariñjaya Cōḻa, c. 956-57 CE, or Āditya II Cōḻa, c. 961-62 CE, or Uttama Cōḻa, 972-73 CE. Temple de Ananteśvarasvāmin, sur le <foreign>kumuda</foreign> de l'<foreign>antarāla</foreign> de la face sud du sanctuaire principal.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
                             <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
                                 nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p xml:lang="fra">Certains <foreign>ḷ</foreign> et <foreign>ṉ</foreign> ont dans l'épigraphe un tracé très similaire.</p>
+                            <p xml:lang="fra">Dans la ligature <foreign>kku</foreign>, la boucle du <foreign>u</foreign> final qui enferme ordinairement
+                                le premier des deux <foreign>k</foreign> dans la combinaison, inclue également le <foreign>r</foreign> qui précède. C'est le cas
+                                pour le groupe <foreign>rkku</foreign> de ce <foreign>kesarivarmmarkku</foreign> à la ligne 1, comme pour celui d'<foreign>āḷvārkku</foreign> en
+                                début de ligne 5. De la même façon, la boucle du <foreign>u</foreign> dans le <foreign>viḷakku</foreign> de la ligne 5 englobe non
+                                seulement la combinaison <foreign>kku</foreign>, mais aussi le <foreign>ḷa</foreign> qui précède. Ces particularités sont peut-être
+                                dues au style calligraphique adopté pour la gravure de bon nombre d'épigraphes de ce site,
+                                caractérisé par une tendance à accentuer l'amplitude des courbes et des arrondis, où alphabets
+                                tamoul et grantha s'entremêlent harmonieusement dans un tracé attestant de la grande maîtrise
+                                du lapicide.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -80,140 +90,159 @@
             <change who="part:emfr" when="2024-05-10" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
-
+    
     <text xml:space="preserve">
-
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                <milestone n="1" type="pagelike" unit="zone"/><lb n="1"/>svasti śrī
-    </ab>
-    
-    <p>
-        kō-<hi rend="grantha">para-kesari-</hi>va<hi rend="grantha">rmma</hi>rk=ku yāṇṭu 2-Āvatu
-    </p>
-    
-    <p>
-        mēṟ
-        <lb n="2" break="no"/>k' eḻun=t-aruḷiṉa <hi rend="grantha">de</hi>var <hi rend="grantha">gaṇḍa</hi>r-ā<hi rend="grantha">ditya-de</hi>var <hi rend="grantha">de</hi>viyār maḻa-v-arai
-        <milestone n="2" type="pagelike" unit="zone" break="no"/><lb n="3" break="no"/>yar makaḷār parān=takaṉ mā-tēvaṭikaḷ-āṉa cempiyaṉ mā-tē
-        <lb n="4" break="no"/>viyār <hi rend="grantha">śrī</hi>-vīra-nārāyaṇa-<hi rend="grantha">c-caturvvedi-maṃgala</hi>ttu-t tiru-v-anantē<hi rend="grantha">śva</hi>rat=t' āḷ
-        <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku 1-k=ku vait=ta v-āṭu <num value="96">9 <g type="numeral">10</g> 6</num> takar 1
         
-    </p>
-
-</div>
-
-<div type="apparatus">
-
-    <listApp>
-
-        <app loc="2">
-            <lem><hi rend="grantha">gaṇḍa</hi>rā<hi rend="grantha">ditya</hi>°</lem>
-            <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">gaṇḍarāditya</hi>°</rdg>
-        </app>
-        
-        <app loc="4">
-            <lem>°vīra°</lem>
-            <rdg source="bib:SrinivasaRao1967_01">°vira°</rdg>
-        </app>
-        
-        <app loc="4">
-            <lem>tiruvanantē<hi rend="grantha">śva</hi>rat=tāḷ</lem>
-            <rdg source="bib:SrinivasaRao1967_01">tiruvanante<hi rend="grantha">śvara</hi>t=tāḷ</rdg>
-        </app>
-        
-    </listApp>
-
-</div>
-
-<!--<div type="translation" resp="part:emfr">
-
-    <p n="1">
-        Prosperity! Fortune!
-    </p>    
-    
-    <p n="2">
-        2nd year of the king Parakesarivarman.        
-    </p>
-    
-    <p n="2-5">
-        For 1 perpetual lamp
-        that
-        Cempiyaṉ Mātēviyār <hi rend="italic">alias</hi>
-        ...
-        gave
-        ...,
-        <supplied reason="subaudible">there are</supplied> 96 goats <supplied reason="subaudible">and</supplied> 1 ram
-        that <supplied reason="subaudible">she</supplied> gave.
-    </p>
-</div>-->
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
-
-	<p>
-	    Succès ! Prospérité ! <supplied reason="subaudible">En</supplied> la 2e année <supplied reason="subaudible">de règne</supplied> du Roi Parakesarivarman,
-	    la vénérable épouse du Roi Gaṇḍarāditya—« le seigneur qui a gracieusement
-	    emprunté la direction de l'ouest / qui s'est gracieusement hissé jusqu'au
-	    Ciel »—, vénérable fille de Maḻavaraiyar, Parāntakaṉ-Mātēvaṭikaḷ alias
-	    la vénérable Cempiyaṉ-Mātēvi a déposé 96 chèvres et 1 bouc <supplied reason="explanation"><foreign>vaitta-v-āṭu
-	    96 takar 1</foreign></supplied> pour 1 lampe perpétuelle maintenue au profit du Seigneur du
-	    glorieux <supplied reason="subaudible">site d'</supplied>Anantēśvaram dans le glorieux <supplied reason="subaudible"><foreign><foreign>brahmadeya</foreign></foreign></supplied> de
-	    Vīranārāyaṇa-caturvedimaṅkalam <supplied reason="explanation"><foreign>śrī-vīranārāyaṇa-caturvedimaṃgalattu-t
-	    tiru-v-ananteśvaratt-āḷvārkku vaitta nontā-viḷakkukku 1kku</foreign></supplied>.
-	</p>
-        
-</div>
-
-<!--<div type="commentary"/>-->
-
-<div type="bibliography">
-
-    <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/B/1920/540).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), based on autopsy (2012-08).</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">207ff</citedRange></bibl>.</p>    
-    <p>This digital edition of <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3) curated by Emmanuel Francis.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SrinivasaRao1967_01"/>
-            <citedRange unit="item">6-7</citedRange>
-            <citedRange unit="page">11</citedRange>
-        </bibl>
-        
-        <bibl n="S">
-            <ptr target="bib:Swaminathan2012_01"/>
-            <citedRange unit="part">II</citedRange>
-            <citedRange unit="page">TBC</citedRange>
-            <citedRange unit="item">2</citedRange>
-        </bibl>
-        
-        <bibl n="C">
-            <ptr target="bib:Cane2017_01"/>
-            <citedRange unit="page">763</citedRange>
-            <citedRange unit="item">3</citedRange>
-        </bibl>
-        
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1920-1921"/>
-            <citedRange unit="page">37</citedRange>
-            <citedRange unit="appendix">B/1920</citedRange>
-            <citedRange unit="item">540</citedRange>
-        </bibl>
-        
-    </listBibl>
-
-</div>
-</body>
-	</text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <milestone n="1" type="pagelike" unit="zone"/>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-<hi rend="grantha">para-kesari-</hi>va<hi rend="grantha">rmma</hi>rk=ku yāṇṭu 2-Āvatu
+                </p>
+                
+                <p>
+                    mēṟ
+                    <lb n="2" break="no"/>k' eḻun=t-aruḷiṉa <hi rend="grantha">de</hi>var <hi rend="grantha">gaṇḍa</hi>r-ā<hi rend="grantha">ditya-de</hi>var <hi rend="grantha">de</hi>viyār maḻa-v-arai
+                    
+                    <milestone n="2" type="pagelike" unit="zone" break="no"/>
+                    
+                    <lb n="3" break="no"/>yar makaḷār parān=takaṉ mā-tēvaṭikaḷ-āṉa cempiyaṉ mā-tē
+                    <lb n="4" break="no"/>viyār <hi rend="grantha">śrī</hi>-vīra-nārāyaṇa-<hi rend="grantha">c-caturvvedi-maṃgala</hi>ttu-t tiru-v-anantē<hi rend="grantha">śva</hi>rat=t' āḷ
+                    <lb n="5" break="no"/>vārk=ku vait=ta non=tā-viḷak=kuk=ku 1-k=ku vait=ta v-āṭu <num value="96">9 <g type="numeral">10</g> 6</num> takar 1
+                    
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="2">
+                        <lem><hi rend="grantha">gaṇḍa</hi>rā<hi rend="grantha">ditya</hi>°</lem>
+                        <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">gaṇḍarāditya</hi>°</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>makaḷār</lem>
+                        <note>Could also easily be read <foreign>makaḷār</foreign>.</note>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>°vīra°</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">°vira°</rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>tiruvanantē<hi rend="grantha">śva</hi>rat=tāḷ</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">tiruvanante<hi rend="grantha">śvara</hi>t=tāḷ</rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                Prosperity! Fortune!
+                </p>    
+                
+                <p n="2">
+                2nd year of the king Parakesarivarman.        
+                </p>
+                
+                <p n="2-5">
+                For 1 perpetual lamp
+                that
+                Cempiyaṉ Mātēviyār <hi rend="italic">alias</hi>
+                ...
+                gave
+                ...,
+                <supplied reason="subaudible">there are</supplied> 96 goats <supplied reason="subaudible">and</supplied> 1 ram
+                that <supplied reason="subaudible">she</supplied> gave.
+                </p>
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+                
+                <p>
+                    Succès ! Prospérité ! <supplied reason="subaudible">En</supplied> la 2e année <supplied reason="subaudible">de règne</supplied> du Roi Parakesarivarman,
+                    la vénérable épouse du Roi Gaṇḍarāditya—« le seigneur qui a gracieusement
+                    emprunté la direction de l'ouest / qui s'est gracieusement hissé jusqu'au
+                    Ciel »—, vénérable fille de Maḻavaraiyar, Parāntakaṉ-Mātēvaṭikaḷ alias
+                    la vénérable Cempiyaṉ-Mātēvi a déposé 96 chèvres et 1 bouc <supplied reason="explanation"><foreign>vaitta-v-āṭu
+                        96 takar 1</foreign></supplied> pour 1 lampe perpétuelle maintenue au profit du Seigneur du
+                    glorieux <supplied reason="subaudible">site d'</supplied>Anantēśvaram dans le glorieux <supplied reason="subaudible"><foreign><foreign>brahmadeya</foreign></foreign></supplied> de
+                    Vīranārāyaṇa-caturvedimaṅkalam <supplied reason="explanation"><foreign>śrī-vīranārāyaṇa-caturvedimaṃgalattu-t
+                        tiru-v-ananteśvaratt-āḷvārkku vaitta nontā-viḷakkukku 1kku</foreign></supplied>.
+                </p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p xml:lang="fra">Les deux premières lignes, parce qu'elles sont gravées sur la face supérieure du <foreign>kumuda</foreign> où
+                    elles sont plus exposées à la lumière et aux intempéries, sont beaucoup plus altérées que les
+                    trois lignes qui occupent la face suivante.</p>
+                
+                <p xml:lang="fra" n="5">Le chiffre 1 qui suit <foreign>nontāviḷakku</foreign> et <foreign>takar</foreign> a, comme souvent dans les inscriptions de la
+                    période, l'apparence d'une croix allongée. Ici, ces 1 paraissent tous deux gravés bien moins
+                    profondément que le reste de l'inscription, ce qui pourrait suggérer qu'ils sont le fait d'une
+                    seconde main. Le premier particulièrement, semble avoir été inséré ultérieurement dans un
+                    espace laissé vide entre la paire de <foreign>kku</foreign> de <foreign>viḷakkukku</foreign>.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/B/1920/540).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.11); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.2); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3), based on autopsy (2012-08).</p>
+                <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">207ff</citedRange></bibl>.</p>    
+                <p>This digital edition of <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 3) curated by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="item">6-7</citedRange>
+                        <citedRange unit="page">11</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="part">II</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Cane2017_01"/>
+                        <citedRange unit="page">763</citedRange>
+                        <citedRange unit="item">3</citedRange>
+                    </bibl>
+                    
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1920-1921"/>
+                        <citedRange unit="page">37</citedRange>
+                        <citedRange unit="appendix">B/1920</citedRange>
+                        <citedRange unit="item">540</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
-<!--METADATA:
-<foreign>vimāna</foreign>, wall, southern face-->
+

@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Uttama-Cōḻa, end of 976 CE. Temple de Śivayoganāthasvāmin, sur la <foreign>bāhyabhitti</foreign> de la face nord du sanctuaire dit « de Bhikṣāṭana ».</summary>
+                        <summary>Uttama Cōḻa, end of 976 CE. Temple de Śivayoganāthasvāmin, sur la <foreign>bāhyabhitti</foreign> de la face nord du sanctuaire dit « de Bhikṣāṭana ».</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -120,7 +120,7 @@
                             <lb n="12" break="no"/>c' arai-y poṉ yāṇṭu Ā<unclear>ṟ-āva</unclear>tu muta<supplied reason="omitted">l</supplied> curukkiya-k koḷka v-eṉ‡ṟu nāñ colla
                         </item>
                         <item>        
-                            namm ‡ {ō}<!--EF: why here?-->lai y-eḻutuñ cēvakaṉ Aru
+                            namm ō‡⌉lai y-eḻutuñ cēvakaṉ Aru
                             <lb n="13" break="no"/>ḷaṉṉuttamaṉiti-y-eḻuttiṉālu namm ō<choice><orig>ll</orig><reg>l</reg></choice>l<choice><orig>aiy</orig><reg>ai</reg></choice> nāya<unclear>ka</unclear>‡ṉ veḷāṉ-kaṇṭar-ātit‡taṉ-āṉa m<choice><orig>i</orig><reg>ī</reg></choice>ṉavaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vēnta
                             <lb n="14" break="no"/>vēḷāṉum veḷāṉaṇṇāṉu<choice><orig>mm</orig><reg>m</reg></choice> oppiṭṭu-p puttakatti‡ṭiṉ paṭiyē-y va‡riyil iṭṭu-k koḷ<supplied reason="omitted">ka</supplied> v-eṉṟu
                             <lb n="15"/>nām colla</item>
@@ -302,7 +302,12 @@
                 
             </div>
             
-            <!--<div type="commentary"/>-->
+            <div type="commentary">
+                <p xml:lang="fra" n="19"><foreign>varipotta</foreign>. L'inscription s'arrête ici au milieu du mot <foreign>varipottakam</foreign>, à la fin du pan de mur abritant le
+                    portrait supposé d'Aṉantacivaṉ, et ne se poursuit pas sur le pan de mur suivant alors qu'un
+                    espace suffisant permettait pourtant la gravure de cette 19e ligne de part et d'autre de la niche
+                    du <foreign>gaṇa</foreign>.</p>
+            </div>
             
             <div type="bibliography">
                 
@@ -343,5 +348,3 @@
         </body>
     </text>
 </TEI>
-<!--METADATA:
-    <foreign>vimāna</foreign>, wall, southern face-->
