@@ -47,7 +47,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Uttama-Cōḻa, 981-82 CE. Sur l'<foreign>adhiṣṭhāna</foreign> de la face sud de l'<foreign>ardhamaṇḍapa</foreign>
+                            (débute sous la niche d'Agastya et court jusque sous celle de Naṭarāja en passant sous celle de Gaṇeśa).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -83,110 +84,137 @@
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
-
+    
     <text xml:space="preserve">
-
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    
-    <p>
-        kō-p-para-kēcari-paṉma<reg>r</reg>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-Āvatu vaṭa-karai nallāṟṟūr-nāṭṭu tiru-<supplied reason="omitted">k</supplied>-koṭikāv<unclear>i</unclear>l <hi rend="grantha"><unclear>ma</unclear></hi><hi rend="grantha">hā-de</hi>varkku <hi rend="grantha">śrī</hi>-Uttama-cōḻa-<hi rend="grantha">de</hi>varai-<supplied reason="omitted">t</supplied> tiru-vayiṟu vāytta maḻa-v-araiyar makiḷār
-        <lb n="2"/><hi rend="grantha">pr</hi>āntakaṉ mā-tēvaṭikaḷār-āna cempiyan <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice></hi><hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>viyār I<hi rend="grantha">d-de</hi>varkku muṉṉiṭṭikai-p paṭai<unclear>yāl u</unclear>ḷḷa <hi rend="grantha">śrī</hi>-kōyilai-t tavirttu kallā<unclear>lē</unclear><hi rend="grantha"> śrī-</hi>vimāṉam amaippittu I<hi rend="grantha"><supplied reason="omitted">d</supplied>-de</hi>var-uṭaiya‡
-        <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭi-k kiṭanta Avai vevvēṟu kallāl pala-viṭattilāy-k kiṭanta Avai Ellām Inta <hi rend="grantha">śrī</hi>-vimāṉatti<choice><orig>n</orig><reg>ṉ</reg></choice> mēl muṉ ki <gap extent="unknown" reason="lost" unit="character"/>
-        <lb n="4"/>Eṟa veṭṭi-k koḷka Eṉṟu Aruḷi-c ceya veṭṭiṉa paṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi
-    </p>
-    <p>
-        ko-māṟaṉ caṭaiyaṟku yāṇṭu 4-Āvatiṉ etir Oṉpat-āvatu Ā <gap extent="unknown" reason="lost" unit="character"/>‡
-        <lb n="5"/>ru-k-koṭikāvil <hi rend="grantha">mahā-de</hi>varkku non=tā viḻakkiṉukku <unclear>vara</unclear> <gap extent="unknown" reason="lost" unit="character"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟ' iru-patiṉ <gap extent="unknown" reason="lost" unit="character"/>
-    </p>
-    <p>
-        <unclear>Ip-po</unclear>ṉ <hi rend="grantha">mahen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-koṭṭūr <hi rend="grantha">sabhai</hi>yō<unclear>ṅ</unclear> <gap extent="unknown" reason="lost" unit="character"/>
-        <lb n="6"/>vicaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>-māttāṇṭaṉukku <hi rend="grantha">śrī</hi>-<unclear>ko</unclear> <gap extent="unknown" reason="lost" unit="character"/> <unclear>ko</unclear>ṇṭu ceṉṟu tiru-k-kōyil-uṭaiyār <gap extent="unknown" reason="lost" unit="character"/> kuṭup<unclear>pō</unclear>m āṉōm <hi rend="grantha">mahen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-koṭṭūr <hi rend="grantha">sabhai</hi> <gap extent="unknown" reason="lost" unit="character"/>/
-        <lb n="7"/>In=ta <hi rend="grantha">śrī</hi>-vimānattile Eṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi-k kiṭanta taṉi-k <unclear>kallāl</unclear> U<hi rend="grantha">pai</hi>yo<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavirntatu        
-    </p>
-    
-</div>
-
-<!--<div type="apparatus">
-
-    <listApp>
-
-        <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
-        </app>
-
-    </listApp>
-
-</div>-->
-
-<!--<div type="translation" resp="part:emfr">
-
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-</div>-->
-
-<!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
-
-	<p n="1">
-	    ...
-	</p>
-
-</div>-->
-
-<!--<div type="commentary"/>-->
-
-<div type="bibliography">
-
-    <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/36).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.292); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.93); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 7), based on autopsy (2013-08).</p>
-    <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-    
-    <listBibl type="primary">
         
-        <bibl n="SII">
-            <ptr target="bib:SrinivasaRao1967_01"/>
-            <citedRange unit="item">292</citedRange>
-            <citedRange unit="page">TBC</citedRange>
-        </bibl>
-        
-        <bibl n="S">
-            <ptr target="bib:Swaminathan2012_01"/>
-            <citedRange unit="part">II</citedRange>
-            <citedRange unit="page">TBC</citedRange>
-            <citedRange unit="item">93</citedRange>
-        </bibl>	    
-        
-        <bibl n="C">
-            <ptr target="bib:Cane2017_01"/>
-            <citedRange unit="page">797-798</citedRange>
-            <citedRange unit="item">7</citedRange>
-            <citedRange unit="figure">TBC</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1930-1931"/>
-            <citedRange unit="page">8</citedRange>
-            <citedRange unit="appendix">B/1930-1931</citedRange>
-            <citedRange unit="item">36</citedRange>
-        </bibl>
-        
-    </listBibl>
-
-</div>
-</body>
-	</text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <milestone n="1" type="pagelike" unit="zone"/>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-p-para-kēcari-paṉma<reg>r</reg>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-Āvatu
+                </p>
+                <p>
+                    vaṭa-karai nallāṟṟūr-nāṭṭu tiru-<supplied reason="omitted">k</supplied>-kōṭikāv<unclear>i</unclear>l <hi rend="grantha"><unclear>ma</unclear></hi><hi rend="grantha">hā-de</hi>varkku <hi rend="grantha">śrī</hi>-Uttama-cōḻa-<hi rend="grantha">de</hi>varai-<supplied reason="omitted">t</supplied> tiru-vayiṟu vāytta maḻa-v-araiyar mak<choice><sic>i</sic><corr>a</corr></choice>ḷār
+                    <lb n="2"/><hi rend="grantha"><choice><sic>pr</sic><corr>pir</corr></choice></hi>āntakaṉ mā-tēvaṭikaḷār-āna cempiyan <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice></hi><hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>viyār I<hi rend="grantha">d-de</hi>varkku muṉṉiṭṭikai-p paṭai<unclear>yāl u</unclear>ḷḷa <hi rend="grantha">śrī</hi>-kōyilai-t tavirttu kallā<unclear>lē</unclear><hi rend="grantha"> śrī-</hi>vimāṉam amaippittu I<hi rend="grantha"><supplied reason="omitted">d</supplied>-de</hi>var-uṭaiya<!--‡-->
+                    <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭi-k kiṭanta Avai vevvēṟu kallāl pala-viṭattilāy-k kiṭanta Avai Ellām Inta <hi rend="grantha">śrī</hi>-vimāṉatti<choice><orig>n</orig><reg>ṉ</reg></choice> mēl muṉ ki <gap extent="unknown" reason="lost" unit="character"/>
+                    <lb n="4"/>Ēṟa veṭṭi-k koḷka Eṉṟu Aruḷi-c ceya veṭṭiṉa paṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi
+                </p>
+                <p>
+                    kō-māṟaṉ caṭaiyaṟku yāṇṭu 4-Āvatiṉ etir Oṉpat-āvatu Ā <gap extent="unknown" reason="lost" unit="character"/>
+                    <milestone n="2" type="pagelike" unit="zone" break="no"/>
+                    <lb n="5" break="no"/>ru-k-kōṭikāvil <hi rend="grantha">mahā-de</hi>varkku non=tā viḻakkiṉukku <unclear>vara</unclear><hi rend="grantha"><supplied reason="lost">guṇa-mahārā</supplied>ja</hi>r kuṭutta poṉ ṉūṟṟ' iru-patiṉ <gap extent="unknown" reason="lost" unit="character"/>
+                </p>
+                <p>
+                    <unclear>Ip-po</unclear>ṉ <hi rend="grantha">mahen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-kōṭṭūr <hi rend="grantha">sabhai</hi>yō<unclear>ṅ</unclear> <gap extent="unknown" reason="lost" unit="character"/>
+                    <lb n="6"/>vicaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>-māttāṇṭaṉukku <hi rend="grantha">śrī</hi>-<unclear>ko</unclear> <gap extent="unknown" reason="lost" unit="character"/> <unclear>ko</unclear>ṇṭu ceṉṟu tiru-k-kōyil-uṭaiyār <gap extent="unknown" reason="lost" unit="character"/> kuṭup<unclear>pō</unclear>m āṉōm <hi rend="grantha">mahen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-kōṭṭūr <hi rend="grantha">sabhai</hi> <gap extent="unknown" reason="lost" unit="character"/><!--‡-->
+                    <lb n="7"/>In=ta <hi rend="grantha">śrī</hi>-vimānattilē Ēṟa veṭṭinamaiyil muṉṉ iv-vā<choice><orig><hi rend="grantha">ja</hi></orig><reg>ca</reg></choice>kam veṭṭi-k kiṭanta taṉi-k <unclear>kallāl</unclear> U<hi rend="grantha">pai</hi>yō<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavirntatu        
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>°<hi rend="grantha">de</hi>varai</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">°tēvarai</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>mātēvaṭikaḷārāna</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01"><hi rend="grantha">mā</hi>tēvaṭikaḷārāna</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem><hi rend="grantha">sabhai</hi>yō<unclear>ṅ</unclear> <gap extent="unknown" reason="lost" unit="character"/></lem>
+                        <note xml:lang="fra">Le reste du corpus suggère la restitution de la portion finale de cette lacune par l'une des variantes <foreign>itu paḻaṅkaṟpaṭi </foreign> ou itu <foreign>paḻayakaṟpaṭi</foreign>.</note>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>vimānattilē</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">vimāṉattilē</rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                Prosperity! Fortune!
+                </p>
+                </div>-->
+            
+            <!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <div type="commentary">
+                <p xml:lang="fra">Les quatre premières lignes s'étendent sur la <foreign>paṭṭikā</foreign> et les trois restantes sur le <foreign>kumuda</foreign>.
+                    Comme c'est parfois le cas, la casse du <foreign>svasti śrī</foreign> est deux fois plus importante que celle utilisée
+                    dans le reste de l'inscription.</p>
+                <p xml:lang="fra" n="3-4">Un trait vertical délimite le début de cette ligne ainsi que celui de la suivante sur la pierre.</p>
+                <p xml:lang="fra" n="5-6">Un nouveau trait vertical délimite le début de cette ligne ainsi que celui de la suivante.</p>
+                <p xml:lang="fra" n="7">Cette dernière ligne est elle aussi délimitée par un trait vertical.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/36).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.292); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.93); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 7), based on autopsy (2013-08).</p>
+                <p>Commented and partly translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">485ff</citedRange></bibl>.</p>
+                <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="item">292</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="part">II</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">93</citedRange>
+                    </bibl>	    
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Cane2017_01"/>
+                        <citedRange unit="page">797-798</citedRange>
+                        <citedRange unit="item">7</citedRange>
+                        <citedRange unit="figure">TBC</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1930-1931"/>
+                        <citedRange unit="page">8</citedRange>
+                        <citedRange unit="appendix">B/1930-1931</citedRange>
+                        <citedRange unit="item">36</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
 
 
