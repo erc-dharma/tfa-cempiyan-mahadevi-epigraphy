@@ -83,251 +83,251 @@
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
-
+    
     <text xml:space="preserve">
-
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
         
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    
-    <p>
-        kō-p-pa‡ra-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>ṟk=ku yā
-        <lb n="2" break="no"/>ṇṭu <unclear>9</unclear> Āva/tu
-    </p>
-    <p>
-        <hi rend="grantha">rāja-gesa</hi>ri-c-ca‡/
-        <lb n="3" break="no"/>tu<hi rend="grantha">rvedi</hi>maṅka
-        <lb n="4" break="no"/>lattu tiru-c-celū
-        <lb n="5" break="no"/>r Āḻvārk=ku ka
-        <lb n="6" break="no"/>ṇṭar-ātitta
-        <lb n="7" break="no"/>ṉ maturān
-        <lb n="8" break="no"/>takaṉ <hi rend="grantha">śrī</hi>-U
-        <lb n="9" break="no"/>ttamacōḻar
-        <lb n="10" break="no"/>kk-āka Ivarai-t tiru
-        <lb n="11" break="no"/>-vayiṟu vāytt-aru
-        <lb n="12" break="no"/>ḷiṉa Uṭaiya-pirāṭṭi
-        <lb n="13" break="no"/>yār <hi rend="grantha">saṃ</hi>kirā
-        <lb n="14" break="no"/>n=ti toṟumut=ta
-        <lb n="15" break="no"/><unclear>ṭi</unclear> nūṟṟ' eṭṭu-k
-        <lb n="16"/>kalaicam <hi rend="grantha">sna</hi>ma
-        <lb n="17" break="no"/>nam āṭiyā<!--sic?-->ruḷa
-        <lb n="18" break="no"/>vum Aṟṟai
-        <lb n="19" break="no"/>nāḷāl peru
-        <lb n="20" break="no"/>n tiru-v-amutu
-        <lb n="21"/>ceyt-aruḷavum Ō
-        <lb n="22" break="no"/>raṇai tiru-p-paricaṭṭa
-        <lb n="23" break="no"/>m cātti-y-aruḷavum A
-        <lb n="24" break="no"/><hi rend="grantha">bhiṣe</hi>kañ ceyta nam
-        <lb n="25" break="no"/>pik=ku <hi rend="grantha">pūjai</hi>k=kum' āka-k
-        <lb n="26" break="no"/>koṇṭu kuṭutta nila
-        <lb n="27" break="no"/>m āvaṉa
-    </p>
-    <p>
-        Ivv-ūr na
-        <lb n="28" break="no"/>ra-toṅka-c-cēri pu
-        <lb n="29" break="no"/>ḷḷa-maṅkalattu
-        <lb n="30"/>pālāciriyaṉ <hi rend="grantha">bha</hi>ṭṭa
-        <lb n="31" break="no"/>ṉ caṅkaraṉ pūvatta
-        <lb n="32" break="no"/>ṉum ivaṉ tampi caṅkara
-        <lb n="33" break="no"/>ṉ cāttaṉum ivv-iruva
-        <lb n="34" break="no"/>rum viṟṟu-t tanta nilam ā
-        <lb n="35" break="no"/>vaṉa
-    </p>
-    <p>
-        Ivv-ūr nara-toṅka-va
-        <lb n="36" break="no"/>tik=ku meṟk=ku 4 Āṅ kaṇṇā
-        <lb n="37" break="no"/>ṟṟu <hi rend="grantha">śrī</hi>-kaṇṭa-vāy-k-kāluk=ku
-        <lb n="38"/>teṟk=ku 3-Āñ catirattu(k) I
-        <lb n="39" break="no"/>ḻakkaṭaiya nāṅkaḷ eṅ<unclear>ka</unclear>
-        <lb n="40" break="no"/>ṇampi pak=kal kūṟu-peṟṟ-u
-        <lb n="41" break="no"/>ṭaiya nīla<supplied reason="omitted">m</supplied> <g type="undefined"/> <g type="undefined"/>-m Iv-vati
-        <lb n="42" break="no"/>kkē meṟk=ku 3 Āṅkaṇṇā‡
-        <lb n="43" break="no"/>ṟṟu cō
-        <lb n="44" break="no"/>ḻa-cūḷā-ma
-        <lb n="45" break="no"/>ṇi-vāy-k=-kā
-        <lb n="46" break="no"/>luk=ku te
-        <lb n="47" break="no"/>ṟk=ku 1 catirattu
-        <lb n="48"/>kiḻak=k' aṭain=ta 3 mā
-        <lb n="49"/>māvil meṟk' aṭai
-        <lb n="50" break="no"/>ya kūṟu-peṟṟ-uṭai
-        <lb n="51" break="no"/>ya nilam <g type="undefined"/> <g type="undefined"/> yum
-        <lb n="52" break="no"/>maṉōrama-c-cēri k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
-        <lb n="53" break="no"/>maṇalūr pāratāyaṉ
-        <lb n="54"/>paṟpaṉāpaṉ <hi rend="grantha">jā</hi>ta
-        <lb n="55" break="no"/>vētaṉ <hi rend="grantha">brāhma</hi>ṇi
-        <lb n="56"/>vā<hi rend="grantha">su-de</hi>vaṉ kaṇ
-        <lb n="57" break="no"/>ṇai viṟṟu tan=ta nila
-        <lb n="58" break="no"/>m āvatu
-    </p>
-    <p>
-        I-vatik=kē me
-        <lb n="59" break="no"/>ṟk=ku 2ṭāṅ kaṇṇāṟ
-        <lb n="60" break="no"/>ṟu Iv-vāy-k-kāluk=kē
-        <lb n="61"/>teṟk=ku 2ṭāñ catirat
-        <lb n="62" break="no"/>tu vaṭak=k' aṭaiñca 3 mā
-        <lb n="63" break="no"/>vil kiḻak=k' aṭaiya 2 mā
-        <lb n="64" break="no"/>vum maṉōrama
-        <lb n="65" break="no"/>-c-cēri nāraṇa
-        <lb n="66" break="no"/>-maṅkalat
-        <lb n="67" break="no"/>tu vārak=ki
-        <lb n="68" break="no"/>yaṉ <hi rend="grantha">jā</hi>
-        <lb n="69" break="no"/><hi rend="grantha">da</hi>vētaṉ
-        <lb n="70"/>koṟṟaṉ vi
-        <lb n="71" break="no"/>ṟṟu tan=ta ni
-        <lb n="72" break="no"/>lam āvatu
-    </p>
-    <p>
-        I
-        <lb n="73" break="no"/>-vati<unclear>k</unclear>kē ‡
-        <lb n="74"/>mēṟ
-        <lb n="75" break="no"/>k=ku 7 Ā
-        <lb n="76" break="no"/>ṅ kaṇ
-        <lb n="77" break="no"/>ṇāṟṟu
-        <lb n="78"/><hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sa</hi>ri-vā
-        <lb n="79" break="no"/>y-k-kāluk=ku te
-        <lb n="80" break="no"/>ṟk=ku 4-Āñ cati
-        <lb n="81" break="no"/>rattu teṟk' aṭai
-        <lb n="82" break="no"/>n=ta <g type="undefined"/> <g type="undefined"/> māvil mē
-        <lb n="83" break="no"/>ṟk=k' aṭaiya 3 māvum
-        <lb n="84"/>cōḻa-cūḷā-maṇi-c-cē
-        <lb n="85" break="no"/>ri poṉṉār Aiyya
-        <lb n="86" break="no"/>ṉaṭi kaṉnara-tēva
-        <lb n="87" break="no"/>-paṭṭaṉ viṟṟu tan=ta
-        <lb n="88"/>nilam āvatu
-    </p>
-    <p>
-        Ivati
-        <lb n="89" break="no"/>k=ke mēṟk=ku 8 Āṅ
-        <lb n="90" break="no"/>kaṇṇāṟṟu <hi rend="grantha">śrī</hi>-kaṇṭa
-        <lb n="91" break="no"/>-vāy-k=-kāluk=ku teṟk<unclear>ku</unclear>
-        <lb n="92"/>2-Āñ catirattu vaṭa
-        <lb n="93" break="no"/>k=k' aṭaiya nāṉ-mā n<choice><orig>i</orig><reg>ī</reg></choice>
-        <lb n="94" break="no"/>kki Itiṉoṭum aṭai
-        <lb n="95" break="no"/>ya 2 māvum Iv-u<!--sic?-->r ma
-        <lb n="96" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <num value="300">3 <g type="numeral">100</g></num> vaṉ
-        <lb n="97"/>tiru-vēeṅkaṭam
-        <lb n="98"/>viṟṟu tan=ta ni
-        <lb n="99" break="no"/>lam āvatu
-    </p>
-    <p>        
-        <lb n="100"/>Ātit=ta-va
-        <lb n="101" break="no"/>tik=ku mēṟ
-        <lb n="102" break="no"/>k=ku Eḻāṅ ka
-        <lb n="103" break="no"/>ṇṇāṟṟu cō
-        <lb n="104" break="no"/>ḻa-cūḷā-maṇi
-        <lb n="105" break="no"/>vāy-<supplied reason="omitted">k</supplied>-kāluk=ku
-        <lb n="106"/>teṟk=ku 2‡
-        <lb n="107" break="no"/>-Āñ catirat=tu vaṭak=k' aṭai‡ya 4vum para-‡kē<hi rend="grantha">sa</hi>ri-c-cēri korovi tiru-vēṇkāṭa-<hi rend="grantha">krama</hi>vit=taṉumm ivaṉ ṟampimārum viṟṟu tan=ta nilam āvatu
-    </p>
-    <p>
-        <unclear>kāma</unclear>-tēvavatik=ku-k kiḻak=ku 5-Āṅ kaṇ
-        <lb n="108" break="no"/>ṇāṟṟu rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-vā‡y-k=-kāluk=ku ‡ teṟk=ku 3-Āñ catirat=tu mēṟk=k' aṭaiñca <g type="undefined"/> <g type="undefined"/> māvil teṟk=k' aṭaiya 3 mā māvu<unclear>m</unclear> maṉō-rama-c-cē<unclear>ri kō</unclear>ṭṭaiyūr cāvān=ti-rāma-tēva
-        <lb n="109" break="no"/>ṉ <hi rend="grantha">śrī</hi>-vā<hi rend="grantha">su-de</hi>va‡num ivaṉ ‡ tampimārum viṟṟu tan=ta nilam <unclear>mā</unclear>-tēvatik=ku kiḻak=ku Eḻāṅ kaṇṇāṟṟu rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-vāy-k=-kālu<unclear>k=ku</unclear> teṟk=ku 2 -ñ catirat=tu teṟk=k' aṭai‡
-        <lb n="110" break="no"/>ya 3 mā māvum nara-toṅka-c-cēri puḷḷa-maṅkalattu vārakkiyaṉ nārāyaṇaṉ mācēntaṉ viṟṟu tan=ta nilam mā-tēvatik=ku kiḻak=ku 1
-        <lb n="111"/>kaṇṇāṟṟu <hi rend="grantha">śrī</hi>kaṇṭa-vāyk=kāluk=ku teṟk=ku mutaṟ catirat=tu mēṟk=k' aṭaiñca <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> māvil vaṭak=k' aṭaiñca 3 mā māvil teṟk=k' aṭaiya
-        <lb n="112"/><g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
-    </p>
-    <p>
-        yāṇṭu 9-Āvatu cantirātitta-vaṟ Iṭṭa ceppu-k=-kalaiyam <num value="108"><g type="numeral">100</g> 8</num>-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
-    </p>
-
-</div>
-
-<!--<div type="apparatus">
-
-    <listApp>
-
-        <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
-        </app>
-
-    </listApp>
-
-</div>-->
-
-<!--<div type="translation" resp="part:emfr">
-
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-</div>-->
-
-<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
-
-	<p n="1-27">
-	    Succès ! Prospérité ! [En] la 9e année (de règne) du Roi Parakesarivarman,
-	    pour le mérite de Maturāntakaṉ (fils) de Kaṇṭarātittaṉ [alias] le glorieux
-	    Uttama-Cōḻa <supplied reason="explanation"><foreign>kaṇṭarātittaṉ maturāntakaṉ śrī-uttamacōḻarkkāka</foreign></supplied>, la
-	    vénérable Reine qui eut la fortune de le porter gracieusement en son sein
-	    béni <supplied reason="explanation"><foreign>ivarai-t tiru-vayiṟu vāyttaruḷiṉa uṭaiya-pirāṭṭiyār</foreign></supplied>, a acquis puis
-	    offert les terres suivantes <supplied reason="explanation"><foreign>koṇṭu kuṭutta nilamāvaṉa</foreign></supplied>
-	    au profit du
-	    Seigneur du glorieux (site de) Celūr <supplied reason="explanation"><foreign>tiru-c-celūr āḻvārkku</foreign></supplied>du vertueux
-	    village de détenteurs des quatre Veda de Rājakesarin <supplied reason="explanation"><foreign>rājagesari-ccaturvedimaṅkalattu</foreign></supplied>,
-	    afin que, chaque [jour de] <foreign>saṅkrānti</foreign> <supplied reason="explanation"><foreign>saṃkirānti
-	    tōṟum</foreign></supplied>, on accomplisse gracieusement la cérémonie du bain [avec l'eau] de
-	    cent-huit pots <supplied reason="explanation"><foreign>nūṟṟeṭṭu-k kalaicam snapanam āṭi-y-āruḷavum</foreign></supplied>, et qu'en ce
-	    jour on serve gracieusement le grand festin divin <supplied reason="explanation"><foreign>aṟṟai-nāḷāl perun-tiru-vamutu
-	    ceytaruḷavum</foreign></supplied>, que l'on vêtisse gracieusement [le Dieu] d'une paire
-	    d'étoffes divines <supplied reason="explanation"><foreign>ōraṇai tiru-p-paricaṭṭam cātti-y-aruḷavum</foreign></supplied>, ainsi que pour
-	    [la rétribution du] prêtre ayant accompli la consécration / le bain rituel
-	    <supplied reason="explanation"><foreign>abhiṣekañ ceyta nampikku</foreign></supplied> et pour la tenue du culte <supplied reason="explanation"><foreign>pūjaikkum</foreign></supplied> <gap reason="ellipsis"/>
-	</p>
-
-</div>
-
-<!--<div type="commentary"/>-->
-
-<div type="bibliography">
-
-    <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/250).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.235); edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.64); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 6), based on autopsy (2015-08).</p>
-    <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">480ff</citedRange></bibl>.</p>
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SrinivasaRao1967_01"/>
-            <citedRange unit="item">235</citedRange>
-            <citedRange unit="page">TBC</citedRange>
-        </bibl>
-        
-        <bibl n="S">
-            <ptr target="bib:Swaminathan2012_01"/>
-            <citedRange unit="part">II</citedRange>
-            <citedRange unit="page">TBC</citedRange>
-            <citedRange unit="item">64</citedRange>
-        </bibl>
-        
-        <bibl n="C">
-            <ptr target="bib:Cane2017_01"/>
-            <citedRange unit="page">791-796</citedRange>
-            <citedRange unit="item">6</citedRange>
-            <citedRange unit="figure">TBC</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1923-1924"/>
-            <citedRange unit="page">16</citedRange>
-            <citedRange unit="appendix">B/1923</citedRange>
-            <citedRange unit="item">250</citedRange>
-        </bibl>
-        
-    </listBibl>
-
-</div>
-</body>
-	</text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>svasti śrī
+                </ab>
+                
+                <p>
+                    kō-p-pa‡ra-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>ṟk=ku yā
+                    <lb n="2" break="no"/>ṇṭu <unclear>9</unclear> Āva/tu
+                </p>
+                <p>
+                    <hi rend="grantha">rāja-gesa</hi>ri-c-ca‡/
+                    <lb n="3" break="no"/>tu<hi rend="grantha">rvedi</hi>maṅka
+                    <lb n="4" break="no"/>lattu tiru-c-celū
+                    <lb n="5" break="no"/>r Āḻvārk=ku ka
+                    <lb n="6" break="no"/>ṇṭar-ātitta
+                    <lb n="7" break="no"/>ṉ maturān
+                    <lb n="8" break="no"/>takaṉ <hi rend="grantha">śrī</hi>-U
+                    <lb n="9" break="no"/>ttamacōḻar
+                    <lb n="10" break="no"/>kk-āka Ivarai-t tiru
+                    <lb n="11" break="no"/>-vayiṟu vāytt-aru
+                    <lb n="12" break="no"/>ḷiṉa Uṭaiya-pirāṭṭi
+                    <lb n="13" break="no"/>yār <hi rend="grantha">saṃ</hi>kirā
+                    <lb n="14" break="no"/>n=ti toṟumut=ta
+                    <lb n="15" break="no"/><unclear>ṭi</unclear> nūṟṟ' eṭṭu-k
+                    <lb n="16"/>kalaicam <hi rend="grantha">sna</hi>ma
+                    <lb n="17" break="no"/>nam āṭiyā<!--sic?-->ruḷa
+                    <lb n="18" break="no"/>vum Aṟṟai
+                    <lb n="19" break="no"/>nāḷāl peru
+                    <lb n="20" break="no"/>n tiru-v-amutu
+                    <lb n="21"/>ceyt-aruḷavum Ō
+                    <lb n="22" break="no"/>raṇai tiru-p-paricaṭṭa
+                    <lb n="23" break="no"/>m cātti-y-aruḷavum A
+                    <lb n="24" break="no"/><hi rend="grantha">bhiṣe</hi>kañ ceyta nam
+                    <lb n="25" break="no"/>pik=ku <hi rend="grantha">pūjai</hi>k=kum' āka-k
+                    <lb n="26" break="no"/>koṇṭu kuṭutta nila
+                    <lb n="27" break="no"/>m āvaṉa
+                </p>
+                <p>
+                    Ivv-ūr na
+                    <lb n="28" break="no"/>ra-toṅka-c-cēri pu
+                    <lb n="29" break="no"/>ḷḷa-maṅkalattu
+                    <lb n="30"/>pālāciriyaṉ <hi rend="grantha">bha</hi>ṭṭa
+                    <lb n="31" break="no"/>ṉ caṅkaraṉ pūvatta
+                    <lb n="32" break="no"/>ṉum ivaṉ tampi caṅkara
+                    <lb n="33" break="no"/>ṉ cāttaṉum ivv-iruva
+                    <lb n="34" break="no"/>rum viṟṟu-t tanta nilam ā
+                    <lb n="35" break="no"/>vaṉa
+                </p>
+                <p>
+                    Ivv-ūr nara-toṅka-va
+                    <lb n="36" break="no"/>tik=ku meṟk=ku 4 Āṅ kaṇṇā
+                    <lb n="37" break="no"/>ṟṟu <hi rend="grantha">śrī</hi>-kaṇṭa-vāy-k-kāluk=ku
+                    <lb n="38"/>teṟk=ku 3-Āñ catirattu(k) I
+                    <lb n="39" break="no"/>ḻakkaṭaiya nāṅkaḷ eṅ<unclear>ka</unclear>
+                    <lb n="40" break="no"/>ṇampi pak=kal kūṟu-peṟṟ-u
+                    <lb n="41" break="no"/>ṭaiya nīla<supplied reason="omitted">m</supplied> <g type="undefined"/> <g type="undefined"/>-m Iv-vati
+                    <lb n="42" break="no"/>kkē meṟk=ku 3 Āṅkaṇṇā‡
+                    <lb n="43" break="no"/>ṟṟu cō
+                    <lb n="44" break="no"/>ḻa-cūḷā-ma
+                    <lb n="45" break="no"/>ṇi-vāy-k=-kā
+                    <lb n="46" break="no"/>luk=ku te
+                    <lb n="47" break="no"/>ṟk=ku 1 catirattu
+                    <lb n="48"/>kiḻak=k' aṭain=ta 3 mā
+                    <lb n="49"/>māvil meṟk' aṭai
+                    <lb n="50" break="no"/>ya kūṟu-peṟṟ-uṭai
+                    <lb n="51" break="no"/>ya nilam <g type="undefined"/> <g type="undefined"/> yum
+                    <lb n="52" break="no"/>maṉōrama-c-cēri k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
+                    <lb n="53" break="no"/>maṇalūr pāratāyaṉ
+                    <lb n="54"/>paṟpaṉāpaṉ <hi rend="grantha">jā</hi>ta
+                    <lb n="55" break="no"/>vētaṉ <hi rend="grantha">brāhma</hi>ṇi
+                    <lb n="56"/>vā<hi rend="grantha">su-de</hi>vaṉ kaṇ
+                    <lb n="57" break="no"/>ṇai viṟṟu tan=ta nila
+                    <lb n="58" break="no"/>m āvatu
+                </p>
+                <p>
+                    I-vatik=kē me
+                    <lb n="59" break="no"/>ṟk=ku 2ṭāṅ kaṇṇāṟ
+                    <lb n="60" break="no"/>ṟu Iv-vāy-k-kāluk=kē
+                    <lb n="61"/>teṟk=ku 2ṭāñ catirat
+                    <lb n="62" break="no"/>tu vaṭak=k' aṭaiñca 3 mā
+                    <lb n="63" break="no"/>vil kiḻak=k' aṭaiya 2 mā
+                    <lb n="64" break="no"/>vum maṉōrama
+                    <lb n="65" break="no"/>-c-cēri nāraṇa
+                    <lb n="66" break="no"/>-maṅkalat
+                    <lb n="67" break="no"/>tu vārak=ki
+                    <lb n="68" break="no"/>yaṉ <hi rend="grantha">jā</hi>
+                    <lb n="69" break="no"/><hi rend="grantha">da</hi>vētaṉ
+                    <lb n="70"/>koṟṟaṉ vi
+                    <lb n="71" break="no"/>ṟṟu tan=ta ni
+                    <lb n="72" break="no"/>lam āvatu
+                </p>
+                <p>
+                    I
+                    <lb n="73" break="no"/>-vati<unclear>k</unclear>kē ‡
+                    <lb n="74"/>mēṟ
+                    <lb n="75" break="no"/>k=ku 7 Ā
+                    <lb n="76" break="no"/>ṅ kaṇ
+                    <lb n="77" break="no"/>ṇāṟṟu
+                    <lb n="78"/><hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sa</hi>ri-vā
+                    <lb n="79" break="no"/>y-k-kāluk=ku te
+                    <lb n="80" break="no"/>ṟk=ku 4-Āñ cati
+                    <lb n="81" break="no"/>rattu teṟk' aṭai
+                    <lb n="82" break="no"/>n=ta <g type="undefined"/> <g type="undefined"/> māvil mē
+                    <lb n="83" break="no"/>ṟk=k' aṭaiya 3 māvum
+                    <lb n="84"/>cōḻa-cūḷā-maṇi-c-cē
+                    <lb n="85" break="no"/>ri poṉṉār Aiyya
+                    <lb n="86" break="no"/>ṉaṭi kaṉnara-tēva
+                    <lb n="87" break="no"/>-paṭṭaṉ viṟṟu tan=ta
+                    <lb n="88"/>nilam āvatu
+                </p>
+                <p>
+                    Ivati
+                    <lb n="89" break="no"/>k=ke mēṟk=ku 8 Āṅ
+                    <lb n="90" break="no"/>kaṇṇāṟṟu <hi rend="grantha">śrī</hi>-kaṇṭa
+                    <lb n="91" break="no"/>-vāy-k=-kāluk=ku teṟk<unclear>ku</unclear>
+                    <lb n="92"/>2-Āñ catirattu vaṭa
+                    <lb n="93" break="no"/>k=k' aṭaiya nāṉ-mā n<choice><orig>i</orig><reg>ī</reg></choice>
+                    <lb n="94" break="no"/>kki Itiṉoṭum aṭai
+                    <lb n="95" break="no"/>ya 2 māvum Iv-u<!--sic?-->r ma
+                    <lb n="96" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <num value="300">3 <g type="numeral">100</g></num> vaṉ
+                    <lb n="97"/>tiru-vēeṅkaṭam
+                    <lb n="98"/>viṟṟu tan=ta ni
+                    <lb n="99" break="no"/>lam āvatu
+                </p>
+                <p>        
+                    <lb n="100"/>Ātit=ta-va
+                    <lb n="101" break="no"/>tik=ku mēṟ
+                    <lb n="102" break="no"/>k=ku Eḻāṅ ka
+                    <lb n="103" break="no"/>ṇṇāṟṟu cō
+                    <lb n="104" break="no"/>ḻa-cūḷā-maṇi
+                    <lb n="105" break="no"/>vāy-<supplied reason="omitted">k</supplied>-kāluk=ku
+                    <lb n="106"/>teṟk=ku 2‡
+                    <lb n="107" break="no"/>-Āñ catirat=tu vaṭak=k' aṭai‡ya 4vum para-‡kē<hi rend="grantha">sa</hi>ri-c-cēri korovi tiru-vēṇkāṭa-<hi rend="grantha">krama</hi>vit=taṉumm ivaṉ ṟampimārum viṟṟu tan=ta nilam āvatu
+                </p>
+                <p>
+                    <unclear>kāma</unclear>-tēvavatik=ku-k kiḻak=ku 5-Āṅ kaṇ
+                    <lb n="108" break="no"/>ṇāṟṟu rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-vā‡y-k=-kāluk=ku ‡ teṟk=ku 3-Āñ catirat=tu mēṟk=k' aṭaiñca <g type="undefined"/> <g type="undefined"/> māvil teṟk=k' aṭaiya 3 mā māvu<unclear>m</unclear> maṉō-rama-c-cē<unclear>ri kō</unclear>ṭṭaiyūr cāvān=ti-rāma-tēva
+                    <lb n="109" break="no"/>ṉ <hi rend="grantha">śrī</hi>-vā<hi rend="grantha">su-de</hi>va‡num ivaṉ ‡ tampimārum viṟṟu tan=ta nilam <unclear>mā</unclear>-tēvatik=ku kiḻak=ku Eḻāṅ kaṇṇāṟṟu rā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>ri-vāy-k=-kālu<unclear>k=ku</unclear> teṟk=ku 2 -ñ catirat=tu teṟk=k' aṭai‡
+                    <lb n="110" break="no"/>ya 3 mā māvum nara-toṅka-c-cēri puḷḷa-maṅkalattu vārakkiyaṉ nārāyaṇaṉ mācēntaṉ viṟṟu tan=ta nilam mā-tēvatik=ku kiḻak=ku 1
+                    <lb n="111"/>kaṇṇāṟṟu <hi rend="grantha">śrī</hi>kaṇṭa-vāyk=kāluk=ku teṟk=ku mutaṟ catirat=tu mēṟk=k' aṭaiñca <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> māvil vaṭak=k' aṭaiñca 3 mā māvil teṟk=k' aṭaiya
+                    <lb n="112"/><g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
+                </p>
+                <p>
+                    yāṇṭu 9-Āvatu cantirātitta-vaṟ Iṭṭa ceppu-k=-kalaiyam <num value="108"><g type="numeral">100</g> 8</num>-ṉāl niṟai <gap extent="unknown" reason="lost" unit="character"/>        
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                Prosperity! Fortune!
+                </p>
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+                
+                <p n="1-27">
+                    Succès ! Prospérité ! [En] la 9e année (de règne) du Roi Parakesarivarman,
+                    pour le mérite de Maturāntakaṉ (fils) de Kaṇṭarātittaṉ [alias] le glorieux
+                    Uttama-Cōḻa <supplied reason="explanation"><foreign>kaṇṭarātittaṉ maturāntakaṉ śrī-uttamacōḻarkkāka</foreign></supplied>, la
+                    vénérable Reine qui eut la fortune de le porter gracieusement en son sein
+                    béni <supplied reason="explanation"><foreign>ivarai-t tiru-vayiṟu vāyttaruḷiṉa uṭaiya-pirāṭṭiyār</foreign></supplied>, a acquis puis
+                    offert les terres suivantes <supplied reason="explanation"><foreign>koṇṭu kuṭutta nilamāvaṉa</foreign></supplied>
+                    au profit du
+                    Seigneur du glorieux (site de) Celūr <supplied reason="explanation"><foreign>tiru-c-celūr āḻvārkku</foreign></supplied>du vertueux
+                    village de détenteurs des quatre Veda de Rājakesarin <supplied reason="explanation"><foreign>rājagesari-ccaturvedimaṅkalattu</foreign></supplied>,
+                    afin que, chaque [jour de] <foreign>saṅkrānti</foreign> <supplied reason="explanation"><foreign>saṃkirānti
+                        tōṟum</foreign></supplied>, on accomplisse gracieusement la cérémonie du bain [avec l'eau] de
+                    cent-huit pots <supplied reason="explanation"><foreign>nūṟṟeṭṭu-k kalaicam snapanam āṭi-y-āruḷavum</foreign></supplied>, et qu'en ce
+                    jour on serve gracieusement le grand festin divin <supplied reason="explanation"><foreign>aṟṟai-nāḷāl perun-tiru-vamutu
+                        ceytaruḷavum</foreign></supplied>, que l'on vêtisse gracieusement [le Dieu] d'une paire
+                    d'étoffes divines <supplied reason="explanation"><foreign>ōraṇai tiru-p-paricaṭṭam cātti-y-aruḷavum</foreign></supplied>, ainsi que pour
+                    [la rétribution du] prêtre ayant accompli la consécration / le bain rituel
+                    <supplied reason="explanation"><foreign>abhiṣekañ ceyta nampikku</foreign></supplied> et pour la tenue du culte <supplied reason="explanation"><foreign>pūjaikkum</foreign></supplied> <gap reason="ellipsis"/>
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary"/>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/250).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.235); in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.64); in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 6), based on autopsy (2015-08).</p>
+                <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">480ff</citedRange></bibl>.</p>
+                <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="item">235</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="part">II</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">64</citedRange>
+                    </bibl>
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Cane2017_01"/>
+                        <citedRange unit="page">791-796</citedRange>
+                        <citedRange unit="item">6</citedRange>
+                        <citedRange unit="figure">TBC</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1923-1924"/>
+                        <citedRange unit="page">16</citedRange>
+                        <citedRange unit="appendix">B/1923</citedRange>
+                        <citedRange unit="item">250</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
 
 

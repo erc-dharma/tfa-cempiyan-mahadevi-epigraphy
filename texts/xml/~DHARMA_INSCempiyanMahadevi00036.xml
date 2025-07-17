@@ -145,7 +145,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/262).</p>
     <p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 36), based on autopsy (2015-08).</p>
     <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
     
     <listBibl type="primary">
         

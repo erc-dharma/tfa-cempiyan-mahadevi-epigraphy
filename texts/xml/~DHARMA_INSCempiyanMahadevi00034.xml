@@ -154,7 +154,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/571).</p>
     <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.617); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 34), based on autopsy (2011-09).</p>
     <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
-    <p>This edition based on <bibl><ptr target="bib:Cane2017_01"/></bibl>, encoded by Emmanuel Francis (2024).</p>
+    <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
     
     <listBibl type="primary">
         

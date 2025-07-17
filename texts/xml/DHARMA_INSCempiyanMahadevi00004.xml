@@ -312,9 +312,9 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1995-1996"/></bibl> (ARIE/1995-1996/B/1995-1996/46).</p>
-                <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.32); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4), based on autopsy (2012-08).</p>
+                <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.32); in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4), based on autopsy (2012-08).</p>
                 <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">299ff.</citedRange></bibl></p>
-                <p>This digital edition of <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 4) curated by Emmanuel Francis.</p>
+                <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     

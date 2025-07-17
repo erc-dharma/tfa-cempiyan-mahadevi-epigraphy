@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Viruttācalam, Vr̥ddhagirīśvara temple, time of Parakesarivarman, year 12</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:nica">
+                        <forename>Nicolas</forename>
+                        <surname>Cane</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCempiyanMahadevi00008</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Nicolas Cane.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Uttama-Cōḻa, 982-83 CE. Sur la <foreign>bāhyabhitti</foreign> de la face sud de l'<foreign>ardhamaṇḍapa</foreign>.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><g type="sun"/> <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-p-para-<hi rend="grantha">kesari-panma</hi><supplied reason="omitted">ṟ</supplied>ku yāṇṭu <num value="12"><g type="numeral">10</g> 2</num>-Āvatu
+                </p>
+                <p>
+                    <hi rend="grantha">śrī-pa</hi>rān=taka-<hi rend="grantha">de</hi>var-āṉa pe
+                    <lb n="2" break="no"/>riya cōḻaṉar makaṉār <hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-<hi rend="grantha">de</hi>var <hi rend="grantha">de</hi>viyār maḻa-perumāṉaṭikaḷ makaḷār
+                    <lb n="3"/><hi rend="grantha">śrī</hi>-Uttama-cōḻar taṅkaḷ ācci cempiyaṉ <hi rend="grantha">mahā-de</hi>viyārāl Eṭuppikka-p-pa
+                    <lb n="4" break="no"/><surplus>pa</surplus>ṭṭatu I-<hi rend="grantha">śrī</hi>-kōyilum <hi rend="grantha">snapa</hi>na-<hi rend="grantha">maṇḍapa</hi>mum <hi rend="grantha">gopura</hi>mum cuṟṟālaiyum <hi rend="grantha">pa</hi>rivāra-k kōyilkaḷu
+                    <lb n="5" break="no"/>m Eṭuppikka-p-paṭṭaṉa
+                </p>
+                <p>
+                    It-tēvarkku Uṭaiya-pirāṭṭiyār kuṭukka-p-paṭṭa
+                    ceppu-viḷakku Aiñcu poṟ-paṭṭam oṉṟu
+                    <lb n="6"/>kuṭiñai-k-kallāl niṟai mañcāṭi kuṟaiya 5 kaḻañcu veḷḷi-t-taḷikai Oṉṟu munnūṟṟ' eṇpatt' oṉpatiṉ kaḻañ
+                    <lb n="7" break="no"/>cu veḷḷi-k-keṇṭi nūṟṟu toṇṇūṟṟ' eṇpatiṉ kaḻañcē mu-k-kāl poṟpū Iraṇṭu niṟai kuṭiñai-k-kallāl kaḻañc' arai
+                    <lb n="8"/>kūtta-p-perumāḷ poṟ-paṭṭam kuṭiñai-k-kallāl kaḻañcu U<hi rend="grantha">mā-bha</hi>ṭṭāraki poṟṟāli kāl Iṭaikkaṭṭu m<choice><orig>u</orig><reg>ū</reg></choice>nṟun tāḷimpa<unclear>m</unclear> Iraṇṭu Iṭṭa muṭṭin pañ
+                    <lb n="9" break="no"/>ca-cari Oṉṟu poṉṉiṉ palakai veḷḷiyiṉ iṭai-k kaṭṭu Iṭṭa muttiṉ pañca-cari Oṉṟu kūtta-p-perumāḷ poṟpū Oṉṟu kuṭiñai-k-kallāl kaḻañ
+                    <lb n="10" break="no"/>cē nālu māñcāṭi U<hi rend="grantha">mā-bha</hi>ṭṭāraki y-i<unclear>tu</unclear> palakai Oru-p-pūṟa veḷḷiyiṭai-k kaṭṭu Iṭṭa pañca-cari Oṉṟu U<hi rend="grantha">mā-bha</hi>ṭṭāraki y-itu muttiṉkaḷ-āka veḷḷiyiṉ iṭai-k kaṭṭu Iṭṭa
+                    <lb n="11"/>vaṭa m<choice><orig>u</orig><reg>ū</reg></choice>nṟu muṭṭin kaḷā<unclear>ka</unclear>varam poṉṉiṉ caṉtāpa<unclear>ṉa</unclear>-k kaṭaiyun naṭuvu Iṭṭa paṭamu <gap extent="unknown" reason="lost" unit="character"/> paṉṉ-iraṇṭu <hi rend="grantha">bha</hi>ṭṭārakiyiṉ muttiṉ kutampai y-iraṇṭu
+                    <lb n="12"/>muttiṉ vaṭam iraṇṭu tāḷimpam iṭṭaṉa <hi rend="grantha">bha</hi>ṭṭārakiya tiru-k-kaiyil cāttu vaṭam iraṇṭu kūtta-p-perumāḷ tiru-kaiyil cāttu vaṭa m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu kūtta-p-perumāḷ muttiṉ kuta
+                    <lb n="13" break="no"/>mpai y-iraṇṭu kūtta-p-perumāḷ muttiṉvāḷi Oṉṟu periya tēvar poṟ-paṭṭam kuṭiñai-k-kallāl patiṉ kaḻañcu        
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:SrinivasaRao1967_01"></rdg>
+                        <rdg source="bib:Swaminathan2012_01"></rdg>
+                    </app>-->
+                    
+                    <app loc="1">
+                        <lem><g type="sun"/></lem>
+                        <note xml:lang="fra">Un symbole en forme de soleil de la taille d'un <foreign>akṣara</foreign> est placé à l'ouverture de l'épigraphe.
+                            L'a-t-on tracé en référence à la lignée solaire à laquelle appartient la reine mère Cempiyaṉ-
+                            Mahādevī ? Autant que l'on puisse en juger par nos lectures <hi rend="italic">in situ</hi> et sur estampage, ce soleil
+                            n'est associé à aucun symbole de lune. Il semble, par conséquent, ne pas avoir vocation à
+                            exprimer graphiquement l'usuelle formule <foreign>candrādityaval</foreign> (« aussi longtemps que [brilleront] la
+                            lune et le soleil »), comme c'est ordinairement le cas pour les inscriptions sur stèles (<foreign>vīrakkal</foreign> et
+                            autres <foreign>naṭukkal</foreign>).</note>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>kōppara°</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">kopara°</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem><hi rend="grantha">śrī</hi>-kaṇṭar°</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">kaṇṭar°</rdg>
+                    </app>
+                    <app loc="3">
+                        <lem>Eṭuppikkappa<lb n="4" break="no"/><surplus>pa</surplus>ṭṭatu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">Eṭuppikkap<lb n="4" break="no"/>paṭṭatu</rdg>
+                    </app>
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                Prosperity! Fortune!
+                </p>
+                </div>-->
+            
+            <!--<div type="translation" xml:lang="fra" source="bib:Cane2017_01">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary"/>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/47).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.302); in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.114); in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 8), based on autopsy (2011-09).</p>
+                <p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">496</citedRange></bibl>.</p>
+                <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="item">302</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="part">II</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">114</citedRange>
+                    </bibl>
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Cane2017_01"/>
+                        <citedRange unit="page">798-799</citedRange>
+                        <citedRange unit="item">8</citedRange>
+                        <citedRange unit="figure">TBC</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1917-1918"/>
+                        <citedRange unit="page">93</citedRange>
+                        <citedRange unit="appendix">C/1917-1918</citedRange>
+                        <citedRange unit="item">47</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
