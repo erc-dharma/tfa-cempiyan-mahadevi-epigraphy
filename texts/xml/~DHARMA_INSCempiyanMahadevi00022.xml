@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvārūr, X temple, time of X, year X</title>
+                <title>Tiruvārūr, Tyāgarājasvāmin temple, time of Rājakesarivarman, year 2</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:nica">
@@ -47,7 +47,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Rājarāja I Cōḻa, circa August 986 CE. Temple de Tyāgarājasvāmin, sanctuaire de Acaleśvara,
+                            sur la <foreign>jagatī</foreign> de la face sud de l'<foreign>ardhamaṇḍapa</foreign> (sous la niche de Gaṇeśa).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
