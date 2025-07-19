@@ -111,7 +111,7 @@
     </p>
     <p>
         I
-        <lb n="4" break="no"/><unclear>run-koḷa-p</unclear>-pāṭi neṟku<unclear>ppai</unclear>-t tiru-mutu-kuṉṟam-uṭaiya <hi rend="grantha">mahā-de</hi>vark=ku Uṭaiyār <hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-tēevar tēviyār maḻa-perumāṉaṭi‡kaḷ makaḷār
+        <lb n="4" break="no"/><unclear>run-koḷa-p</unclear>-pāṭi neṟku<unclear>ppai</unclear>-t tiru-mutu-kuṉṟam-uṭaiya <hi rend="grantha">mahā-de</hi>vark=ku Uṭaiyār <hi rend="grantha">śrī</hi>-kaṇṭar-ā<hi rend="grantha">di</hi>tta-tēvar tēviyār maḻa-perumāṉaṭi‡kaḷ makaḷār
         <lb n="5"/><hi rend="grantha">śrī</hi>-Uttama-cōḻar taṅkaḷ ācci cempiyaṉ <hi rend="grantha">mahā</hi>-tēviyār kuṭutta <hi rend="grantha">śrī</hi>-muṭi Oṉṟu<unclear>-p poṉ</unclear> <gap extent="unknown" reason="lost" unit="character"/> Oṉpa‡tiṉ kaḻañ
         <lb n="6" break="no"/>cē Oṉpatu mañcāṭiyum Eḻu māvum Itiṉuk=ku Uḷ kūṭṭaṭu veḷḷi Iru-nūṟṟu kaḻañc' araiyē nālu mañcāṭiyum muṭiyil A<unclear>ḻu</unclear>ttiṉa ‡ māṇikkamu
         <lb n="7" break="no"/>ṉṟum cuḻala-k-kaṭṭiṉa vayira-mu-p-patt' āṟum <hi rend="grantha"> śrī</hi>-muṭiyil cuḻala kottamuttu Āyirattu to<gap extent="unknown" reason="lost" unit="character"/>ttu toṇṇūṟṟu Eṭṭ‡<unclear>u</unclear>
@@ -156,7 +156,7 @@
 
 <div type="bibliography">
 
-    <!--<p>Reported in <bibl><ptr target="bib:ARIE"/></bibl> ().</p>-->
+    <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/19).</p>
     <p>Edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 43), based on ASI transcript consulted in Mysore.</p>
     <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
     <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>
@@ -172,16 +172,16 @@
         
     </listBibl>
     
-    <!--<listBibl type="secondary">
+    <listBibl type="secondary">
         
         <bibl>
-        <ptr target="bib:ARIE1891-1892"/>
-        <citedRange unit="page">17</citedRange>
-        <citedRange unit="appendix">B/1892</citedRange>
-        <citedRange unit="item">96</citedRange>
+        <ptr target="bib:ARIE1930-1931"/>
+        <citedRange unit="page">19</citedRange>
+        <citedRange unit="appendix">B/1930-1931</citedRange>
+        <citedRange unit="item">19</citedRange>
         </bibl>
         
-        </listBibl>-->
+        </listBibl>
 
 </div>
 </body>
