@@ -47,9 +47,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Uttama Cōḻa, 984-85 CE. Temple de Mācilāmaṇīśvara,
-                            sur une pierre de remploi logée dans un « mur de ciment improvisé »
-                            situé dans le <foreign>prākāra</foreign> occidental du temple.</summary>
+                        <summary>
+                            <p>Uttama Cōḻa, 984-85 CE.</p>
+                            <p><bibl><ptr target="bib:ARIE1960-1961"/></bibl>: <quote>Slab built into the improvised cement wall in the western <foreign>prākāra</foreign> of the Māśilāmaṇīśvara temple. Records the gift of a part of the <foreign>puravu</foreign> dues from the village Villipākkam in Ambattūr-nāḍu in Puḻaṟ-kōṭṭam as a <foreign>dēvadāna</foreign> for conducting services to god Tirumullaivāyil-mādēvar in Veṇṇaiyūr-nāḍu in Puḻaṟ-kōṭṭam by Śembiyaṉ mādēviyār, queen of Gaṇḍarādittapperumāḷ and daughter of Maḻavaraiyar, through her son Madhurāntakadēvar. The remaining share of the dues was allotted to god Tiruvalidāyil-dēvar in Puliyūr-kōṭṭam by the same lady.</quote></p>               
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -129,7 +130,7 @@
                 <!--<listBibl type="primary">
                     
                     
-                </listBibl>-->
+                    </listBibl>-->
                 
                 <listBibl type="secondary">
                     
@@ -139,9 +140,9 @@
                         <citedRange unit="appendix">B/1960-1961</citedRange>
                         <citedRange unit="item">282</citedRange>
                     </bibl>
-                        <ptr target="bib:Cane2017_01"/>
-                        <citedRange unit="page">804</citedRange>
-                        <citedRange unit="item">13</citedRange>
+                    <ptr target="bib:Cane2017_01"/>
+                    <citedRange unit="page">804</citedRange>
+                    <citedRange unit="item">13</citedRange>
                     
                 </listBibl>
                 
