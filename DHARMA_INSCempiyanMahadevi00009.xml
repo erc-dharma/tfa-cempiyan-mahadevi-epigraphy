@@ -8,16 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pāccil-Kōpurappaṭṭi, Avanīśvara/Amalīśvara temple, time of Parakesarivarmna, year 12</title>
+                <title>Pāccil-Kōpurappaṭṭi, Avanīśvara/Amalīśvara temple, time of Parakesarivarman, year 12</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:nica">
                         <forename>Nicolas</forename>
                         <surname>Cane</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -92,31 +89,69 @@
 
     <ab>
         
-        <lb n="1"/><hi rend="grantha">svasti srī<!--EF: sic?--></hi>
+        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
     </ab>
     <p>
         kō-p-para-kēcari-paṉmaṟku yānṭu <num value="12"><g type="numeral">10</g> 2</num>-Āvatu
     </p>
     <p>
-        maḻa-nāṭṭu-p pāccil tiru-Avani<hi rend="grantha">śva</hi>rattu<hi rend="grantha"> mahā-de</hi>vaṟku kaṇṭar-ātitta-perumāḷ tēvi‡yār cempiyaṉ <hi rend="grantha">mahā</hi>tēviy<unclear>ār</unclear>
-        <lb n="2"/>vaitta tarā nilai-viḷakk' oṉṟu niṟai mu-ṉ-ṉūṟṟu mu-p-pattu nālu niṟai Iru-nūṟṟu nāṟ-patu nilai-viḷakk' onṟu niṟai nūṟ‡ṟu toṇṇūṟu nilai-vi
+        maḻa-nāṭṭu-p pāccil tiru-Avan<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śva</hi>rattu<hi rend="grantha"> mahā-de</hi>vaṟku kaṇṭar-ātitta-perumāḷ tēvi‡yār cempiyaṉ <hi rend="grantha">mahā</hi>tēviy<unclear>ār</unclear>
+        <lb n="2"/>vaitta tarā nilai-viḷakk' oṉṟu niṟai mu-ṉ-ṉūṟṟu mu-p-pattu <add place="below">nālu n</add>iṟai Iru-nūṟṟu nāṟ-patu nilai-viḷakk' o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu niṟai nūṟ‡ṟu toṇṇūṟu nilai-vi
         <lb n="3" break="no"/>ḷakk' oṉṟu ni<unclear>ṟ</unclear>ai nūṟṟu toṇṇūṟu nilai-viḷakk' oṉṟu <supplied reason="omitted">ni</supplied>ṟai nūṟṟu toṇṇūṟu Ā<supplied reason="omitted">ka</supplied> nilai-viḷakku Uru ‡ Añcu can<hi rend="grantha"><choice><orig><unclear>t</unclear></orig><reg>d</reg></choice><unclear>rā</unclear></hi>ti<unclear>ṟṟa</unclear> <gap extent="unknown" reason="lost" unit="character"/>
     </p>
 
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 
     <listApp>
 
         <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
+            <lem source="bib:Cane2017_01"></lem>
+            <rdg source="bib:Swaminathan2012_01"></rdg>
+            <rdg source="bib:Cane2017_01"></rdg>
+        </app>
+        
+        <app loc="1">
+            <lem>śrī</lem>
+            <rdg source="bib:Cane2017_01">srī</rdg>
+        </app>
+        
+        <app loc="1">
+            <lem source="bib:Cane2017_01">°perumāḷ</lem>
+            <rdg source="bib:Swaminathan2012_01">°perumāṉ</rdg>
+        </app>        
+        
+        <app loc="2">
+            <lem source="bib:Cane2017_01">muppattu <add place="below">nālu n</add>iṟai</lem>
+            <rdg source="bib:Swaminathan2012_01">muppattu <add place="below">nālu</add> niṟai</rdg>
+            <note xml:lang="fra"><ptr target="bib:Cane2017_01"/>: <quote>le lapicide a incisé le <foreign>-nālu</foreign> (quatre) ainsi que le <foreign>n-</foreign> initial du <foreign>niṟai</foreign> suivant sous
+le <foreign>muppattu</foreign> (trente).</quote></note>
+        </app>
+        <app loc="2">
+            <lem source="bib:Cane2017_01">Irunūṟṟu</lem>
+            <rdg source="bib:Swaminathan2012_01">marunūṟṟu</rdg>
+            <note xml:lang="fra"><ptr target="bib:Cane2017_01"/>: <quote>le <foreign>i</foreign> initial de <foreign>iru-</foreign> (deux) étant clairement lisible in situ, nous écartons le <foreign>marunūṟṟu</foreign>
+donné dans SII 32: 101.</quote></note>
+        </app>
+        <app loc="2">
+            <lem source="bib:Cane2017_01">nūṟṟu toṇṇūṟu</lem>
+            <rdg source="bib:Swaminathan2012_01">nū<supplied reason="omitted">ṟ</supplied>ṟutoṇṇūṟu</rdg>
+        </app>
+        <app loc="0">
+            <lem source="bib:Cane2017_01"></lem>
+            <rdg source="bib:Swaminathan2012_01"></rdg>
+            <rdg source="bib:Cane2017_01"></rdg>
+        </app>
+        <app loc="0">
+            <lem source="bib:Cane2017_01"></lem>
+            <rdg source="bib:Swaminathan2012_01"></rdg>
+            <rdg source="bib:Cane2017_01"></rdg>
         </app>
 
     </listApp>
 
-</div>-->
+</div>
 
 <!--<div type="translation" resp="part:emfr">
 
@@ -138,7 +173,7 @@
 <div type="bibliography">
 
     <p>Reported in <bibl><ptr target="bib:ARIE1992-1993"/></bibl> (ARIE/1992-1993/B/1992-1993/419).</p>
-    <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.101); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 9), based on photos (Charlotte Schmid).</p>
+    <p>Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (<ref target="DHARMA_INSSIIv32p2i0101">SII 32.2.101</ref>); edited in <bibl><ptr target="bib:Cane2017_01"/></bibl> (no. 9), based on photos (Charlotte Schmid).</p>
     <!--<p>Commented and translated into French in <bibl><ptr target="bib:Cane2017_01"/><citedRange unit="page">...</citedRange></bibl>.</p>-->
     
     <p>This digital edition after <bibl><ptr target="bib:Cane2017_01"/></bibl>, curated by Emmanuel Francis.</p>    
