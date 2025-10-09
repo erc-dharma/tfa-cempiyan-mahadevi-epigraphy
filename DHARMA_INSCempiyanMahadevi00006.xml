@@ -47,7 +47,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Uttama Cōḻa, 979-80 CE. Sur la <foreign>bāhyabhitti</foreign> de la face ouest du <foreign>garbhagr̥ha</foreign> (de part et d'autre de la niche de la niche de Viṣṇu).</summary>
+                        <summary>
+                            Sur la <foreign>bāhyabhitti</foreign> de la face ouest du <foreign>garbhagr̥ha</foreign> (de part et d'autre de la niche de la niche de Viṣṇu).
+                            Uttama Cōḻa, 979-80 CE. 
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -254,7 +257,7 @@
                     <app loc="58">
                         <lem>I-vatik=kē</lem>
                         <note><ptr target="bib:Cane2017_01"/>: <quote>Ce <foreign>-kke</foreign> et les suivants sont notés au moyen d'une ligature (கெக) qui constitue théoriquement
-une entorse à la graphie commune, c.-à-d. le <foreign>-e-</foreign> placé entre la paire de kk (ககெ).</quote></note>
+                            une entorse à la graphie commune, c.-à-d. le <foreign>-e-</foreign> placé entre la paire de kk (ககெ).</quote></note>
                     </app>
                     
                     <app loc="109">
@@ -312,7 +315,7 @@ une entorse à la graphie commune, c.-à-d. le <foreign>-e-</foreign> placé ent
                     Les lignes 110 à 112 sont gravées sur la face supérieure du <foreign>kumuda</foreign>.
                 </p>
                 <p n="112" xml:lang="fra"><foreign>niṟai <gap extent="unknown" reason="lost" unit="character"/></foreign>. Le texte, dont les deux dernières lignes ne sont quasiment plus lisibles à l'oeil nu, semble s'arrêter ici bien que de l'espace vierge soit encore disponible sur la pierre. Il s'agit par
-conséquent très vraisemblablement d'une épigraphe inachevée.</p>
+                    conséquent très vraisemblablement d'une épigraphe inachevée.</p>
             </div>
             
             <div type="bibliography">
