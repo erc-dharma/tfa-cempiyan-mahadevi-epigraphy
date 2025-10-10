@@ -8,16 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cempiyaṉmātēvi, Kailāsanāthasvāmin temple, time of X, year X</title>
+                <title>Cempiyaṉmātēvi, Kailāsanāthasvāmin temple, time of Parakesarivarman, year 16</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:nica">
                         <forename>Nicolas</forename>
                         <surname>Cane</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>

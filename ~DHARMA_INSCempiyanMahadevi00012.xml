@@ -8,16 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vaṭa-Tirumullaivāyil, Mācilāmaṇīśvara temple, time of X, year X</title>
+                <title>Vaṭa-Tirumullaivāyil, Mācilāmaṇīśvara temple, time of Parakesarivarman Uttama Cōḻa, year 14</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:nica">
                         <forename>Nicolas</forename>
                         <surname>Cane</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -47,7 +44,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            Sur la <foreign>jagatī</foreign> de la face ouest du <foreign>garbhagr̥ha</foreign>.
+                            Uttama Cōḻa, 984-85 CE.
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -124,7 +124,7 @@
     <p>
         Iṉ-ṉilaṅ taṭiyātoṉṟu‡m peca-p ⌈‡peṟātōm ākavum</p>
     <p>
-        Ipparita<!--sic?--> viṟṟu kuṭuttōm ‡ Ampattū‡r <hi rend="grantha">mah</hi><hi rend="grantha"><unclear>ā</unclear>-sabhai</hi>yōm
+        Ippari<choice><sic>ta</sic><corr>cu</corr></choice> viṟṟu kuṭuttōm ‡ Ampattū‡r <hi rend="grantha">mah</hi><hi rend="grantha"><unclear>ā</unclear>-sabhai</hi>yōm
     </p>
     <p>
         Ivarkaḷ paṇiyāl Ivv-ūr matti<hi rend="grantha">asta</hi>ṉ cuṟṟi kaṇṭatt-aṭika<unclear>ḷ</unclear>-ēṉ I
