@@ -63,16 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -96,7 +93,7 @@
                 </ab>
                 
                 <p>
-                    kō<choice><orig>n</orig><reg>ṉ</reg></choice>-erI<g type="floret"/>ṉ<surplus>m</surplus>mai-koṇṭāṉ
+                    kō<choice><orig>n</orig><reg>ṉ</reg></choice>-erI<g ref="sym:floret" type="symbol">*</g>ṉ<surplus>m</surplus>mai-koṇṭāṉ
                     
                     maṇ<unclear>ṇi-nāṭ‡ṭu</unclear> <hi rend="grantha">prahma</hi>-tēyam taṉiyūr vempaṟṟūr <hi rend="grantha">sabhai</hi>yārkku taṅkaḷūr mutal-āy varukiṉṟa ner
                     <lb n="2" break="no"/>vāya-cem-poṉ m<choice><orig>u</orig><reg>ū</reg></choice>-v-āyirattu-t to<supplied reason="omitted">ḷ</supplied>ḷāyirat<unclear>tu-p</unclear> ‡ patiṉ kaḻañcē mu-k-kālē-y m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mañcāṭiyilum
@@ -142,7 +139,7 @@
                 <listApp>
                     
                     <app loc="1">
-                        <lem>kō<choice><orig>n</orig><reg>ṉ</reg></choice>erI<g type="floret"/>ṉ<surplus>m</surplus>mai</lem>
+                        <lem>kō<choice><orig>n</orig><reg>ṉ</reg></choice>erI<g ref="sym:floret" type="symbol">*</g>ṉ<surplus>m</surplus>mai</lem>
                         <rdg source="bib:Swaminathan2012_01">kōnerImai</rdg>
                         <note xml:lang="fra">Un tracé de fleur de la taille
                             d'un <foreign>akṣara</foreign> sépare le <foreign>i</foreign> initial du <foreign>ṉ</foreign> alvéolaire, tandis que l'<foreign>akṣara</foreign> qui précède le <foreign>mai</foreign> final, un
