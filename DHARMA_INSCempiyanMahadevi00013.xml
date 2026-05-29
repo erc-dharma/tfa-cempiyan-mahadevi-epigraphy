@@ -86,7 +86,9 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"/>                
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                <p><gap reason="ellipsis"/></p>
+            </div>                
             
             
             <!--<div type="apparatus">
