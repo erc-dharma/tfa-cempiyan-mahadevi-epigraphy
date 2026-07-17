@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Vṛddhācalam / Viruttācalam, Vr̥ddhagirīśvara temple, time of Parakesarivarman, year 12</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:nica">
                         <forename>Nicolas</forename>
                         <surname>Cane</surname>
